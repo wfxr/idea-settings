@@ -141,6 +141,9 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="vim_settings.xml" timestamp="1507791990275">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrinter.java" timestamp="1507791299205">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -165,12 +168,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507791548233">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507792329182">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="17" column="112" />
-        <mark key="]" line="18" column="100" />
-        <mark key="^" line="18" column="100" />
-        <mark key="." line="18" column="100" />
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Spout/TestWordSpout.java" timestamp="1507781883871">
         <mark key="'" line="9" column="0" />
