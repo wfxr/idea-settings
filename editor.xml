@@ -3,9 +3,7 @@
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Hack" />
     <option name="FONT_SCALE" value="1.25" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
 </application>
