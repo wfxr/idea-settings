@@ -19,11 +19,11 @@
         <mark key="^" line="26" column="62" />
         <mark key="." line="26" column="62" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParser.java" timestamp="1507783576780">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="47" />
-        <mark key="^" line="13" column="47" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParser.java" timestamp="1507784290416">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/command.kt" timestamp="1499071801727">
         <mark key="'" line="12" column="6" />
@@ -116,17 +116,18 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507783667867">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507784569888">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="69" />
+        <mark key="." line="20" column="69" />
+        <mark key="^" line="20" column="69" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1507782768240">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1507783791798">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" timestamp="1500947925998">
         <mark key="'" line="0" column="12" />
@@ -159,12 +160,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507783694373">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507784246780">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="24" column="40" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="16" column="105" />
+        <mark key="]" line="16" column="108" />
+        <mark key="^" line="16" column="108" />
+        <mark key="." line="16" column="108" />
       </file>
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Spout/TestWordSpout.java" timestamp="1507781883871">
         <mark key="'" line="9" column="0" />
@@ -301,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="17" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
       <jump line="4" column="472" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/bid/snappy.json" />
       <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
       <jump line="6" column="11" filename="$USER_HOME$/develop/zmeng/rn-pascal/rn-pascal-common/src/main/java/com/zmeng/rinascimento/pascal/common/model/ZMParam.java" />
@@ -401,63 +401,63 @@
       <jump line="20" column="7" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
       <jump line="5" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
       <jump line="12" column="46" filename="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>bid</text>
       </register>
       <register name="-" type="4">
-        <text>Bolt</text>
+        <text>bid</text>
       </register>
       <register name="/" type="4">
-        <text>rand</text>
+        <text>dsp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpZERzcFBhcnNlciBleHRlbmRzIEJhc2VSaWNoQm9sdCB7Cg==</text>
+      <register name="0" type="4">
+        <text>bid-dsp-orig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHByZXBhcmUoTWFwIHN0b3JtQ29uZiwgVG9wb2xvZ3lDb250ZXh0IGNvbnRleHQsIE91dHB1dENvbGxlY3RvciBjb2xsZWN0b3IpIHsKICAgICAgICAKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBleGVjdXRlKFR1cGxlIGlucHV0KSB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIGRlY2xhcmVPdXRwdXRGaWVsZHMoT3V0cHV0RmllbGRzRGVjbGFyZXIgZGVjbGFyZXIpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udG9wb2xvZ3kuSVJpY2hTcG91dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qY3AueG1sLmRzaWcuaW50ZXJuYWwuZG9tLlV0aWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFV0aWxzLnNsZWVwKDMwMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSB3b3JkcyA9IG5ldyBTdHJpbmdbXSB7Im5hdGhhbiIsICJtaWtlIiwgImphY2tzb24iLCAiZ29sZGEiLCAiYmVydGVscyJ9Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTG9nZ2VyIExPRyA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy5zbGVlcCgzMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2RzcC9hZHgvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>rand</last-search>
+      <last-search>dsp</last-search>
       <last-offset />
-      <last-pattern>rand</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>dsp</last-pattern>
+      <last-replace>adx</last-replace>
+      <last-substitute>dsp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metro</entry>
         <entry>args</entry>
         <entry>video</entry>
         <entry>lombok</entry>
@@ -477,6 +477,7 @@
         <entry>3</entry>
         <entry>1</entry>
         <entry>rand</entry>
+        <entry>dsp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</entry>
@@ -490,6 +491,7 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2RzcC9hZHgvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
