@@ -19,6 +19,12 @@
         <mark key="^" line="26" column="62" />
         <mark key="." line="26" column="62" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParser.java" timestamp="1507783576780">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/command.kt" timestamp="1499071801727">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="15" column="43" />
@@ -110,6 +116,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507783667867">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="46" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1507782768240">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="25" />
@@ -147,17 +159,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImeiOrMeid.java" timestamp="1504523788563">
-        <mark key="'" line="25" column="33" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507783066676">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507783694373">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Spout/TestWordSpout.java" timestamp="1507781883871">
         <mark key="'" line="9" column="0" />
@@ -240,6 +247,12 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/bolts/DspLogExplainBolt.java" timestamp="1507777966446" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507783590218">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/HashMid.java" timestamp="1504520018969">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="20" />
@@ -283,14 +296,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="50" column="92" />
       </file>
-      <file name="/fragment.java" timestamp="1507717181924">
+      <file name="/fragment.java" timestamp="1507783514036">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="21" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/bid/bid-log-no-bid.json" />
-      <jump line="18" column="35" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
-      <jump line="16" column="9" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
       <jump line="17" column="17" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
       <jump line="4" column="472" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/bid/snappy.json" />
       <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Uncompresser.kt" />
@@ -388,64 +398,49 @@
       <jump line="27" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/PrintBolt.java" />
       <jump line="24" column="35" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/TestWordSpout.java" />
       <jump line="9" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Spout/TestWordSpout.java" />
+      <jump line="20" column="7" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
+      <jump line="12" column="46" filename="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>inal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>inal</text>
+        <text>Bolt</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG5leHRUdXBsZSgpIHsKICAgICAgICBmaW5hbCBTdHJpbmdbXSB3b3JkcyA9IG5ldyBTdHJpbmdbXSB7Im5hdGhhbiIsICJtaWtlIiwgImphY2tzb24iLCAiZ29sZGEiLCAiYmVydGVscyJ9OwogICAgICAgIGZpbmFsIFJhbmRvbSByYW5kID0gbmV3IFJhbmRvbSgpOwogICAgICAgIGZpbmFsIFN0cmluZyB3b3JkID0gd29yZHNbcmFuZC5uZXh0SW50KHdvcmRzLmxlbmd0aCldOwogICAgICAgIF9jb2xsZWN0b3IuZW1pdCgid29yZCIsIG5ldyBWYWx1ZXMod29yZCkpOwogICAgICAgIF9jb2xsZWN0b3IuZW1pdCgiY291bnQiLCBuZXcgVmFsdWVzKHJhbmQubmV4dEludCgxMCkpKTsKICAgICAgICBVdGlscy5zbGVlcCgzMDAwMCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpZERzcFBhcnNlciBleHRlbmRzIEJhc2VSaWNoQm9sdCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFV0aWxzLnNsZWVwKDMwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSB3b3JkcyA9IG5ldyBTdHJpbmdbXSB7Im5hdGhhbiIsICJtaWtlIiwgImphY2tzb24iLCAiZ29sZGEiLCAiYmVydGVscyJ9Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHByZXBhcmUoTWFwIHN0b3JtQ29uZiwgVG9wb2xvZ3lDb250ZXh0IGNvbnRleHQsIE91dHB1dENvbGxlY3RvciBjb2xsZWN0b3IpIHsKICAgICAgICAKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBleGVjdXRlKFR1cGxlIGlucHV0KSB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIGRlY2xhcmVPdXRwdXRGaWVsZHMoT3V0cHV0RmllbGRzRGVjbGFyZXIgZGVjbGFyZXIpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy5zbGVlcCgzMDAwKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udG9wb2xvZ3kuSVJpY2hTcG91dDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNsYXJlci5kZWNsYXJlKG5ldyBGaWVsZHMoImxlbmd0aCIpKTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjbi5samguc3Rvcm0uaGVsbG93b3JsZDsKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qY3AueG1sLmRzaWcuaW50ZXJuYWwuZG9tLlV0aWxzOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>import java.util.Map;
-
-public class PrintBolt extends BaseRichBolt {
-    private static Logger LOG = LoggerFactory.getLogger(PrintBolt.class);
-    OutputCollector _collector;
-
-    public void prepare(Map map, TopologyContext topologyContext, OutputCollector outputCollector) {
-        _collector = outputCollector;
-    }
-
-    public void execute(Tuple tuple) {
-        LOG.info(tuple.getString(0) + &quot; Hello World!&quot;);
-        _collector.ack(tuple);
-    }
-
-    public void declareOutputFields(OutputFieldsDeclarer outputFieldsDeclarer) {
-
-    }
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFV0aWxzLnNsZWVwKDMwMDAwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udGFzay5PdXRwdXRDb2xsZWN0b3I7CmltcG9ydCBvcmcuYXBhY2hlLnN0b3JtLnRhc2suVG9wb2xvZ3lDb250ZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50ZXN0aW5nLk1rVHVwbGVQYXJhbTsKaW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udG9wb2xvZ3kuSUJhc2ljQm9sdDsKaW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udG9wb2xvZ3kuSVJpY2hCb2x0OwppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50b3BvbG9neS5JV2luZG93ZWRCb2x0OwppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50b3BvbG9neS5PdXRwdXRGaWVsZHNEZWNsYXJlcjsKaW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udG9wb2xvZ3kuYmFzZS5CYXNlUmljaEJvbHQ7CmltcG9ydCBvcmcuYXBhY2hlLnN0b3JtLnR1cGxlLlR1cGxlOwppbXBvcnQgb3JnLnNsZjRqLkxvZ2dlcjsKaW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5OwoK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSB3b3JkcyA9IG5ldyBTdHJpbmdbXSB7Im5hdGhhbiIsICJtaWtlIiwgImphY2tzb24iLCAiZ29sZGEiLCAiYmVydGVscyJ9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVdGlscy5zbGVlcCgzMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
