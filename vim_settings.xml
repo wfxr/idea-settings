@@ -51,7 +51,7 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="/Kotlin Console" timestamp="1507855968384">
+      <file name="/Kotlin Console" timestamp="1507875755672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -77,12 +77,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1507858293932">
         <mark key="'" line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507870336781">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="37" column="34" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507875849366">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.txt" timestamp="1507800206790">
         <mark key="[" line="0" column="81" />
@@ -174,10 +174,11 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507870342984">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507876392432">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -248,13 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="29" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
-      <jump line="165" column="29" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
-      <jump line="26" column="32" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="162" column="27" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="38" column="47" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="23" column="31" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="218" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="324" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="292" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="323" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
@@ -348,66 +342,69 @@
       <jump line="0" column="16" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
       <jump line="21" column="40" filename="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" />
       <jump line="18" column="89" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
+      <jump line="12" column="3" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
+      <jump line="8" column="9" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
+      <jump line="12" column="4" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="13" column="4" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="15" column="34" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="11" column="11" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRldmljZU5vZGUK</text>
       </register>
       <register name="-" type="4">
-        <text>getValues()</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRyYWN0ZWRcPg==</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIGV4dHJhY3QobGluZTogU3RyaW5nKTogTWFwPFN0cmluZywgQW55PiB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYWMgPSBkZXZpY2VOb2RlWyJtYWMiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRldmljZU5vZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYWMgPSBkZXZpY2VOb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQoK</text>
+        <text encoding="base64">ICAgIHZhbCBydCA9IGJhc2VJbmZvWyJlbGFwc2VkIG5hbm9zZWNvbmRzIl0uYXJyYXkubGFzdCgpLmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiYXNlSW5mbyA9IGNvcmVbImJhc2VJbmZvIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBydCA9IGJhc2VJbmZvWyJlbGFwc2VkIG5hbm9zZWNvbmRzIl0uYXJyYXkubGFzdCgpLmludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkZXIuc2V0Qm9sdCgiYmlkLWRzcC1wYXJzZSIsIG5ldyBCaWREc3BQYXJzZUJvbHQoKSwgMSkuc2h1ZmZsZUdyb3VwaW5nKCJiaWQtZXh0cmFjdCIpOwo=</text>
+        <text encoding="base64">Y2xhc3MgQmlkTG9nRXh0cmFjdG9yIHsKfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>25t.</text>
+        <text encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRyYWN0ZWRcPg==</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRyYWN0ZWRcPg==</last-pattern>
-      <last-replace>Response</last-replace>
-      <last-substitute>Request</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>.string</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry>e(</entry>
-        <entry>fastxml</entry>
-        <entry>fast</entry>
         <entry>faster</entry>
         <entry>jackson.version</entry>
         <entry>log4j2</entry>
@@ -424,12 +421,12 @@
         <entry>adxId</entry>
         <entry>Request</entry>
         <entry encoding="base64">XDxleHRyYWN0ZWRcPg==</entry>
+        <entry>metro</entry>
+        <entry>lat</entry>
+        <entry>mac</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</entry>
-        <entry encoding="base64">JzwsJz5zL2l0L3JlY29yZC9n</entry>
-        <entry>13t.</entry>
-        <entry encoding="base64">JzwsJz5zL2ludC9JbnRlZ2VyL2c=</entry>
         <entry encoding="base64">JzwsJz5zLykvLnRvU3RyaW5nKCkp</entry>
         <entry encoding="base64">JzwsJz5TL2UoL2VDaGFycygvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2UoL2VDaGFycygvZw==</entry>
@@ -443,6 +440,13 @@
         <entry encoding="base64">JzwsJz5zL2FkeElkL21lZGlhSWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1JlcXVlc3QvUmVzcG9uc2UvZw==</entry>
         <entry>25t.</entry>
+        <entry encoding="base64">JzwsJz5zL21ldHJvL2NpdHk=</entry>
+        <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL21hYy9tYWNNZDUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL21hYy9pZGZhL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL21hYy9pZGZhTUQ1L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
