@@ -72,11 +72,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1507858293932">
         <mark key="'" line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507859561850">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507860749504">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.txt" timestamp="1507800206790">
         <mark key="[" line="0" column="81" />
@@ -168,11 +169,12 @@
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507800696367">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507861242117">
+        <mark key="'" line="20" column="57" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/rcv/tmp.json" timestamp="1499336340228">
         <mark key="[" line="0" column="0" />
@@ -221,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="28" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
       <jump line="157" column="27" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
       <jump line="160" column="29" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
       <jump line="165" column="29" filename="$USER_HOME$/develop/zmeng/rn-pascal/pom.xml" />
@@ -321,13 +322,14 @@
       <jump line="24" column="12" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidExtractor.kt" />
       <jump line="40" column="21" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidExtractor.kt" />
       <jump line="0" column="16" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
+      <jump line="21" column="57" filename="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>hostip</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>Request</text>
@@ -336,31 +338,31 @@
         <text encoding="base64">ICAgIHZhbCBhZHhSZXF1ZXN0ID0gYmFzZUluZm9bImFkeFJlcXVlc3QiXQogICAgdmFsIGJpZFJlcXVlc3QgPSBiYXNlSW5mb1siYmlkc2VydmVyIHJlcXVlc3QiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oIm91dHB1dDogJHtyZXN1bHQufSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dQYXJzZXIuQmlkTG9nRXh0cmFjdG9yS3QuZXh0cmFjdCgic2RqZm8iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW5jaGVja2VkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQiIHRvIGNvbnRlbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbGxlY3RUaW1lIiB0byBjb2xsZWN0VGltZSwKICAgICAgICAgICAgImhvc3RJcCIgdG8gaG9zdElwLAogICAgICAgICAgICAibG9nVGltZSIgdG8gbG9nVGltZSwKICAgICAgICAgICAgImxvZ0lkIiB0byBsb2dJZCwKICAgICAgICAgICAgImFkeElkIiB0byBhZHhJZCwKICAgICAgICAgICAgIm1lZGlhSWQiIHRvIG1lZGlhSWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNsb2p1cmUubGFuZy5PYmo7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJob3N0SXAiIHRvIGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4oIm91dHB1dDogJHtyZXN1bHQufSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXAgPSBoYXNoTWFwT2YoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1JlcXVlc3QvUmVzcG9uc2UvZw==</text>
