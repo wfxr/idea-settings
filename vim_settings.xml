@@ -84,6 +84,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="47" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/salomonbrys/kotson/kotson/2.5.0/kotson-2.5.0-sources.jar!/com/github/salomonbrys/kotson/Properties.kt" timestamp="1507880493625" />
       <file name="$USER_HOME$/develop/zmeng/serialize-test/pom.xml" timestamp="1500975924891">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="40" />
@@ -159,10 +160,11 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507879814354">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507881210411">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -170,7 +172,6 @@
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
       </file>
-      <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/bolts/DspLogExplainBolt.java" timestamp="1507879228176" />
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507877421573">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="112" />
@@ -194,6 +195,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Bolt/ExclamationBolt.java" timestamp="1507880192033" />
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507870088023">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="21" />
@@ -336,11 +338,11 @@
       <jump line="18" column="14" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdC4K</text>
+      <register name="&quot;" type="4">
+        <text>JsonElement</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>JsonElement</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
@@ -348,29 +350,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBnZW8gPSBHZW9JbmZvKG1ldHJvQ29kZSwgY2l0eUNvZGUsIGxhdCwgbG9uKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdC4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGltcE5vZGUuYnlBcnJheSB7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImltcHMiIHRvIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbXBOb2RlID0gcmVxdWVzdFsiaW1wcyJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImltcHMiIHRvIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbXBOb2RlID0gcmVxdWVzdFsiaW1wcyJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCiAgICB2YWwgZ2VvID0gZ2VvSW5mb1BhcnNlcihnZW9Ob2RlKQo=</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCiAgICB2YWwgZ2VvID0gZ2VvSW5mb1BhcnNlcihnZW9Ob2RlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
