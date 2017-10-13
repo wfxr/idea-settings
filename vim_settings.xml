@@ -160,11 +160,11 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507881210411">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="33" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507882878981">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -338,44 +338,44 @@
       <jump line="18" column="14" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>JsonElement</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>JsonElement</text>
+        <text>native</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW8gPSBHZW9JbmZvKG1ldHJvQ29kZSwgY2l0eUNvZGUsIGxhdCwgbG9uKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNbImFkVHlwZSJdID0gIm5hdGl2ZSIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGltcE5vZGUuYnlBcnJheSB7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdC4K</text>
+        <text encoding="base64">ICAgIHVubGVzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImltcHMiIHRvIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbXBOb2RlID0gcmVxdWVzdFsiaW1wcyJdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCiAgICB2YWwgZ2VvID0gZ2VvSW5mb1BhcnNlcihnZW9Ob2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB0byBtaW5kdXJhdGlvbiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0cmluZy9udWxsU3RyaW5nL2dj</text>
