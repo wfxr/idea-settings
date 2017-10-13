@@ -77,12 +77,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar!/com/google/gson/JsonPrimitive.java" timestamp="1507858293932">
         <mark key="'" line="63" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507864516869">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507870336781">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="51" column="24" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="34" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="37" column="34" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.txt" timestamp="1507800206790">
         <mark key="[" line="0" column="81" />
@@ -174,6 +174,11 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507870342984">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
         <mark key="]" line="0" column="6290" />
@@ -185,6 +190,11 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/Utils.kt" timestamp="1507870295036">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/rcv/tmp.json" timestamp="1499336340228">
         <mark key="[" line="0" column="0" />
@@ -198,7 +208,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507869045533">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507870088023">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="21" />
         <mark key="^" line="35" column="24" />
@@ -340,8 +350,8 @@
       <jump line="18" column="89" filename="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getValues()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>getValues()</text>
@@ -350,34 +360,34 @@
         <text encoding="base64">XDxleHRyYWN0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiYmlkLWV4dHJhY3RlZDogIiArIGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkLWV4dHJhY3RlZCIpKTsKICAgICAgICBfY29sbGVjdG9yLmFjayhpbnB1dCk7Cg==</text>
+        <text encoding="base64">ZnVuIGV4dHJhY3QobGluZTogU3RyaW5nKTogTWFwPFN0cmluZywgQW55PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkZXIuc2V0Qm9sdCgiYmlkLWRzcC1wYXJzZSIsIG5ldyBCaWREc3BQYXJzZUJvbHQoKSwgMSkuc2h1ZmZsZUdyb3VwaW5nKCJiaWQtZXh0cmFjdCIpOwo=</text>
+        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiYmlkLWV4dHJhY3RlZDogIiArIGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkLWV4dHJhY3RlZCIpKTsK</text>
+        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE9iamVjdCBtZXRhSW5mbyA9IGlucHV0LmdldFZhbHVlQnlGaWVsZCgibWV0YUluZm8iKTsKLy8gICAgICAgIE9iamVjdCBiaWRSZXF1ZXN0ID0gaW5wdXQuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXF1ZXN0Iik7Ci8vICAgICAgICBPYmplY3QgYmlkUmVzcG9uc2UgPSBpbnB1dC5nZXRWYWx1ZUJ5RmllbGQoImJpZFJlc3BvbnNlIik7Ci8vICAgICAgICBfY29sbGVjdG9yLmVtaXQoaW5wdXQsIG5ldyBWYWx1ZXMoCi8vICAgICAgICAgICAgICAgIG1ldGFJbmZvLAovLyAgICAgICAgICAgICAgICBiaWRSZXF1ZXN0LAovLyAgICAgICAgICAgICAgICBiaWRSZXNwb25zZQovLyAgICAgICAgKSk7CiAgICAgICAgX2NvbGxlY3Rvci5hY2soaW5wdXQpOwo=</text>
+        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgbWV0YUluZm8gPSA7Cg==</text>
+        <text encoding="base64">dmFsIHNkZiA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIikKdmFsIGdzb24gPSBHc29uQnVpbGRlcigpLmVuYWJsZUNvbXBsZXhNYXBLZXlTZXJpYWxpemF0aW9uKCkuc2V0UHJldHR5UHJpbnRpbmcoKS5jcmVhdGUoKSEhCmZ1biBTdHJpbmcucGFyc2VBc0pzb24oKTogSnNvbkVsZW1lbnQgPSBKc29uUGFyc2VyKCkucGFyc2UodGhpcykKZnVuIFN0cmluZy5wYXJzZUFzRGF0ZSgpOiBEYXRlID0gc2RmLnBhcnNlKHRoaXMpCmZ1biBNYXA8KiwgKj4uZHVtcEFzSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiYmlkUmVxdWVzdDogIiArIGJpZFJlcXVlc3QpOwogICAgICAgIExPRy5pbmZvKCJiaWRSZXNwb25zZTogIiArIGJpZFJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgYmlkUmVxdWVzdCA9IGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkUmVxdWVzdCIpOwogICAgICAgIE9iamVjdCBiaWRSZXNwb25zZSA9IGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkUmVzcG9uc2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNsYXJlci4K</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkZXIuc2V0Qm9sdCgiYmlkLWRzcC1wYXJzZSIsIG5ldyBCaWREc3BQYXJzZUJvbHQoKSwgMSkuc2h1ZmZsZUdyb3VwaW5nKCJiaWQtZXh0cmFjdCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>25t.</text>
