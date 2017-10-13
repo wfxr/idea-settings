@@ -38,18 +38,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Spout/TestWordSpout.java" timestamp="1507781883871">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="37" column="46" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507869917471">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="22" column="47" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507877853853">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="/Kotlin Console" timestamp="1507875755672">
         <mark key="[" line="0" column="0" />
@@ -143,18 +136,14 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1507878991333">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrinterBolt.java" timestamp="1507865933234">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Parser.kt" timestamp="1507799123829">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiTest.java" timestamp="1504518673947">
         <mark key="[" line="7" column="44" />
@@ -162,7 +151,7 @@
         <mark key="." line="7" column="60" />
         <mark key="^" line="7" column="60" />
       </file>
-      <file name="/fragment.kt" timestamp="1507857400153">
+      <file name="/fragment.kt" timestamp="1507877197043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -174,11 +163,11 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507876392432">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507878433223">
+        <mark key="'" line="30" column="48" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -186,11 +175,11 @@
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507869786918">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507877421573">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="112" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/Utils.kt" timestamp="1507870295036">
         <mark key="[" line="8" column="0" />
@@ -249,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="292" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
-      <jump line="323" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="22" column="25" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/pom.xml" />
       <jump line="40" column="26" filename="$USER_HOME$/rn-pascal/pom.xml" />
@@ -349,64 +335,72 @@
       <jump line="13" column="4" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="15" column="34" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="11" column="11" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="21" column="34" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="30" column="48" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRldmljZU5vZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hash</text>
+        <text>fun</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWMgPSBkZXZpY2VOb2RlWyJtYWMiXQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGV4dHJhY3RlZCA9IExvZ1BhcnNlci5CaWRMb2dFeHRyYWN0b3JLdC5leHRyYWN0KGlucHV0LmdldFN0cmluZ0J5RmllbGQoImJpZC1vcmlnIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRldmljZU5vZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYWMgPSBkZXZpY2VOb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBydCA9IGJhc2VJbmZvWyJlbGFwc2VkIG5hbm9zZWNvbmRzIl0uYXJyYXkubGFzdCgpLmludAo=</text>
+        <text encoding="base64">ICAgIHZhbCBnZW8gPSBtYXBPZigKICAgICAgICAgICAgIm1ldHJvQ29kZSIgdG8gbWV0cm9Db2RlCiAgICApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBiYXNlSW5mbyA9IGNvcmVbImJhc2VJbmZvIl0K</text>
+      <register name="6" type="4">
+        <text>mapOf(
+            &quot;mac&quot; to mac,
+            &quot;md5mac&quot; to md5mac,
+            &quot;idfa&quot; to idfa,
+            &quot;md5idfa&quot; to md5idfa,
+            &quot;imei&quot; to imei,
+            &quot;md5imei&quot; to md5imei
+    )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBydCA9IGJhc2VJbmZvWyJlbGFwc2VkIG5hbm9zZWNvbmRzIl0uYXJyYXkubGFzdCgpLmludAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0uc2hhZGUub3JnLmFwYWNoZS5jb21tb25zLmxhbmcuYnVpbGRlci5TdGFuZGFyZFRvU3RyaW5nU3R5bGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQmlkTG9nRXh0cmFjdG9yIHsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm9zIiB0byBvcywKICAgICAgICAgICAgImlwIiB0byBvcywK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</text>
+        <text encoding="base64">JzwsJz5zL3N0cmluZy9udWxsU3RyaW5nL2dj</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>string</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
-      <last-replace>.string</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>string</last-pattern>
+      <last-replace>nullString</last-replace>
+      <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>faster</entry>
-        <entry>jackson.version</entry>
         <entry>log4j2</entry>
         <entry>spring</entry>
         <entry>redis.version</entry>
@@ -425,10 +419,10 @@
         <entry>lat</entry>
         <entry>mac</entry>
         <entry>$</entry>
+        <entry>String</entry>
+        <entry>string</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLykvLnRvU3RyaW5nKCkp</entry>
-        <entry encoding="base64">JzwsJz5TL2UoL2VDaGFycygvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2UoL2VDaGFycygvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
@@ -447,6 +441,8 @@
         <entry encoding="base64">JzwsJz5zL21hYy9pZGZhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL21hYy9pZGZhTUQ1L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyQvLnN0cmluZy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1N0cmluZy9TdHJpbmc/L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmluZy9udWxsU3RyaW5nL2dj</entry>
       </history-cmd>
       <history-expr />
       <history-input />
