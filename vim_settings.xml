@@ -33,18 +33,18 @@
         <mark key="^" line="18" column="96" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507885462942">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="36" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507891146149">
+        <mark key="[" line="1" column="271" />
+        <mark key="]" line="1" column="271" />
+        <mark key="." line="1" column="271" />
+        <mark key="^" line="1" column="13075" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507877853853">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507890546291">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
       </file>
       <file name="/Kotlin Console" timestamp="1507875755672">
         <mark key="[" line="0" column="0" />
@@ -160,18 +160,22 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507888895646">
-        <mark key="'" line="45" column="44" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="49" />
-        <mark key="." line="47" column="49" />
-        <mark key="^" line="47" column="49" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507891432489">
+        <mark key="'" line="41" column="67" />
+        <mark key="[" line="37" column="68" />
+        <mark key="]" line="37" column="68" />
+        <mark key="." line="37" column="68" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
         <mark key="]" line="0" column="6290" />
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Entity/BidLogInfo.kt" timestamp="1507890037234">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/logexplain/LogExplain.java" timestamp="1507886531683" />
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507877421573">
@@ -205,16 +209,18 @@
         <mark key="^" line="40" column="22" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" timestamp="1507888162355">
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" timestamp="1507890820541">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="356" column="1" />
         <mark key="." line="356" column="1" />
         <mark key="^" line="356" column="1" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrintBolt.java" timestamp="1507869872748">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrintBolt.java" timestamp="1507890590908">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Hello.kt" timestamp="1499227710603">
         <mark key="[" line="15" column="0" />
@@ -239,11 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="20" filename="$USER_HOME$/rn-pascal/rn-pascal-rcv/src/main/resources/base/ctx-redis.xml" />
-      <jump line="29" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-rcv/src/main/resources/base/ctx-redis.xml" />
-      <jump line="23" column="28" filename="$USER_HOME$/rn-pascal/rn-pascal-rcv/src/main/resources/base/ctx-redis.xml" />
-      <jump line="19" column="10" filename="$USER_HOME$/rn-pascal/rn-pascal-rcv/src/main/resources/base/ctx-db.xml" />
-      <jump line="136" column="42" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="15" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="184" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="181" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
@@ -333,79 +334,78 @@
       <jump line="13" column="21" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="5" column="26" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
-      <jump line="37" column="12" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="129" column="20" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" />
       <jump line="175" column="4" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" />
       <jump line="36" column="12" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
-      <jump line="45" column="44" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="39" column="46" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="45" column="60" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="47" column="20" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="37" column="12" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="48" column="67" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="27" column="30" filename="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duration</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>duration</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ideaidea</text>
+        <text>ideaA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVuaXRJZCA9IGlkZWFOb2RlWyJ1bml0SWQiXQo=</text>
+      <register name="0" type="4">
+        <text>&quot;adxName\&quot;:\&quot;feifan-iqiyi\&quot;,\&quot;adxId\&quot;:23,\&quot;mediaId\&quot;:3,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFzc2V0Tm9kZSA9IGlkZWFOb2RlWyJhc3NldFR5cGUiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndpZHRoIiB0byBpQXNzZXROb2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpQXNzZXROb2RlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFzc2V0VHlwZSA9IGlkZWFOb2RlWyJhc3NldFR5cGUiXQo=</text>
+        <text encoding="base64">eyJfX3RpbWVfXyI6IDE1MDcyMDQ3NDQsIl9fdG9waWNfXyI6ICIiLCJfX3NvdXJjZV9fIjogIjEwLjE0NC4xMTIuMjAxIiwiY29udGVudCI6ICIyMDE3LTEwLTA1IDE5OjU5OjA0Ljk0NAkJIElORk8JaHR0cC1uaW8tODA4MC1leGVjLTQJSGFuZGxlVGltZUZpbHRlciAtIHtcImxvZ0lkXCI6XCI3NTU3OTZjM2JhMjc0ZWI1OTgyOWQzMGFlMjllMjU5YVwiLFwiYmFzZUluZm9cIjp7XCJhZHhOYW1lXCI6XCJmZWlmYW4taXFpeWlcIixcImFkeElkXCI6MjMsXCJtZWRpYUlkXCI6MyxcImFkeFJlcXVlc3RcIjpcIntcXFwiaWRcXFwiOiBcXFwiYzRlODEyNjNhMWFmMDRiMmE0Y2RiMWJiNTk0MTZkNjVcXFwiLFxcXCJ1c2VyXFxcIjoge1xcXCJpZFxcXCI6IFxcXCI3OWNjNTRlZjdjZDM5MzZlZWRiNzkyZmQwNDZmNzk4OVxcXCIsIFxcXCIzXFxcIjogWzEsIDE1LCA2XX0sXFxcInNpdGVcXFwiOiB7XFxcImlkXFxcIjogMSxcXFwiY29udGVudFxcXCI6IHtcXFwidGl0bGVcXFwiOiBcXFwi5b+r5LmQ5Ye65aWH6JuLIDIwMTYxMDI5IOiKreavlOWFrOS4u+eyvueBtemrmOS4reWHuuWlh+ibi1xcXCIsXFxcInVybFxcXCI6IFxcXCJ3d3cuaXFpeWkuY29tXFxcIixcXFwia2V5d29yZFxcXCI6IFtcXFwiNC025bKB55uK5pm656ul6K+dXFxcIixcXFwi5bCR5YS/5Y2h6YCaXFxcIixcXFwi57G75Z6LXFxcIixcXFwi546p5YW3XFxcIixcXFwi5Lqy5a2QXFxcIixcXFwiNy0xMOWygVxcXCIsXFxcIuWkp+mZhlxcXCIsXFxcIuaAp+WIq+WAvuWQkVxcXCIsXFxcIuS6suWtkFxcXCIsXFxcIuivreenjVxcXCIsXFxcIuWwkeWEv+e7vOiJulxcXCIsXFxcIuaXqeaVmVxcXCIsXFxcIjAtM+WygVxcXCIsXFxcIuWls+WtqeWWnOasolxcXCIsXFxcIuWFtuS7llxcXCIsXFxcIuS4u+mimFxcXCIsXFxcIjQtNuWygVxcXCIsXFxcIueUt+WtqeWWnOasolxcXCIsXFxcIuWQr+iSmeexu+Wei1xcXCIsXFxcIuW5tOm+hOautVxcXCIsXFxcIuWcsOWMulxcXCIsXFxcIuWbveivrVxcXCJdLFxcXCJsZW5cXFwiOiAyNTAsXFxcImFsYnVtX2lkXFxcIjogMjAzNzY3MjAxLFxcXCJjaGFubmVsX2lkXFxcIjogMTV9fSxcXFwiZGV2aWNlXFxcIjoge1xcXCJpcFxcXCI6IFxcXCIzNi4xNDkuMTA3LjYxXFxcIixcXFwiZ2VvXFxcIjoge1xcXCJjb3VudHJ5XFxcIjogODYsXFxcIm1ldHJvXFxcIjogODYzMixcXFwiY2l0eVxcXCI6IDg2MzIxMH0sXFxcImNvbm5lY3Rpb25fdHlwZVxcXCI6IDIsXFxcInBsYXRmb3JtX2lkXFxcIjogMzMsXFxcImFuZHJvaWRfaWRcXFwiOiBcXFwiNzQwMWE2NmFkYzAwZDdhMlxcXCIsXFxcIm1vZGVsXFxcIjogXFxcInZpdm8gWDZEXFxcIixcXFwib3NcXFwiOiBcXFwiYW5kcm9pZFxcXCIsXFxcIm9zX3ZlcnNpb25cXFwiOiBcXFwiNS4xXFxcIiwgXFxcIjI0XFxcIjogW1xcXCI4LjkuNVxcXCJdfSxcXFwiaW1wXFxcIjogW3tcXFwiaWRcXFwiOiBcXFwiMFxcXCIsXFxcInZpZGVvXFxcIjoge1xcXCJhZF96b25lX2lkXFxcIjogMTAwMDAwMDAwMDY2MyxcXFwibGluZWFyaXR5XFxcIjogMixcXFwicHJvdG9jb2xcXFwiOiAzLFxcXCJhZF90eXBlXFxcIjogMTAsXFxcInZpZGVvX3N0YXJ0ZGVsYXlcXFwiOiAxODB9LFxcXCJiaWRmbG9vclxcXCI6IDUwLFxcXCJjYW1wYWlnbl9pZFxcXCI6IDgxMDAwMzQwfV19XCIsXCJiaWRzZXJ2ZXIgcmVxdWVzdFwiOntcImxvZ0lkXCI6XCI3NTU3OTZjM2JhMjc0ZWI1OTgyOWQzMGFlMjllMjU5YVwiLFwicmVxSWRcIjpcImM0ZTgxMjYzYTFhZjA0YjJhNGNkYjFiYjU5NDE2ZDY1XCIsXCJhZHhcIjpcIkFEWF9GRUlGQU5cIixcImltcHNcIjpbe1wiaWRcIjpcIjBcIixcImJhbm5lclwiOm51bGwsXCJuYXRpdmVBZFwiOm51bGwsXCJ2aWRlb1wiOm51bGwsXCJiaWRmbG9vclwiOjUwfV0sXCJ1c2VyXCI6bnVsbCxcImFwcFwiOm51bGwsXCJzaXRlXCI6bnVsbCxcInRlc3RcIjpudWxsLFwidHJhY2tcIjpmYWxzZSxcInRtYXhcIjpudWxsLFwiZGV2aWNlXCI6e1widWFcIjpudWxsLFwiZ2VvXCI6e1wibGF0XCI6bnVsbCxcImxvblwiOm51bGwsXCJ0eXBlXCI6bnVsbCxcImNvdW50cnlcIjowLFwibWV0cm9cIjozMjAwMDAsXCJjaXR5XCI6MzIxMzAwfSxcImlwXCI6XCIzNi4xNDkuMTA3LjYxXCIsXCJkZXZpY2VUeXBlXCI6XCJERVZJQ0VfVFlQRV9QSE9ORVwiLFwib3NcIjpcIk9TX0FORFJPSURcIixcImNhcnJpZXJcIjpcIkNBUlJJRVJfVU5LTk9XTlwiLFwiY29ubmVjdGlvblR5cGVcIjpcIkNPTk5fV0lGSVwiLFwiYWR2aWV3VHlwZVwiOlwiQURWSUVXX1RZUEVfQVBQXCIsXCJtYWNcIjpudWxsLFwibWFjTUQ1XCI6bnVsbCxcImlkZmFcIjpudWxsLFwiaWRmYU1ENVwiOm51bGwsXCJpbWVpXCI6bnVsbCxcImltZWlNRDVcIjpcIjc5Y2M1NGVmN2NkMzkzNmVlZGI3OTJmZDA0NmY3OTg5XCIsXCJ1bmtvd25UeXBlRGV2aWNlaWRzXCI6bnVsbCxcImFsbERldmljZUlkc1wiOltcIjc5Y2M1NGVmN2NkMzkzNmVlZGI3OTJmZDA0NmY3OTg5XCJdfSxcImNvb2tpZUlkc1wiOltdLFwibWVkaWFcIjpcIk1FRElBX0lRSVlJXCJ9LFwiYmlkc2VydmVyIHJlc3BvbnNlXCI6e1wiYmlkZGluZ1Jlc3BvbnNlXCI6e1wiZmlsdGVyZWRVbml0c1wiOltdLFwibWVyZ2VyZWRVbml0c1wiOltdLFwidHJpZ2dlcmVkVW5pdHNcIjp7fSxcInRyaWdnZXJlZElkZWFzXCI6e319LFwiaWRcIjpudWxsLFwic2VhdGJpZFwiOltdLFwiYmlkaWRcIjpudWxsLFwidHJhY2tJbmZvXCI6bnVsbH0sXCJhZHhSZXNwb25zZVwiOlwie1xcXCJpZFxcXCI6IFxcXCJjNGU4MTI2M2ExYWYwNGIyYTRjZGIxYmI1OTQxNmQ2NVxcXCJ9XCIsXCJlbGFwc2VkIG5hbm9zZWNvbmRzXCI6WzMzOSwzMDA4Mzc5LDE4MTU0LDE2MDg1MSwyNTIsMjA0LDIxMywyMTgsMzQyLDM1MDMxNzRdfX0ifQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFzc2V0Tm9kZSA9IGlkZWFOb2RlWyJhc3NldHMiXQo=</text>
+        <text encoding="base64">aW1wb3J0IGNsb2p1cmUubGFuZy5PYmo7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
+        <text encoding="base64">Ly9kYXRhIGNsYXNzIEltcEluZm8oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFzc2V0VHlwZSA9IGlkZWFOb2RlWyJhc3NldFR5cGUiXQo=</text>
+        <text encoding="base64">CmRhdGEgY2xhc3MgRGV2aWNlSW5mbyh2YWwgb3M6IFN0cmluZz8sIHZhbCBpcDogU3RyaW5nPywKICAgICAgICAgICAgICAgICAgICAgIHZhbCBtYWM6IFN0cmluZz8sIHZhbCBtZDVtYWM6IFN0cmluZz8sCiAgICAgICAgICAgICAgICAgICAgICB2YWwgaWRmYTogU3RyaW5nPywgdmFsIG1kNWlkZmE6IFN0cmluZz8sCiAgICAgICAgICAgICAgICAgICAgICB2YWwgaW1laTogU3RyaW5nPywgdmFsIG1kNWltZWk6IFN0cmluZz8pCgpkYXRhIGNsYXNzIEdlb0luZm8odmFsIG1ldHJvQ29kZTogSW50PywgdmFsIGNpdHlDb2RlOiBJbnQ/LAogICAgICAgICAgICAgICAgICAgdmFsIGxhdDogRG91YmxlPywgdmFsIGxvbjogRG91YmxlPykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGJpZGRpbmcgPSAhc2VhdGJpZE5vZGUuaXNKc29uTnVsbAovLyAgICBpZiAoYmlkZGluZykgewovLyAgICAgICAgc2VhdGJpZE5vZGVbImJpZCJdLmFycmF5LmZvckVhY2ggewovLwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2lkZWFpZGVhL2lkZWFJZGVhL2c=</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>ideaidea</last-search>
+      <last-search>ideaA</last-search>
       <last-offset />
-      <last-pattern>ideaidea</last-pattern>
-      <last-replace>ideaIdea</last-replace>
-      <last-substitute>ideaidea</last-substitute>
+      <last-pattern>ideaA</last-pattern>
+      <last-replace>iA</last-replace>
+      <last-substitute>ideaA</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rand</entry>
-        <entry>dsp</entry>
-        <entry>\\t</entry>
-        <entry>init</entry>
-        <entry>adxId</entry>
         <entry>Request</entry>
         <entry encoding="base64">XDxleHRyYWN0ZWRcPg==</entry>
         <entry>metro</entry>
         <entry>lat</entry>
         <entry>mac</entry>
-        <entry>$</entry>
         <entry>String</entry>
         <entry>string</entry>
         <entry>banner</entry>
@@ -415,16 +415,14 @@
         <entry>unit</entry>
         <entry>ideaNode</entry>
         <entry>ideaidea</entry>
+        <entry>$</entry>
+        <entry encoding="base64">dmFsIA==</entry>
+        <entry encoding="base64">ID0=</entry>
+        <entry>=</entry>
+        <entry>ideaI</entry>
+        <entry>ideaA</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RzcC9hZHgvZw==</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>%s/\\t/\t/g</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zL2FkeElkL21lZGlhSWQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1JlcXVlc3QvUmVzcG9uc2UvZw==</entry>
-        <entry>25t.</entry>
-        <entry encoding="base64">JzwsJz5zL21ldHJvL2NpdHk=</entry>
         <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL21hYy9tYWNNZDUvZw==</entry>
@@ -437,6 +435,14 @@
         <entry encoding="base64">JzwsJz5zL3VuaXQvdXNlci9n</entry>
         <entry encoding="base64">JzwsJz5zL2lkZWFOb2RlL2lkZWFpZGVhTm9kZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2lkZWFpZGVhL2lkZWFJZGVhL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLm51bGxJbnQ=</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3ZhbCAvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLyA9LyIgPS9n</entry>
+        <entry encoding="base64">JzwsJz5zLz0vdG8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2lkZWFJL2lJL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2lkZWFBL2lBL2c=</entry>
+        <entry>s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
