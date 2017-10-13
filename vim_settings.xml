@@ -27,11 +27,11 @@
       <file name="/a.dummy" timestamp="1507865906962">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507869160793">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507879262290">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="18" column="96" />
-        <mark key="." line="19" column="38" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507807285759">
         <mark key="[" line="1" column="0" />
@@ -76,10 +76,6 @@
         <mark key="]" line="35" column="21" />
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="21" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.txt" timestamp="1507800206790">
-        <mark key="[" line="0" column="81" />
-        <mark key="]" line="0" column="6517" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidExtractor.kt" timestamp="1507859483238">
         <mark key="'" line="40" column="21" />
@@ -136,7 +132,7 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507878991333">
+      <file name="/Dummy.txt" timestamp="1507878999202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrinterBolt.java" timestamp="1507865933234">
@@ -163,11 +159,10 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507878433223">
-        <mark key="'" line="30" column="48" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507879814354">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -175,6 +170,7 @@
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
       </file>
+      <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/bolts/DspLogExplainBolt.java" timestamp="1507879228176" />
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507877421573">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="112" />
@@ -238,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="22" column="25" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/pom.xml" />
       <jump line="40" column="26" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="227" column="23" filename="$USER_HOME$/rn-pascal/pom.xml" />
@@ -333,58 +328,52 @@
       <jump line="8" column="9" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" />
       <jump line="12" column="4" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="13" column="4" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
-      <jump line="15" column="34" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="11" column="11" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="21" column="34" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="30" column="48" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="18" column="14" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC4K</text>
       </register>
       <register name="-" type="4">
-        <text>fun</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>string</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGV4dHJhY3RlZCA9IExvZ1BhcnNlci5CaWRMb2dFeHRyYWN0b3JLdC5leHRyYWN0KGlucHV0LmdldFN0cmluZ0J5RmllbGQoImJpZC1vcmlnIikpOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBnZW8gPSBHZW9JbmZvKG1ldHJvQ29kZSwgY2l0eUNvZGUsIGxhdCwgbG9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImltcHMiIHRvIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbXBOb2RlID0gcmVxdWVzdFsiaW1wcyJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW8gPSBtYXBPZigKICAgICAgICAgICAgIm1ldHJvQ29kZSIgdG8gbWV0cm9Db2RlCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>mapOf(
-            &quot;mac&quot; to mac,
-            &quot;md5mac&quot; to md5mac,
-            &quot;idfa&quot; to idfa,
-            &quot;md5idfa&quot; to md5idfa,
-            &quot;imei&quot; to imei,
-            &quot;md5imei&quot; to md5imei
-    )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCiAgICB2YWwgZ2VvID0gZ2VvSW5mb1BhcnNlcihnZW9Ob2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0uc2hhZGUub3JnLmFwYWNoZS5jb21tb25zLmxhbmcuYnVpbGRlci5TdGFuZGFyZFRvU3RyaW5nU3R5bGUK</text>
+        <text encoding="base64">ICAgIHZhbCBkZXZpY2UgPSBkZXZpY2VJbmZvUGFyc2VyKGRldmljZU5vZGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm9zIiB0byBvcywKICAgICAgICAgICAgImlwIiB0byBvcywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0cmluZy9udWxsU3RyaW5nL2dj</text>
