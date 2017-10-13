@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   </codeStyleSettings>
