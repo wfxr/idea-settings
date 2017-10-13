@@ -160,7 +160,7 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507883695557">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1507884555787">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
@@ -189,8 +189,8 @@
         <mark key="^" line="0" column="578" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.loghub.json" timestamp="1507855739689">
-        <mark key="'" line="4" column="32" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.loghub.json" timestamp="1507883801115">
+        <mark key="'" line="3" column="32" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/pom.xml" />
       <jump line="40" column="26" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="227" column="23" filename="$USER_HOME$/rn-pascal/pom.xml" />
       <jump line="20" column="39" filename="$USER_HOME$/rn-pascal/pom.xml" />
@@ -336,6 +335,7 @@
       <jump line="30" column="48" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="18" column="14" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="3" column="32" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.loghub.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,7 +345,7 @@
         <text>toList()</text>
       </register>
       <register name="/" type="4">
-        <text>string</text>
+        <text>banner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNbImFkVHlwZSJdID0gIm5hdGl2ZSIK</text>
@@ -382,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>string</last-search>
+      <last-search>banner</last-search>
       <last-offset />
-      <last-pattern>string</last-pattern>
+      <last-pattern>banner</last-pattern>
       <last-replace>nullString</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log4j2</entry>
         <entry>spring</entry>
         <entry>redis.version</entry>
         <entry encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</entry>
@@ -412,6 +411,7 @@
         <entry>$</entry>
         <entry>String</entry>
         <entry>string</entry>
+        <entry>banner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2UoL2VDaGFycygvZw==</entry>
