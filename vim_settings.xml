@@ -212,11 +212,16 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/RandomSentenceSpout.kt" timestamp="1507982548231">
-        <mark key="[" line="31" column="67" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="31" column="70" />
-        <mark key="." line="31" column="67" />
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/SplitSentence.kt" timestamp="1508040587673">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/RandomSentenceSpout.kt" timestamp="1508040459001">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507886494406">
         <mark key="'" line="20" column="0" />
@@ -238,7 +243,6 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/log-parser.iml" timestamp="1507980515810" />
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/Hello.kt" timestamp="1499227710603">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -361,11 +365,11 @@
       <jump line="44" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
@@ -377,28 +381,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIGNsYXNzIFRpbWVTdGFtcGVkIDogUmFuZG9tU2VudGVuY2VTcG91dCgpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgOiB0aGlzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbnRlbmNlKCJ0aGUiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBleGVjdXRlKGlucHV0OiBUdXBsZT8pIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBwcmVwYXJlKHN0b3JtQ29uZjogTXV0YWJsZU1hcDxBbnk/LCBBbnk/Pj8sIGNvbnRleHQ6IFRvcG9sb2d5Q29udGV4dD8sIGNvbGxlY3RvcjogT3V0cHV0Q29sbGVjdG9yPykgewogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbnRlbmNlKCJ0aGUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hlaWdodC93aWR0aC9n</text>
