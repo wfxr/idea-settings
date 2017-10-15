@@ -117,7 +117,7 @@
         <mark key="^" line="0" column="578" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/SplitSentence.kt" timestamp="1508052585554">
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/SplitSentence.kt" timestamp="1508077619200">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="35" />
@@ -200,11 +200,11 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCount.kt" timestamp="1508056381154">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="50" />
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCount.kt" timestamp="1508078015442">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/DoubleAndTripleBolt.kt" timestamp="1507981517695">
         <mark key="[" line="21" column="67" />
@@ -277,11 +277,11 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/RandomSentenceSpout.kt" timestamp="1508056215803">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/RandomSentenceSpout.kt" timestamp="1508077778096">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="70" />
+        <mark key="^" line="23" column="70" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrintBolt.java" timestamp="1507890590908">
         <mark key="[" line="22" column="22" />
@@ -408,11 +408,11 @@
       <jump line="12" column="32" filename="$USER_HOME$/develop/log-parser/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>devpende</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>storm</text>
@@ -421,31 +421,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5zdG9ybS9zdG9ybS1jb3JlIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0b3JtPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zdG9ybS1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjEuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLnN0b3JtL3N0b3JtLWNvcmUgLS0+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0b3JtPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnN0b3JtLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+CiAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLnN0b3JtL3N0b3JtLWNvcmUgLS0+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0b3JtPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPnN0b3JtLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPHZlcnNpb24+MS4xLjE8L3ZlcnNpb24+CiAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvLCBXb3JsZCIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGNvdW50czogSGFzaE1hcDxTdHJpbmcsIEludD4pIDogc3VwZXIoKSB7CiAgICAgICAgdGhpcy5jb3VudHMgPSBjb3VudHMKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udHVwbGRkZS5WYWx1ZXMK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGNvdW50czogSGFzaE1hcDxTdHJpbmcsIEludD4pIDogc3VwZXIoKSB7CiAgICAgICAgdGhpcy5jb3VudHMgPSBjb3VudHMKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgYnVpbGRlci5zZXRCb2x0KCJ3b3JkcyIpLAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udHVwbGRkZS5WYWx1ZXMK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hlaWdodC93aWR0aC9n</text>
