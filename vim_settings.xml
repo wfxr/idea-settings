@@ -22,10 +22,10 @@
         <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507980287164">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507891146149">
         <mark key="[" line="1" column="271" />
@@ -172,10 +172,11 @@
         <mark key="^" line="0" column="6291" />
         <mark key="." line="0" column="6290" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/Entity/BidLogInfo.kt" timestamp="1507890037234">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Entity/BidLogInfo.kt" timestamp="1508125030746">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/develop/hello-storm/pom.xml" timestamp="1507980892676">
         <mark key="[" line="36" column="0" />
@@ -347,11 +348,11 @@
       <jump line="91" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaUFzc2V0Tm9kZS4K</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>height</text>

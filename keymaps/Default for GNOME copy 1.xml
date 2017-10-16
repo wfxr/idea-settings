@@ -20,6 +20,13 @@
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
   <action id="ParameterInfo" />
+  <action id="RefactoringMenuRenameFile">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
