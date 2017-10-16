@@ -1,10 +1,20 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="$SelectAll" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Diagram.SelectAll" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorUp">
@@ -20,6 +30,7 @@
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
   <action id="ParameterInfo" />
+  <action id="RecentFiles" />
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -30,6 +41,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
 </keymap>
