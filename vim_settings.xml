@@ -160,8 +160,8 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1508113164122">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1508113261678">
+        <mark key="'" line="91" column="0" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="20" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="24" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
       <jump line="26" column="0" filename="$USER_HOME$/rn-pascal/rn-pascal-biz/src/main/java/com/zmeng/rinascimento/pascal/service/impl/RcvServiceImpl.java" />
@@ -345,6 +344,7 @@
       <jump line="41" column="48" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="42" column="52" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
+      <jump line="91" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
