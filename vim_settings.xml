@@ -3,25 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/Mock.kt" timestamp="1508139350186">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/Mock.kt" timestamp="1508148514670">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/spout/MockSpout.kt" timestamp="1508141014768">
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" timestamp="1508147853783">
+        <mark key="'" line="56" column="25" />
+      </file>
       <file name="/a.dummy" timestamp="1508139774692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.kt" timestamp="1508144246800">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.kt" timestamp="1508145634185">
         <mark key="'" line="20" column="58" />
-        <mark key="[" line="26" column="67" />
-        <mark key="]" line="26" column="67" />
-        <mark key="." line="26" column="67" />
-        <mark key="^" line="22" column="34" />
+        <mark key="[" line="19" column="67" />
+        <mark key="]" line="19" column="67" />
+        <mark key="." line="19" column="67" />
+        <mark key="^" line="19" column="67" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1508131294681">
         <mark key="'" line="2" column="2527" />
@@ -42,11 +46,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/topology/MainTopology.kt" timestamp="1508141029407">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/topology/MainTopology.kt" timestamp="1508148687223">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
         <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParser.java" timestamp="1507784290416">
@@ -109,7 +113,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/fragment.kt" timestamp="1507877197043">
+      <file name="/fragment.kt" timestamp="1508147519198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -120,9 +124,20 @@
         <mark key="]" line="39" column="57" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1508124375779">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.java" timestamp="1508140259519">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/spout/MockBidSpout.kt" timestamp="1508148361209">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.json" timestamp="1507798262394">
         <mark key="[" line="0" column="6290" />
@@ -136,23 +151,29 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508141108002">
-        <mark key="[" line="16" column="114" />
-        <mark key="]" line="16" column="114" />
-        <mark key="." line="16" column="114" />
-        <mark key="^" line="30" column="69" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508145663473">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="60" />
+        <mark key="." line="28" column="60" />
+        <mark key="^" line="23" column="64" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidExtractBolt.kt" timestamp="1508140819335">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="67" />
-        <mark key="^" line="24" column="45" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidExtractBolt.kt" timestamp="1508148649382">
+        <mark key="'" line="29" column="9" />
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="9" />
+        <mark key="." line="30" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/rcv/tmp.json" timestamp="1499336340228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="578" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.loghub.json" timestamp="1507883801115">
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/spout/Spout.kt" timestamp="1508141010489">
         <mark key="[" line="10" column="6" />
@@ -180,11 +201,11 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1507796620065">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1508146558856">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/bid/tmp.json" timestamp="1499241021204">
         <mark key="[" line="69" column="0" />
@@ -217,6 +238,7 @@
         <mark key="^" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar!/com/google/gson/JsonObject.java" timestamp="1508147715905" />
       <file name="$USER_HOME$/rn-pascal/rn-pascal-rcv/src/main/resources/base/jdbc.properties" timestamp="1501137444015">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="25" />
@@ -310,6 +332,12 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" timestamp="1508147765322">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="36" column="74" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/topology/LogParserTopology.java" timestamp="1508139490068">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="6" column="0" />
@@ -344,15 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="12" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" />
-      <jump line="220" column="14" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImei.java" />
-      <jump line="23" column="59" filename="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImei.java" />
-      <jump line="25" column="68" filename="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImei.java" />
-      <jump line="26" column="93" filename="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImei.java" />
-      <jump line="38" column="58" filename="$USER_HOME$/develop/moon/src/main/java/com/zmeng/planet/moon/ValidImei.java" />
-      <jump line="0" column="29" filename="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiOrMeidTest.java" />
-      <jump line="44" column="7" filename="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiOrMeidTest.java" />
       <jump line="29" column="7" filename="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiOrMeidTest.java" />
       <jump line="69" column="0" filename="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiOrMeidTest.java" />
       <jump line="69" column="21" filename="$USER_HOME$/develop/moon/pom.xml" />
@@ -444,55 +463,64 @@
       <jump line="6" column="3" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/topology/MainTopology.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/topology/MainTopology.kt" />
       <jump line="19" column="58" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.kt" />
+      <jump line="8" column="32" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" />
+      <jump line="7" column="42" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/develop/log-parser/pom.xml" />
+      <jump line="18" column="50" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" />
+      <jump line="50" column="3" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" />
+      <jump line="51" column="26" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" />
+      <jump line="57" column="9" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" />
+      <jump line="58" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" />
+      <jump line="30" column="9" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidExtractBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BidOrigSpout</text>
+        <text encoding="base64">IGNhdGNoIChlOiBFT0ZFeGNlcHRpb24pIHsKICAgICAgICAgICAgcHJpbnRsbihlKQogICAgICAgIH0g</text>
       </register>
       <register name="-" type="4">
-        <text>BidOrigSpout</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>banner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICByZXN1bHQucHV0KCJtZXRhSW5mbyIsIGlucHV0LmdldFZhbHVlQnlGaWVsZCgibWV0YUluZm8iKSk7CiAgICAgICAgcmVzdWx0LnB1dCgiYmlkUmVxdWVzdCIsIGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkUmVxdWVzdCIpKTsKICAgICAgICByZXN1bHQucHV0KCJiaWRSZXNwb25zZSIsIGlucHV0LmdldFZhbHVlQnlGaWVsZCgiYmlkUmVzcG9uc2UiKSk7CiAgICAgICAgTE9HLmluZm8oImRzcFBhcnNlZFJlc3VsdDogIiArIGR1bXBUb0pzb24ocmVzdWx0KSk7CiAgICAgICAgX2NvbGxlY3Rvci5hY2soaW5wdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiZXJyb3IgaW5wdXQ6ICRpbnB1dCIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNhdGNoIChlOiBFT0ZFeGNlcHRpb24pIHsKICAgICAgICAgICAgcHJpbnRsbihlKQogICAgICAgIH0g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1Db2xsZWN0b3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGluZSA9IE1vY2tMb2dTb3VyY2UuZ2V0T25lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBuZXh0VHVwbGUoKSB7Ci8vICAgICAgICBtQ29sbGVjdG9yLgogICAgfQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBuZXh0VHVwbGUoKSB7Ci8vICAgICAgICBtQ29sbGVjdG9yLgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIHZhbCByZXMgPSBoYXNoTWFwT2Y8U3RyaW5nLCBBbnk/PigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIHZhbCBiaWRSZXF1ZXN0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgIGlmIChsb2dJZCA9PSAiYTk2M2E0OGE3MDg0NGY2NjhhNWNiNDAyYjRkMWU3YjEiKSBwcmludGxuKGNvbnRlbnQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywvdG8vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>banner</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>banner</last-pattern>
       <last-replace>to</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -503,7 +531,6 @@
         <entry>mac</entry>
         <entry>String</entry>
         <entry>string</entry>
-        <entry>banner</entry>
         <entry>video</entry>
         <entry>native</entry>
         <entry>os</entry>
@@ -520,9 +547,9 @@
         <entry>height</entry>
         <entry>width</entry>
         <entry>,</entry>
+        <entry>banner</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1N0cmluZy9TdHJpbmc/L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9udWxsU3RyaW5nL2dj</entry>
         <entry encoding="base64">JzwsJz5zL3VuaXQvcGxhbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3VuaXQvdXNlci9n</entry>
@@ -542,6 +569,7 @@
         <entry>s/width/height/g</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2R1cmF0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvdG8vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
