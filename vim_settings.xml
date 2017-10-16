@@ -16,7 +16,7 @@
       <file name="/a.dummy" timestamp="1508139774692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.kt" timestamp="1508140825143">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspPrintBolt.kt" timestamp="1508144246800">
         <mark key="'" line="20" column="58" />
         <mark key="[" line="26" column="67" />
         <mark key="]" line="26" column="67" />
@@ -136,7 +136,7 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508140542144">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508141108002">
         <mark key="[" line="16" column="114" />
         <mark key="]" line="16" column="114" />
         <mark key="." line="16" column="114" />
