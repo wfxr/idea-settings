@@ -1,11 +1,34 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="CheckinProject" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.FindInGrid">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -15,9 +38,19 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoSuperMethod" />
   <action id="Groovy.Shell.Execute" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="ParameterInfo" />
   <action id="RefactoringMenuRenameFile">
@@ -30,6 +63,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="shift alt 3" />
   </action>
   <action id="ViewSource" />
 </keymap>
