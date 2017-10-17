@@ -3,12 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" timestamp="1508203004986">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="69" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1508207256422">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507891146149">
+        <mark key="'" line="2" column="2527" />
+        <mark key="[" line="1" column="271" />
+        <mark key="]" line="1" column="271" />
+        <mark key="." line="1" column="271" />
+        <mark key="^" line="1" column="13075" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507890546291">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="33" column="41" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/topology/MainTopology.kt" timestamp="1508161424432">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="55" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogExtractor.kt" timestamp="1507875849366">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/test/kotlin/TestTopology.kt" timestamp="1508207487416">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="84" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/bolt/BidDspParseBolt.java" timestamp="1508138223924">
+        <mark key="'" line="26" column="79" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/develop/storm-test/pom.xml" timestamp="1508075512750">
         <mark key="[" line="11" column="0" />
@@ -25,10 +67,45 @@
         <mark key="]" line="39" column="57" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" timestamp="1508124375779">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="45" column="23" />
+      </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCountBolt.kt" timestamp="1508056320803">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508151680143">
+        <mark key="'" line="26" column="72" />
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="26" column="73" />
+        <mark key="." line="26" column="62" />
+        <mark key="^" line="25" column="43" />
+      </file>
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/SplitSentence.kt" timestamp="1508078732274">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/Spout/BidOrigSpout.java" timestamp="1507886494406">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="40" column="22" />
+        <mark key="." line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" timestamp="1507890820541">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="356" column="1" />
+        <mark key="." line="356" column="1" />
+        <mark key="^" line="356" column="1" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1508207192347">
         <mark key="'" line="12" column="32" />
@@ -36,10 +113,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LogHubSpout.kt" timestamp="1508206364171">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LogHubSpout.kt" timestamp="1508214209354">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" timestamp="1508213457578">
         <mark key="'" line="10" column="23" />
@@ -48,6 +125,27 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/spout/BidOrigSpout.java" timestamp="1508139431630">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="53" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LoghubSpout.kt" timestamp="1508213848110">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="28" column="102" />
+        <mark key="]" line="28" column="132" />
+        <mark key="." line="28" column="132" />
+        <mark key="^" line="28" column="132" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidExtractor.kt" timestamp="1507859483238">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="47" column="39" />
+      </file>
       <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/topologys/DspLogExplainTopology.java" timestamp="1508213263132">
         <mark key="'" line="32" column="19" />
       </file>
@@ -55,6 +153,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/SimpleTopology.kt" timestamp="1508056702822">
+        <mark key="'" line="11" column="83" />
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/develop/hello-storm/pom.xml" timestamp="1507980892676">
         <mark key="[" line="36" column="0" />
@@ -76,15 +181,29 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/topology/LogParserTopology.java" timestamp="1508139490068">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/JsonUtils.kt" timestamp="1508154746329">
         <mark key="[" line="16" column="59" />
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" timestamp="1508213527373">
+      <file name="$USER_HOME$/develop/log-parser/src/main/java/logparser/BidLogDspParser.kt" timestamp="1508139375569">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="47" column="56" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" timestamp="1508213801504">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="31" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="38" />
         <mark key="^" line="34" column="22" />
         <mark key="." line="34" column="31" />
       </file>
@@ -93,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/PrintBolt.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/PrintBolt.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/ExclamationTopology.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/ExclamationTopology.java" />
       <jump line="15" column="22" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/TestWordSpout.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/TestWordSpout.java" />
@@ -193,63 +309,65 @@
       <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="11" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" />
       <jump line="10" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LoghubSpout.kt" />
+      <jump line="3" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LoghubSpout.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LoghubSpout.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8vd2FpdGluZyBmb3Igc2V2ZXJhbCBtaW51dGVz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1biBpbm5lckVuZHBvaW50U3BvdXQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIC8vd2FpdGluZyBmb3Igc2V2ZXJhbCBtaW51dGVz</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
-        <text>(.*$</text>
+        <text>Builder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gcHJvamVjdChpbml0OiBCdWlsZGVyLigpIC0+IFN0cmluZykgPSBhcHBseSB7IHByb2plY3QgPSBpbml0KCkgfQogICAgICAgIGZ1biBsb2dzdG9yZShpbml0OiBCdWlsZGVyLigpIC0+IFN0cmluZykgPSBhcHBseSB7IGxvZ3N0b3JlID0gaW5pdCgpIH0KICAgICAgICBmdW4gZW5kcG9pbnQoaW5pdDogQnVpbGRlci4oKSAtPiBTdHJpbmcpID0gYXBwbHkgeyBlbmRwb2ludCA9IGluaXQoKSB9CiAgICAgICAgZnVuIGFjY2Vzc0lkKGluaXQ6IEJ1aWxkZXIuKCkgLT4gU3RyaW5nKSA9IGFwcGx5IHsgYWNjZXNzSWQgPSBpbml0KCkgfQogICAgICAgIGZ1biBhY2Nlc3NLZXkoaW5pdDogQnVpbGRlci4oKSAtPiBTdHJpbmcpID0gYXBwbHkgeyBhY2Nlc3NLZXkgPSBpbml0KCkgfQogICAgICAgIGZ1biB0b3BvbG9neUlkKGluaXQ6IEJ1aWxkZXIuKCkgLT4gU3RyaW5nKSA9IGFwcGx5IHsgdG9wb2xvZ3lJZCA9IGluaXQoKSB9CiAgICAgICAgZnVuIGdyb3VwKGluaXQ6IEJ1aWxkZXIuKCkgLT4gU3RyaW5nKSA9IGFwcGx5IHsgZ3JvdXAgPSBpbml0KCkgfQogICAgICAgIGZ1biBzaGFyZHNDb3VudChpbml0OiBCdWlsZGVyLigpIC0+IEludCkgPSBhcHBseSB7IHNoYXJkc0NvdW50ID0gaW5pdCgpIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9nSHViQ29uZmlnID0gTG9nSHViU3BvdXRDb25maWcoZ3JvdXAsIGVuZHBvaW50LCBwcm9qZWN0LCBsb2dzdG9yZSwgYWNjZXNzSWQsIGFjY2Vzc0tleSwgRU5EX0NVUlNPUikKICAgICAgICB2YWwgYnVpbGRlciA9IFRvcG9sb2d5QnVpbGRlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BvbG9neUlkID0gCg==</text>
+        <text encoding="base64">ICAgIGZ1biBpbm5lckVuZHBvaW50U3BvdXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gdG9wb2xvZ3lJZChpbml0OiBCdWlsZGVyLigpIC0+IFN0cmluZykgPSBhcHBseSB7IHRvcG9sb2d5SWQgPSBpbml0KCkgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IExvZ0h1YlNwb3V0QnVpbGRlci5idWlsZCB7IAogICAgfQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ZnVuIApmdW4gCmZ1biAKZnVuIApmdW4gCmZ1biAKZnVuIApmdW4g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0ID0gImpzZG9pZiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwb3V0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHN2bQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKfQo=</text>
+        <text encoding="base64">ICAgIHZhciBzaGFyZHNDb3VudCA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIGZ1biBzaGFyZHNDb3VudChpbml0OiBMb2dIdWJTcG91dEJ1aWxkZXIuKCkgLT4gSW50KSA9IGFwcGx5IHsgc2hhcmRzQ291bnQgPSBpbml0KCkgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBBbHJlYWR5QWxpdmVFeGNlcHRpb24pIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIH0gY2F0Y2ggKGU6IEludmFsaWRUb3BvbG9neUV4Y2VwdGlvbikgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyguKiQvL2c=</text>
+        <text>%s/Builder/LogHubSpoutBuilder/g</text>
       </register>
     </registers>
     <search>
-      <last-search>(.*$</last-search>
+      <last-search>Builder</last-search>
       <last-offset />
-      <last-pattern>(.*$</last-pattern>
-      <last-replace />
-      <last-substitute>(.*$</last-substitute>
+      <last-pattern>Builder</last-pattern>
+      <last-replace>LogHubSpoutBuilder</last-replace>
+      <last-substitute>Builder</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ideaidea</entry>
         <entry>$</entry>
         <entry encoding="base64">dmFsIA==</entry>
         <entry encoding="base64">ID0=</entry>
@@ -269,9 +387,9 @@
         <entry>accessId</entry>
         <entry>accessKey</entry>
         <entry>(.*$</entry>
+        <entry>Builder</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyA9LyIgPS9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vdG8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2lkZWFJL2lJL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2lkZWFBL2lBL2c=</entry>
@@ -291,6 +409,7 @@
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc0lkL2FjY2Vzc0tleS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc0tleS90b3BvbG9neUlk</entry>
         <entry encoding="base64">JzwsJz5zLyguKiQvL2c=</entry>
+        <entry>%s/Builder/LogHubSpoutBuilder/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
