@@ -213,7 +213,7 @@
         <mark key="]" line="12" column="54" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" timestamp="1508151411358">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" timestamp="1508223405322">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -276,7 +276,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1507891146149">
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" timestamp="1508223816818">
         <mark key="'" line="2" column="2527" />
         <mark key="[" line="1" column="271" />
         <mark key="]" line="1" column="271" />
@@ -332,7 +332,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="/fragment.kt" timestamp="1508220794487">
+      <file name="/fragment.kt" timestamp="1508222916776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -351,11 +351,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/FlatBolt.kt" timestamp="1508221129727">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/FlatBolt.kt" timestamp="1508223896818">
         <mark key="'" line="21" column="49" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Entity/BidLogInfo.kt" timestamp="1508125030746">
         <mark key="[" line="5" column="32" />
@@ -406,6 +406,11 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/PrintBolt.kt" timestamp="1508222651033">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+      </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCount.kt" timestamp="1508078792201">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="21" />
@@ -420,6 +425,12 @@
       </file>
       <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/topologys/DspLogExplainTopology.java" timestamp="1508219912606">
         <mark key="'" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/FileMockSpout.kt" timestamp="1508222591648">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/ExclamationTopology.java" timestamp="1507723256741">
         <mark key="[" line="0" column="0" />
@@ -461,10 +472,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/ExtractBolt.kt" timestamp="1508219834583">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/ExtractBolt.kt" timestamp="1508223088014">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="0" />
+        <mark key="[" line="22" column="64" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="22" column="67" />
+        <mark key="^" line="22" column="67" />
       </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/RandomSentenceSpout.kt" timestamp="1508078762177">
         <mark key="[" line="23" column="57" />
@@ -591,43 +604,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb2dUaW1lID0gaXQudGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_foreach</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoImJpZC1leHRyYWN0IiwgRXh0cmFjdEJvbHQoKSwgMikuc2h1ZmZsZUdyb3VwaW5nKCJiaWQtb3JpZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgIGdyb3VwLmxvZ3NMaXN0LmZvckVhY2ggewogICAgICAgIC8vICAgICAgICAgICAgICAgIGl0LmNvbnRlbnRzTGlzdC5mb3JFYWNoIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgbUNvbGxlY3Rvci5lbWl0KGlucHV0LCBWYWx1ZXMoaXQudmFsdWUpKQogICAgICAgIC8vICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsb2dUaW1lID0gaXQudGltZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC52YWx1ZQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5rZXkK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LjEK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnNvdQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5nZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dHcm91cHNbMV0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dHcm91cHNbMV0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dHcm91cHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnRpbQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvL2c=</text>
