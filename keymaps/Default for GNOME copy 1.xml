@@ -1,10 +1,12 @@
 <keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="$SelectAll" />
   <action id="CheckinProject" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="shift alt 3" />
   </action>
+  <action id="Diagram.SelectAll" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -23,6 +25,14 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -53,6 +63,7 @@
   </action>
   <action id="KotlinShellExecute" />
   <action id="ParameterInfo" />
+  <action id="RecentFiles" />
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -66,6 +77,9 @@
   </action>
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
 </keymap>
