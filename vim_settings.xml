@@ -35,6 +35,12 @@
         <mark key="." line="35" column="21" />
         <mark key="^" line="35" column="21" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/test/kotlin/TestTopology.kt" timestamp="1508229389042">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="14" column="77" />
+      </file>
       <file name="$USER_HOME$/develop/zmeng/serialize-test/pom.xml" timestamp="1500975924891">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="40" />
@@ -291,11 +297,11 @@
         <mark key="." line="1" column="271" />
         <mark key="^" line="1" column="13075" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508228841485">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508230278173">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParseBolt.java" timestamp="1507890546291">
         <mark key="'" line="27" column="30" />
@@ -392,22 +398,10 @@
         <mark key="^" line="40" column="22" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1508207192347">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LogHubSpout.kt" timestamp="1508219385094">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" timestamp="1508216084031">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrinter.java" timestamp="1507791299205">
         <mark key="[" line="26" column="0" />
@@ -460,10 +454,10 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508205841704">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1508229350719">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/src/main/java/Topology/ExclamationTopology.java" timestamp="1507781434510">
         <mark key="[" line="31" column="25" />
@@ -617,43 +611,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intpu</text>
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>intpu</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFBhdHRlcm5MYXlvdXQgcGF0dGVybj0iJWR7SEg6bW06c3MuU1NTfSBbJXRdICUtNWxldmVsICVsb2dnZXJ7MzZ9IC0gJW1zZyVuIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNwb3V0ID0gTG9nSHViU3BvdXRCdWlsZGVyLm9mUHVibGljRW5kcG9pbnQoKQogICAgICAgICAgICB2YWwgdGFzayA9IE1haW5Ub3BvbG9neSgiYmlkLWxvZy1lbGFzdGljc2VhcmNoIiwgc3BvdXQsIDEpCiAgICAgICAgICAgIHRhc2sucnVuV2l0aExvY2FsKDE1MDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TG9nZ2VyIG5hbWU9InJlc3VsdCIgbGV2ZWw9ImluZm8iPgogICAgICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iRmlsZSIvPgogICAgICAgIDwvTG9nZ2VyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtRmlsZS53cml0ZShyZXN1bHQuZHVtcFRvSnNvbigpKQogICAgICAgIG1GaWxlLndyaXRlKCJcbiIpCiAgICAgICAgaWYgKCsrY291bnQgPiAxMDApIG1GaWxlLmZsdXNoKCkK</text>
+        <text encoding="base64">ICAgIHdoZW4gewogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtRmlsZSA9IEZpbGVXcml0ZXIoIi90bXAvcmVzdWx0IikK</text>
+        <text encoding="base64">ICAgICAgICBhcmdzLmZpcnN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1GaWxlOiBGaWxlV3JpdGVyCiAgICBwcml2YXRlIHZhciBjb3VudCA9IDAK</text>
+        <text encoding="base64">ICAgIHZhbCBvcHRpb24gPSBhcmdzLmZpcnN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIudHJhY2UgeyAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChvcHRpb24gIT0gInByb2R1Y3QiICYmIG9wdGlvbiAhPSAidGVzdCIpIHsKICAgICAgICB1c2FnZSgpCiAgICAgICAgcmV0dXJuCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgIGlmIChvcHRpb24gPT0gInByb2R1Y3QiKSB7CiAgICB9IGVsc2UgaWYgKG9wdGlvbiA9PSAidGVzdCIpIHsKICAgIH0KICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvL2c=</text>
