@@ -113,15 +113,16 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LogHubSpout.kt" timestamp="1508214209354">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LogHubSpout.kt" timestamp="1508215851821">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" timestamp="1508213457578">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" timestamp="1508215311692">
         <mark key="'" line="10" column="23" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="22" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="64" />
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
@@ -314,44 +315,44 @@
       <jump line="25" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/spout/LoghubSpout.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbm5lckVuZHBvaW50U3BvdXQK</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>Builder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nSHViQ29uZmlnID0gTG9nSHViU3BvdXRDb25maWcoZ3JvdXAsIGVuZHBvaW50LCBwcm9qZWN0LCBsb2dzdG9yZSwgYWNjZXNzSWQsIGFjY2Vzc0tleSwgRU5EX0NVUlNPUikKICAgICAgICB2YWwgYnVpbGRlciA9IFRvcG9sb2d5QnVpbGRlcigpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBlbmRwb2ludCA9ICJodHRwOi8vY24tYmVpamluZy1pbnRyYW5ldC5sb2cuYWxpeXVuY3MuY29tIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBpbm5lckVuZHBvaW50U3BvdXQK</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB0b3BvbG9neUlkOiBTdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IExvZ0h1YlNwb3V0QnVpbGRlci5idWlsZCB7IAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGZ1biB0b3BvbG9neUlkKGluaXQ6IExvZ0h1YlNwb3V0QnVpbGRlci4oKSAtPiBTdHJpbmcpID0gYXBwbHkgeyB0b3BvbG9neUlkID0gaW5pdCgpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0ID0gImpzZG9pZiIK</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB0b3BvbG9neUlkOiBTdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZ1biBidWlsZCgpID0gTG9nSHViU3BvdXQoTG9nSHViU3BvdXRDb25maWcoZ3JvdXAsIGVuZHBvaW50LCBwcm9qZWN0LCBsb2dzdG9yZSwgYWNjZXNzSWQsIGFjY2Vzc0tleSwgRU5EX0NVUlNPUikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwb3V0Lgo=</text>
+        <text encoding="base64">ICAgIGZ1biBpbm5lckVuZHBvaW50U3BvdXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHN2bQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IExvZ0h1YlNwb3V0QnVpbGRlci5idWlsZCB7IAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBzaGFyZHNDb3VudCA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0ID0gImpzZG9pZiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBzaGFyZHNDb3VudChpbml0OiBMb2dIdWJTcG91dEJ1aWxkZXIuKCkgLT4gSW50KSA9IGFwcGx5IHsgc2hhcmRzQ291bnQgPSBpbml0KCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNwb3V0Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Builder/LogHubSpoutBuilder/g</text>
