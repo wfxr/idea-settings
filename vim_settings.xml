@@ -14,11 +14,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" timestamp="1508200817334">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" timestamp="1508203004986">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="69" column="38" />
-        <mark key="." line="69" column="38" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
         <mark key="^" line="69" column="38" />
       </file>
       <file name="$USER_HOME$/develop/storm-test/src/main/kotlin/org/wfxr/Hello.kt" timestamp="1508075261655">
@@ -538,11 +538,11 @@
       <jump line="103" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZQo=</text>
+      <register name="&quot;" type="4">
+        <text>(it)</text>
       </register>
       <register name="-" type="4">
-        <text>bidRequest</text>
+        <text>(it)</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
