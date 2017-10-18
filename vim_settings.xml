@@ -271,6 +271,13 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WordCount.kt" timestamp="1508294306084">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspPrinter.java" timestamp="1507791299205">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -316,6 +323,8 @@
         <mark key="." line="28" column="132" />
         <mark key="^" line="28" column="132" />
       </file>
+      <file name="$USER_HOME$/src/storm/examples/storm-starter/src/jvm/org/apache/storm/starter/trident/TridentWindowingInmemoryStoreTopology.java" timestamp="1508295573638" />
+      <file name="$USER_HOME$/src/storm/examples/storm-starter/src/jvm/org/apache/storm/starter/trident/TridentMapExample.java" timestamp="1508295811415" />
       <file name="$USER_HOME$/develop/storm-test/src/main/java/T.java" timestamp="1508075535518">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="4" column="55" />
@@ -387,6 +396,12 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WindowingWordCount.kt" timestamp="1508296526463">
+        <mark key="'" line="27" column="19" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/strategy.kt" timestamp="1499071229489">
         <mark key="[" line="14" column="52" />
@@ -520,6 +535,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/CycleSpout.kt" timestamp="1508294233236">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/logparser/BidLogDspParser.kt" timestamp="1508139375569">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="6" column="0" />
@@ -542,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.original.loghub.txt" />
-      <jump line="13" column="21" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="5" column="26" filename="$USER_HOME$/develop/log-parser/src/main/java/LogParser/BidLogDspParser.kt" />
       <jump line="129" column="20" filename="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.content.json" />
@@ -642,55 +661,57 @@
       <jump line="32" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
+      <jump line="18" column="45" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WordCount.kt" />
+      <jump line="22" column="19" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WindowingWordCount.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;words&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoRmllbGRzKCJ3b3JkIikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;words&quot;</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text encoding="base64">XDxjeWNsZVNwb3V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioueG1sPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPC9pbmNsdWRlcz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIGxvZ2dlciA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyKCJyZXN1bHQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdyb3VwQnkoRmllbGRzKCJ3b3JkIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmdyb3VwQnkoRmllbGRzKCJ3b3JkIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgd29yZHMgPSBpbnB1dAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuZ3JvdXBCeShGaWVsZHMoIndvcmQiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0RGVidWcoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5zZWN1cml0eS5rcmI1LkNvbmZpZwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IEZpeGVkQmF0Y2hTcG91dChGaWVsZHMoInNlbnRlbmNlIiksIDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgY293IGp1bXBlZCBvdmVyIHRoZSBtb29uIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgbWFuIHdlbnQgdG8gdGhlIHN0b3JlIGFuZCBib3VnaHQgc29tZSBjYW5keSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlcygiZm91ciBzY29yZSBhbmQgc2V2ZW4geWVhcnMgYWdvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJob3cgbWFueSBhcHBsZXMgY2FuIHlvdSBlYXQiKSkKICAgIHNwb3V0LnNldEN5Y2xlKHRydWUpCgogICAgdmFsIHRvcG9sb2d5ID0gVHJpZGVudFRvcG9sb2d5KCkKICAgIHZhbCB3b3JkQ291bnRzID0gdG9wb2xvZ3kubmV3U3RyZWFtKCJzcG91dCIsIHNwb3V0KQogICAgICAgICAgICAuZWFjaChGaWVsZHMoInNlbnRlbmNlIiksIFNwbGl0KCksIEZpZWxkcygid29yZCIpKQogICAgICAgICAgICAuZ3JvdXBCeShGaWVsZHMoIndvcmRzIikpCiAgICAgICAgICAgIC5wZXJzaXN0ZW50QWdncmVnYXRlKE1lbW9yeU1hcFN0YXRlLkZhY3RvcnkoKSwgQ291bnQoKSwgRmllbGRzKCJjb3VudCIpKQogICAgICAgICAgICAucGFyYWxsZWxpc21IaW50KDYpCgogICAgdG9wb2xvZ3kubmV3RFJQQ1N0cmVhbSgid29yZCIsIGRycGMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search encoding="base64">XDxjeWNsZVNwb3V0XD4=</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern encoding="base64">XDxjeWNsZVNwb3V0XD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>source</last-substitute>
       <last-dir>1</last-dir>
@@ -698,7 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>prpject</entry>
         <entry>project</entry>
         <entry>accessId</entry>
@@ -718,6 +738,7 @@
         <entry>goal</entry>
         <entry>resources</entry>
         <entry>result</entry>
+        <entry encoding="base64">XDxjeWNsZVNwb3V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodA==</entry>
