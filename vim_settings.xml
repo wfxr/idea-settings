@@ -194,6 +194,12 @@
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/src/storm/examples/storm-elasticsearch-examples/src/main/java/org/apache/storm/elasticsearch/common/EsTestUtil.java" timestamp="1508297205103">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="70" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/bolt/BidDspParseBolt.kt" timestamp="1508151680143">
         <mark key="'" line="26" column="72" />
         <mark key="[" line="26" column="62" />
