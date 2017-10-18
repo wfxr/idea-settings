@@ -124,7 +124,6 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/src/storm/examples/storm-starter/src/jvm/org/apache/storm/starter/trident/TridentWordCount.java" timestamp="1508292614373" />
       <file name="$USER_HOME$/develop/storm-test/pom.xml" timestamp="1508075512750">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -278,12 +277,12 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" timestamp="1508293463855">
+      <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" timestamp="1508293756967">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="50" column="60" />
-        <mark key="]" line="50" column="67" />
-        <mark key="." line="50" column="67" />
-        <mark key="^" line="50" column="67" />
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/observer-listener.kt" timestamp="1499068661514">
         <mark key="[" line="13" column="11" />
@@ -646,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tcyA=</text>
+        <text>&quot;words&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcyA=</text>
+        <text>&quot;words&quot;</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -658,33 +657,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioueG1sPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPC9pbmNsdWRlcz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gCg==</text>
+        <text encoding="base64">dmFsIGxvZ2dlciA9IEtvdGxpbkxvZ2dpbmcubG9nZ2VyKCJyZXN1bHQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0RGVidWcoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgd29yZHMgPSBpbnB1dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYuc2V0RGVidWcoZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IEZpeGVkQmF0Y2hTcG91dChGaWVsZHMoInNlbnRlbmNlIiksIDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgY293IGp1bXBlZCBvdmVyIHRoZSBtb29uIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgbWFuIHdlbnQgdG8gdGhlIHN0b3JlIGFuZCBib3VnaHQgc29tZSBjYW5keSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlcygiZm91ciBzY29yZSBhbmQgc2V2ZW4geWVhcnMgYWdvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJob3cgbWFueSBhcHBsZXMgY2FuIHlvdSBlYXQiKSkKICAgIHNwb3V0LnNldEN5Y2xlKHRydWUpCgogICAgdmFsIHRvcG9sb2d5ID0gVHJpZGVudFRvcG9sb2d5KCkKICAgIHZhbCB3b3JkQ291bnRzID0gdG9wb2xvZ3kubmV3U3RyZWFtKCJzcG91dCIsIHNwb3V0KQogICAgICAgICAgICAuZWFjaChGaWVsZHMoInNlbnRlbmNlIiksIFNwbGl0KCksIEZpZWxkcygid29yZCIpKQogICAgICAgICAgICAuZ3JvdXBCeShGaWVsZHMoIndvcmRzIikpCiAgICAgICAgICAgIC5wZXJzaXN0ZW50QWdncmVnYXRlKE1lbW9yeU1hcFN0YXRlLkZhY3RvcnkoKSwgQ291bnQoKSwgRmllbGRzKCJjb3VudCIpKQogICAgICAgICAgICAucGFyYWxsZWxpc21IaW50KDYpCgogICAgdG9wb2xvZ3kubmV3RFJQQ1N0cmVhbSgid29yZCIsIGRycGMpCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2wK</text>
       </register>
-      <register name="7" type="4">
-        <text>class WordCount {
-    
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmRDb3VudHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcG91dCA9IEZpeGVkQmF0Y2hTcG91dChGaWVsZHMoInNlbnRlbmNlIiksIDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgY293IGp1bXBlZCBvdmVyIHRoZSBtb29uIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJ0aGUgbWFuIHdlbnQgdG8gdGhlIHN0b3JlIGFuZCBib3VnaHQgc29tZSBjYW5keSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZhbHVlcygiZm91ciBzY29yZSBhbmQgc2V2ZW4geWVhcnMgYWdvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmFsdWVzKCJob3cgbWFueSBhcHBsZXMgY2FuIHlvdSBlYXQiKSkKICAgIHNwb3V0LnNldEN5Y2xlKHRydWUpCgogICAgdmFsIHRvcG9sb2d5ID0gVHJpZGVudFRvcG9sb2d5KCkKICAgIHZhbCB3b3JkQ291bnRzID0gdG9wb2xvZ3kubmV3U3RyZWFtKCJzcG91dCIsIHNwb3V0KQogICAgICAgICAgICAuZWFjaChGaWVsZHMoInNlbnRlbmNlIiksIFNwbGl0KCksIEZpZWxkcygid29yZCIpKQogICAgICAgICAgICAuZ3JvdXBCeShGaWVsZHMoIndvcmRzIikpCiAgICAgICAgICAgIC5wZXJzaXN0ZW50QWdncmVnYXRlKE1lbW9yeU1hcFN0YXRlLkZhY3RvcnkoKSwgQ291bnQoKSwgRmllbGRzKCJjb3VudCIpKQogICAgICAgICAgICAucGFyYWxsZWxpc21IaW50KDYpCgogICAgdG9wb2xvZ3kubmV3RFJQQ1N0cmVhbSgid29yZCIsIGRycGMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
