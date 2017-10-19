@@ -1,0 +1,54 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="QuickDocCopy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ReloadFromDisk">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="XDebugger.CopyValue">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+</keymap>
