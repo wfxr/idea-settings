@@ -77,18 +77,24 @@
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" timestamp="1508374661080">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" timestamp="1508376340580">
         <mark key="'" line="51" column="79" />
-        <mark key="[" line="53" column="70" />
-        <mark key="]" line="53" column="70" />
-        <mark key="." line="53" column="70" />
-        <mark key="^" line="51" column="87" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="35" column="62" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsConfig.kt" timestamp="1508327968417">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="93" />
         <mark key="." line="9" column="93" />
         <mark key="^" line="9" column="93" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" timestamp="1508377355435">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="37" />
+        <mark key="^" line="35" column="37" />
+        <mark key="." line="35" column="37" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/spout/Spout.kt" timestamp="1508141010489">
         <mark key="[" line="10" column="6" />
@@ -132,6 +138,9 @@
         <mark key="]" line="14" column="8" />
         <mark key="^" line="14" column="8" />
         <mark key="." line="14" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" timestamp="1508376634655">
+        <mark key="'" line="177" column="40" />
       </file>
       <file name="$USER_HOME$/develop/storm-test/src/main/java/T.java" timestamp="1508075535518">
         <mark key="[" line="0" column="16" />
@@ -215,6 +224,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/Collections.kt" timestamp="1508376498841" />
       <file name="$USER_HOME$/develop/storm-elasticsearch/src/main/kotlin/org/wfxr/ESIndexTopology.kt" timestamp="1508313084238">
         <mark key="'" line="10" column="10" />
         <mark key="[" line="19" column="0" />
@@ -235,12 +245,12 @@
         <mark key="." line="40" column="73" />
         <mark key="^" line="40" column="107" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508324004416">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508377895698">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/develop/storm-elasticsearch/pom.xml" timestamp="1508313036115">
         <mark key="[" line="53" column="0" />
@@ -315,7 +325,7 @@
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="/fragment.kt" timestamp="1508222916776">
+      <file name="/fragment.kt" timestamp="1508375387593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -395,10 +405,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="46" />
       </file>
-      <file name="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/Hello.kt" timestamp="1508374576955">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/Hello.kt" timestamp="1508375631423">
+        <mark key="[" line="19" column="59" />
+        <mark key="]" line="19" column="59" />
+        <mark key="." line="19" column="59" />
       </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCount.kt" timestamp="1508078792201">
         <mark key="[" line="13" column="16" />
@@ -530,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
-      <jump line="84" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="17" column="6" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="11" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" />
@@ -630,46 +638,50 @@
       <jump line="208" column="31" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/action/index/IndexRequestBuilder.java" />
       <jump line="46" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
       <jump line="52" column="79" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
+      <jump line="73" column="0" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
+      <jump line="177" column="40" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5wcmVwYXJlCg==</text>
+      <register name="&quot;" type="4">
+        <text>bidR</text>
       </register>
       <register name="-" type="4">
-        <text>spout</text>
+        <text>bidR</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIEFueS50b0pzb24oKTogU3RyaW5nID0gZ3Nvbi50b0pzb24odGhpcykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidW5hYmxlIHRvIGluaXRpYWxpemUgRXNCb2x0ICIsIGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5wcmVwYXJlCg==</text>
+        <text encoding="base64">Ly8gICAganNvbkJ1aWxkZXIoKQovLyAgICAgICAgICAgIC5zdGFydE9iamVjdCgpCi8vICAgICAgICAgICAgLmZpZWxkKCJiYXNpY0luZm8iLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJhc2ljSW5mbyIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVxdWVzdCIsIHR1cGxlLmdldFZhbHVlQnlGaWVsZCgiYmlkUmVxdWVzdCIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVzcG9uc2UiLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJpZFJlc3BvbnNlIikpCi8vICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzID0gYXJyYXlPZigwKQo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIubWFwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHMuaW5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgIHZhbCBzb3VyY2UgPSBzb3VyY2VCdWlsZGVyKHR1cGxlKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly9mdW4gYXAoKSB7Ci8vICAgIHZhbCBzID0gYXJyYXlPZigxKQovLyAgICBnc29uLnRvSnNvbihzKQovL30K</text>
+      <register name="4" type="4">
+        <text>jsonBuilder().startObject()
+                            .field(&quot;metaInfo&quot;, source)
+                            .endObject()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIAo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBkZXZpY2VJbmZvID0gYmlkUmVxdWVzdFsiZGV2aWNlIl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly92YWwgZ3NvbiA9IEdzb25CdWlsZGVyKCkuZW5hYmxlQ29tcGxleE1hcEtleVNlcmlhbGl6YXRpb24oKS5zZXRQcmV0dHlQcmludGluZygpLmNyZWF0ZSgpISEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50ISEucHJlcGFyZUluZGV4KGluZGV4LCB0eXBlKS5zZXRTb3VyY2UoCiAgICAgICAgICAgICAgICAgICAganNvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0T2JqZWN0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZCgidXNlciIsICJ3ZW54dWFuIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZCgicG9zdERhdGUiLCBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmllbGQoIm1lc3NhZ2UiLCAidHJ5aW5nIG91dCBFbGFzdGljc2VhcmNoIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmRPYmplY3QoKSkuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3Nvbi5uZXdKc29uV3JpdGVyKCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3Nvbi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4pLmdldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzKCIiKQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudC5wcmVwYXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2lucHV0L3R1cGxlL2c=</text>
