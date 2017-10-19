@@ -6,6 +6,7 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
+  <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -21,14 +22,28 @@
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
     <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="escape" />
   </action>
+  <action id="EditorKillRegion" />
+  <action id="EditorKillToWordEnd" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -53,12 +68,16 @@
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="ReloadFromDisk">
     <keyboard-shortcut first-keystroke="alt u" />
