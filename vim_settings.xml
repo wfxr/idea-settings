@@ -206,6 +206,9 @@
         <mark key="^" line="17" column="56" />
         <mark key="." line="10" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.6/jackson-core-2.8.6-sources.jar!/com/fasterxml/jackson/core/JsonGenerator.java" timestamp="1508379263715">
+        <mark key="'" line="812" column="25" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/utils/MapUtils.kt" timestamp="1508137835880">
         <mark key="[" line="7" column="58" />
         <mark key="]" line="7" column="68" />
@@ -504,6 +507,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1508378530042">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="24" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="75" column="24" />
+      </file>
       <file name="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/CycleSpout.kt" timestamp="1508294233236">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -530,16 +539,15 @@
         <mark key="." line="40" column="73" />
         <mark key="^" line="40" column="107" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508378253832">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508378945608">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="18" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/MainTopology.kt" />
       <jump line="11" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" />
       <jump line="10" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/topology/Starter.kt" />
@@ -639,13 +647,14 @@
       <jump line="52" column="79" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
       <jump line="73" column="0" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
       <jump line="177" column="40" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
+      <jump line="812" column="25" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.6/jackson-core-2.8.6-sources.jar!/com/fasterxml/jackson/core/JsonGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bidR</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>bidR</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -654,33 +663,33 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidW5hYmxlIHRvIGluaXRpYWxpemUgRXNCb2x0ICIsIGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAganNvbkJ1aWxkZXIoKQovLyAgICAgICAgICAgIC5zdGFydE9iamVjdCgpCi8vICAgICAgICAgICAgLmZpZWxkKCJiYXNpY0luZm8iLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJhc2ljSW5mbyIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVxdWVzdCIsIHR1cGxlLmdldFZhbHVlQnlGaWVsZCgiYmlkUmVxdWVzdCIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVzcG9uc2UiLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJpZFJlc3BvbnNlIikpCi8vICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXIuZmllbGQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXIubWFwKCkK</text>
+        <text encoding="base64">ICAgIGJ1aQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Ly8gICAganNvbkJ1aWxkZXIoKQovLyAgICAgICAgICAgIC5zdGFydE9iamVjdCgpCi8vICAgICAgICAgICAgLmZpZWxkKCJiYXNpY0luZm8iLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJhc2ljSW5mbyIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVxdWVzdCIsIHR1cGxlLmdldFZhbHVlQnlGaWVsZCgiYmlkUmVxdWVzdCIpKQovLyAgICAgICAgICAgIC5maWVsZCgiYmlkUmVzcG9uc2UiLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoImJpZFJlc3BvbnNlIikpCi8vICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkZXIubWFwKCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgIHZhbCBzb3VyY2UgPSBzb3VyY2VCdWlsZGVyKHR1cGxlKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>jsonBuilder().startObject()
                             .field(&quot;metaInfo&quot;, source)
                             .endObject()</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vICAgIHZhbCBkZXZpY2VJbmZvID0gYmlkUmVxdWVzdFsiZGV2aWNlIl0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50ISEucHJlcGFyZUluZGV4KGluZGV4LCB0eXBlKS5zZXRTb3VyY2UoCiAgICAgICAgICAgICAgICAgICAganNvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0T2JqZWN0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZCgidXNlciIsICJ3ZW54dWFuIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZCgicG9zdERhdGUiLCBEYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmllbGQoIm1lc3NhZ2UiLCAidHJ5aW5nIG91dCBFbGFzdGljc2VhcmNoIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmRPYmplY3QoKSkuZ2V0KCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4pLmdldCgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5wcmVwYXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2lucHV0L3R1cGxlL2c=</text>
