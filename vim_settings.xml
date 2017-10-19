@@ -77,12 +77,12 @@
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" timestamp="1508383092330">
-        <mark key="'" line="55" column="32" />
-        <mark key="[" line="55" column="71" />
-        <mark key="]" line="51" column="85" />
-        <mark key="." line="55" column="82" />
-        <mark key="^" line="51" column="85" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" timestamp="1508383977290">
+        <mark key="'" line="63" column="32" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="57" column="19" />
+        <mark key="." line="57" column="19" />
+        <mark key="^" line="57" column="19" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsConfig.kt" timestamp="1508327968417">
         <mark key="[" line="9" column="79" />
@@ -658,46 +658,46 @@
       <jump line="54" column="32" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: JsonElement?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>: JsonElement?</text>
+        <text>v.toJsonTree()</text>
       </register>
       <register name="/" type="4">
         <text>geo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnVuIEFueS50b0pzb24oKTogU3RyaW5nID0gZ3Nvbi50b0pzb24odGhpcykK</text>
+      <register name="0" type="4">
+        <text>tuple.getValueByField(&quot;basic&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnc29uLnRvSnNvblRyZWUoKQo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3MoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcmV0dXJuIGpzb25CdWlsZGVyKCkKICAgICAgICAvLyAgICAgICAgICAgICAgICAuc3RhcnRPYmplY3QoKQogICAgICAgIC8vICAgICAgICAgICAgICAgIC5maWVsZCgibWV0YUluZm8iLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoIm1ldGFJbmZvIikpCiAgICAgICAgLy8gICAgICAgICAgICAgICAgLmZpZWxkKCJiaWRSZXF1ZXN0IiwgdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXF1ZXN0IikpCiAgICAgICAgLy8gICAgICAgICAgICAgICAgLmZpZWxkKCJiaWRSZXNwb25zZSIsIHR1cGxlLmdldFZhbHVlQnlGaWVsZCgiYmlkUmVzcG9uc2UiKSkKICAgICAgICAvLyAgICAgICAgICAgICAgICAuZW5kT2JqZWN0KCkhIQo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2UuYWRkUHJvcGVydHlJZk5vdE51bGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgZnVuIGdldFNvdXJjZSh0dXBsZTogVHVwbGUpID0gbWFwT2YoCiAgICAvLyAgICAgICAgICAgICJtZXRhSW5mbyIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJtZXRhSW5mbyIpLAogICAgLy8gICAgICAgICAgICAiYmlkUmVxdWVzdCIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXF1ZXN0IiksCiAgICAvLyAgICAgICAgICAgICJiaWRSZXNwb25zZSIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXNwb25zZSIpKS50b0pzb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBnc29uLnRvSnNvblRyZWUoKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcmV0dXJuIGpzb25CdWlsZGVyKCkKICAgICAgICAvLyAgICAgICAgICAgICAgICAuc3RhcnRPYmplY3QoKQogICAgICAgIC8vICAgICAgICAgICAgICAgIC5maWVsZCgibWV0YUluZm8iLCB0dXBsZS5nZXRWYWx1ZUJ5RmllbGQoIm1ldGFJbmZvIikpCiAgICAgICAgLy8gICAgICAgICAgICAgICAgLmZpZWxkKCJiaWRSZXF1ZXN0IiwgdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXF1ZXN0IikpCiAgICAgICAgLy8gICAgICAgICAgICAgICAgLmZpZWxkKCJiaWRSZXNwb25zZSIsIHR1cGxlLmdldFZhbHVlQnlGaWVsZCgiYmlkUmVzcG9uc2UiKSkKICAgICAgICAvLyAgICAgICAgICAgICAgICAuZW5kT2JqZWN0KCkhIQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgZnVuIGdldFNvdXJjZSh0dXBsZTogVHVwbGUpID0gbWFwT2YoCiAgICAvLyAgICAgICAgICAgICJtZXRhSW5mbyIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJtZXRhSW5mbyIpLAogICAgLy8gICAgICAgICAgICAiYmlkUmVxdWVzdCIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXF1ZXN0IiksCiAgICAvLyAgICAgICAgICAgICJiaWRSZXNwb25zZSIgdG8gdHVwbGUuZ2V0VmFsdWVCeUZpZWxkKCJiaWRSZXNwb25zZSIpKS50b0pzb24oKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="9" type="8">
         <text>.field(
 .field(
 .field(</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgc291cmNlID0ganNvbk9iamVjdCgpCiAgICAgICAgc291cmNlLmFkZFByb3BlcnR5KCIiKQogICAgICAgIHZhbCB0cmVlID0gZ3Nvbi50b0pzb25UcmVlKHR1cGxlKQogICAgICAgIHRyZWUu</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdzb24uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dlby9iaWRzL2c=</text>
