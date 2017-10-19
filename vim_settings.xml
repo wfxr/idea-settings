@@ -229,12 +229,12 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1508389934671">
-        <mark key="'" line="49" column="12" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1508395216925">
+        <mark key="'" line="10" column="20" />
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+        <mark key="." line="86" column="19" />
+        <mark key="^" line="95" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/kotlin/zmeng/ParserChecker.kt" timestamp="1499917033373">
         <mark key="[" line="7" column="0" />
@@ -242,7 +242,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="50" column="92" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508381203153">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508395162631">
         <mark key="'" line="15" column="22" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -314,11 +314,11 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1508389917526">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1508395615041">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="85" />
+        <mark key="." line="15" column="57" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsConfig.kt" timestamp="1508320717032">
         <mark key="[" line="11" column="42" />
@@ -521,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/FlatBolt.kt" />
       <jump line="24" column="49" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/FlatBolt.kt" />
       <jump line="3" column="15" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/parser/BidLogExtractor.kt" />
@@ -621,13 +620,14 @@
       <jump line="94" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="87" column="1" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="49" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
+      <jump line="10" column="20" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiBEZXZpY2VJbmZvIA==</text>
+        <text>?.filter { it.isHexDigit() }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBEZXZpY2VJbmZvIA==</text>
+        <text>?.filter { it.isHexDigit() }</text>
       </register>
       <register name="/" type="4">
         <text>.&quot;*,</text>
