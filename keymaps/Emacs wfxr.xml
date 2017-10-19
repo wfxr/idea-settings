@@ -76,16 +76,35 @@
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="RefactoringMenuRenameFile">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="ReloadFromDisk">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="VimMotionLeft">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="VimMotionLeftWrap">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="VimMotionRight">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="VimMotionRightWrap">
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="ctrl insert" />
