@@ -79,6 +79,10 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="Jdbc.RunSqlScript">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="ParameterInfo" />
   <action id="PasteMultiple">
@@ -91,6 +95,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="shift alt 3" />

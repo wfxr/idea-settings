@@ -15,6 +15,9 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/JavaCode.java" timestamp="1508559317707">
+        <mark key="'" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidDspParser.java" timestamp="1507784290416">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="27" column="50" />
@@ -119,12 +122,11 @@
       <file name="$USER_HOME$/src/storm/examples/storm-elasticsearch-examples/storm-elasticsearch-examples.iml" timestamp="1508299793167">
         <mark key="'" line="11" column="80" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/Task.kt" timestamp="1508558208689">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="0" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/Task.kt" timestamp="1508559670095">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/observer-listener.kt" timestamp="1499068661514">
         <mark key="[" line="13" column="11" />
@@ -138,6 +140,12 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task1/src/Task.kt" timestamp="1508559252289">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Topology/LogParserTopology.java" timestamp="1507980287164">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="8" />
@@ -147,6 +155,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" timestamp="1508376634655">
         <mark key="'" line="177" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task4/src/Task.kt" timestamp="1508560012161" />
       <file name="$USER_HOME$/develop/storm-test/src/main/java/T.java" timestamp="1508075535518">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="4" column="55" />
@@ -159,12 +168,7 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task3/src/Task.kt" timestamp="1508558417644">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="67" />
-        <mark key="." line="0" column="67" />
-        <mark key="^" line="0" column="4" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task3/src/Task.kt" timestamp="1508559626944" />
       <file name="$USER_HOME$/.ghq/git.apache.org/hello-storm/pom.xml" timestamp="1507716578901">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="14" column="25" />
@@ -577,9 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="$USER_HOME$/develop/log-parser/src/main/resources/log4j2.xml" />
-      <jump line="18" column="15" filename="$USER_HOME$/develop/log-parser/src/main/resources/log4j2.xml" />
-      <jump line="24" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="10" column="30" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="12" column="3" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
@@ -677,13 +678,16 @@
       <jump line="0" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="53" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/Task.kt" />
+      <jump line="3" column="13" filename="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/JavaCode.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/Task.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Kotlin_Koans_Neo/lesson1/task2/src/Task.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Lip0byA=</text>
@@ -691,33 +695,33 @@
       <register name="0" type="2">
         <text encoding="base64">ZnVuIEFueT8udG9Kc29uVHJlZSgpOiBKc29uRWxlbWVudCA9IGdzb24udG9Kc29uVHJlZSh0aGlzKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZnVuIGpvaW5PcHRpb25zKG9wdGlvbnM6IENvbGxlY3Rpb248U3RyaW5nPikgPSBvcHRpb25zLmpvaW5Ub1N0cmluZyhUT0RPKCkpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgSmF2YUNvZGUgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgPSBUT0RPKCkK</text>
+      </register>
+      <register name="6" type="4">
         <text>(
         separator = &quot;,&quot;, prefix = &quot;[&quot;, postfix = &quot;]&quot;)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgPSBUT0RPKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly9mdW4gTWFwPCosICo+LnRvSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQovL2Z1biBBcnJheTwqPi50b0pzb24oKTogU3RyaW5nID0gZ3Nvbi50b0pzb24odGhpcykK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBBbnk/LnRvSnNvblRyZWUoKTogSnNvbkVsZW1lbnQgPSBnc29uLnRvSnNvblRyZWUodGhpcykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKHRoaXMgPT0gbnVsbCkgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIHRvSlNPTihjb2xsZWN0aW9uOiBDb2xsZWN0aW9uPEludD4pOiBTdHJpbmcgPSBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy4qdG8gLy9n</text>
