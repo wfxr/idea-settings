@@ -495,10 +495,10 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508332113996">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1508402855096">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/PrintBolt.kt" timestamp="1508329802176">
         <mark key="[" line="18" column="21" />
@@ -674,11 +674,11 @@
       <jump line="53" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIEFueT8udG9Kc29uVHJlZSgpOiBKc29uRWxlbWVudCA9IGdzb24udG9Kc29uVHJlZSh0aGlzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>seri</text>
       </register>
       <register name="-" type="4">
-        <text>toList()</text>
+        <text>seri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Lip0byA=</text>
