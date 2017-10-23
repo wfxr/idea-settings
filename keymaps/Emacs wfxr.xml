@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
@@ -18,9 +24,13 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteToLineEnd">
