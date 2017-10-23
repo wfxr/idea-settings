@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="snappy" type="PLAIN_TEXT" />
+      <mapping pattern="snappy.xml" type="XML" />
+    </extensionMap>
+  </component>
+</application>
