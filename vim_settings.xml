@@ -98,6 +98,7 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/samples/bid-log/bid-log.loghub.json" timestamp="1508826711622" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/spout/Spout.kt" timestamp="1508141010489">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -115,10 +116,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="47" column="1" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" timestamp="1508814895899">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" timestamp="1508826892949">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="_linux/path.macros.xml" timestamp="1508807541220">
         <mark key="[" line="0" column="0" />
@@ -222,6 +225,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/resources/log4j2.xml" timestamp="1508826531287" />
       <file name="$USER_HOME$/develop/log-parser/src/main/java/Bolt/BidExtractBolt.java" timestamp="1507877421573">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="112" />
@@ -505,10 +509,10 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508817369584">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1508826544883">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/EsAdaptBolt.kt" timestamp="1508317920583">
         <mark key="[" line="24" column="23" />
@@ -579,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="18" column="45" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WordCount.kt" />
       <jump line="22" column="19" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/WindowingWordCount.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/develop/storm-elasticsearch/src/main/kotlin/org/wfxr/ESTestUtils.kt" />
@@ -679,13 +682,14 @@
       <jump line="24" column="76" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" />
       <jump line="19" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="21" column="7" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
+      <jump line="16" column="7" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Test</text>
+        <text>Add test spout/bolt; Fix som bugs</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>Add test spout/bolt; Fix som bugs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcG91dFw+</text>
