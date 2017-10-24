@@ -114,6 +114,9 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="35" />
       </file>
+      <file name="_linux/path.macros.xml" timestamp="1508807541220">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/log-parser-maven/src/main/resources/demo/bid/tmp.json" timestamp="1499241021204">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -179,6 +182,9 @@
         <mark key="]" line="15" column="55" />
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" timestamp="1508808067772">
+        <mark key="'" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/develop/moon/src/test/java/com.zmeng.planet.moon/ValidImeiTest.java" timestamp="1504518673947">
         <mark key="[" line="7" column="44" />
@@ -335,12 +341,11 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1508398634975">
-        <mark key="'" line="41" column="22" />
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="41" column="21" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1508809446704">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="52" />
+        <mark key="." line="41" column="52" />
+        <mark key="^" line="41" column="52" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsConfig.kt" timestamp="1508320717032">
         <mark key="[" line="11" column="42" />
@@ -572,12 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="21" filename="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.jar!/META-INF/maven/plugin.xml" />
-      <jump line="4" column="15" filename="$USER_HOME$/develop/log-parser/src/main/resources/log4j2.xml" />
-      <jump line="18" column="15" filename="$USER_HOME$/develop/log-parser/src/main/resources/log4j2.xml" />
-      <jump line="24" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
-      <jump line="10" column="30" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
-      <jump line="12" column="3" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
@@ -672,13 +671,19 @@
       <jump line="64" column="6" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="0" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="53" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
+      <jump line="17" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" />
+      <jump line="7" column="10" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/FileMockSpout.kt" />
+      <jump line="49" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>seri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>seri</text>
+        <text>duration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Lip0byA=</text>
@@ -687,31 +692,31 @@
         <text encoding="base64">ZnVuIEFueT8udG9Kc29uVHJlZSgpOiBKc29uRWxlbWVudCA9IGdzb24udG9Kc29uVHJlZSh0aGlzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9mdW4gTWFwPCosICo+LnRvSnNvbigpOiBTdHJpbmcgPSBnc29uLnRvSnNvbih0aGlzKQovL2Z1biBBcnJheTwqPi50b0pzb24oKTogU3RyaW5nID0gZ3Nvbi50b0pzb24odGhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBBbnk/LnRvSnNvblRyZWUoKTogSnNvbkVsZW1lbnQgPSBnc29uLnRvSnNvblRyZWUodGhpcykKCg==</text>
+        <text encoding="base64">Ly9jbGFzcyBJbXBJbmZvSnNvbkFkYXB0ZXIgOiBKc29uU2VyaWFsaXplcjxJbXBJbmZvPnsKLy8gICAgb3ZlcnJpZGUgZnVuIHNlcmlhbGl6ZShzcmM6IEltcEluZm8/LCB0eXBlT2ZTcmM6IFR5cGUsIGNvbnRleHQ6IEpzb25TZXJpYWxpemF0aW9uQ29udGV4dCk6IEpzb25FbGVtZW50IHsKLy8gICAgICAgIAovLyAgICB9Ci8vfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgaWYgKHRoaXMgPT0gbnVsbCkgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb2JqID0gSnNvbk9iamVjdCgpCiAgICAgICAgd2hlbihzcmMpIHsKICAgICAgICAgICAgaXMgQmFubmVySW1wSW5mbyAtPiByZXR1cm4gc3JjLnRvSnNvblRyZWUoKQogICAgICAgICAgICBpcyBWaWRlb0ltcEluZm8gLT4gcmV0dXJuIHNyYy50b0pzb25UcmVlKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeCA9IEFueSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgIG1hcE9mKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3aGVuICh4KSB7CiAgICAgICAgICAgIGlzIEJhbm5lckltcEluZm8gLT4geC53CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmoudG9qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgIHJldHVybiBudWxsCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmouYWRkUHJvcGVydHkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy4qdG8gLy9n</text>
