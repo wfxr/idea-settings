@@ -115,6 +115,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="47" column="1" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" timestamp="1508814895899">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="_linux/path.macros.xml" timestamp="1508807541220">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,11 +129,12 @@
         <mark key="^" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" timestamp="1508813075265">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" timestamp="1508814941547">
+        <mark key="'" line="26" column="76" />
+        <mark key="[" line="26" column="86" />
+        <mark key="]" line="26" column="88" />
+        <mark key="." line="26" column="88" />
+        <mark key="^" line="26" column="88" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/design-patterns/src/observer-listener.kt" timestamp="1499068661514">
         <mark key="[" line="13" column="11" />
@@ -245,7 +251,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1508402174267">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1508814991997">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -271,12 +277,6 @@
         <mark key="]" line="40" column="73" />
         <mark key="." line="40" column="73" />
         <mark key="^" line="40" column="107" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" timestamp="1508395162631">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/develop/storm-elasticsearch/pom.xml" timestamp="1508313036115">
         <mark key="[" line="53" column="0" />
@@ -308,11 +308,11 @@
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508387349552">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
-        <mark key="^" line="18" column="35" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508813894340">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="/Kotlin Console" timestamp="1508389479868">
         <mark key="[" line="0" column="0" />
@@ -367,7 +367,7 @@
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="/fragment.kt" timestamp="1508375387593">
+      <file name="/fragment.kt" timestamp="1508814771399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -398,7 +398,7 @@
         <mark key="^" line="0" column="578" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogExtractor.kt" timestamp="1508382562933">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogExtractor.kt" timestamp="1508814713153">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="17" column="21" />
@@ -522,9 +522,12 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1508811361045">
-        <mark key="'" line="43" column="37" />
-        <mark key="^" line="12" column="90" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1508813740571">
+        <mark key="'" line="44" column="37" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+        <mark key="." line="45" column="43" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/utils/JsonUtils.kt" timestamp="1508126215692">
         <mark key="[" line="12" column="23" />
@@ -576,8 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
-      <jump line="23" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/.ghq/github.com/wfxr/storm-wordcount/src/main/kotlin/org/wfxr/trident/Topology.kt" />
@@ -676,13 +677,15 @@
       <jump line="18" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogFileSpout.kt" />
       <jump line="43" column="37" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="0" column="16" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogFileSpout.kt" />
+      <jump line="0" column="27" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" />
+      <jump line="24" column="76" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcG91dFw+</text>
@@ -691,31 +694,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5hbGl5dW4ub3BlbnNlcnZpY2VzLmxvZy5jb21tb24uTG9nR3JvdXBEYXRhCmltcG9ydCBjb20uYWxpeXVuLm9wZW5zZXJ2aWNlcy5sb2dodWIuc3Rvcm1zcG91dC5Mb2dIdWJTcG91dAppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50YXNrLk91dHB1dENvbGxlY3RvcgppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50YXNrLlRvcG9sb2d5Q29udGV4dAppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50b3BvbG9neS5PdXRwdXRGaWVsZHNEZWNsYXJlcgppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50b3BvbG9neS5iYXNlLkJhc2VSaWNoQm9sdAppbXBvcnQgb3JnLmFwYWNoZS5zdG9ybS50dXBsZS5GaWVsZHMKaW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udHVwbGUuVHVwbGUKaW1wb3J0IG9yZy5hcGFjaGUuc3Rvcm0udHVwbGUuVmFsdWVzCgpjbGFzcyBMb2dIdWJGbGF0Qm9sdCA6IEJhc2VSaWNoQm9sdCgpIHsKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1Db2xsZWN0b3I6IE91dHB1dENvbGxlY3RvcgoKICAgIG92ZXJyaWRlIGZ1biBwcmVwYXJlKHN0b3JtQ29uZjogTXV0YWJsZU1hcDxBbnk/LCBBbnk/Pj8sIGNvbnRleHQ6IFRvcG9sb2d5Q29udGV4dD8sIGNvbGxlY3RvcjogT3V0cHV0Q29sbGVjdG9yKSB7CiAgICAgICAgbUNvbGxlY3RvciA9IGNvbGxlY3RvcgogICAgfQoKICAgIC8vICAgIG92ZXJyaWRlIGZ1biBleGVjdXRlKGlucHV0OiBUdXBsZSkgewogICAgLy8gICAgICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQogICAgLy8gICAgICAgIHZhbCBsb2dHcm91cHMgPSBpbnB1dC5nZXRWYWx1ZUJ5RmllbGQoTG9nSHViU3BvdXQuRklFTERfTE9HR1JPVVBTKSBhcyBBcnJheUxpc3Q8TG9nR3JvdXBEYXRhPgogICAgLy8gICAgICAgIGxvZ0dyb3Vwcy5mbGF0TWFwIHsgaXQuR2V0TG9nR3JvdXAoKS5sb2dzTGlzdCB9CiAgICAvLyAgICAgICAgICAgICAgICAuZmxhdE1hcCB7IGl0LmNvbnRlbnRzTGlzdCB9CiAgICAvLyAgICAgICAgICAgICAgICAuZm9yRWFjaCB7IG1Db2xsZWN0b3IuZW1pdChpbnB1dCwgVmFsdWVzKGl0LnZhbHVlKSkgfQogICAgLy8gICAgICAgIG1Db2xsZWN0b3IuYWNrKGlucHV0KQogICAgLy8gICAgfQoKICAgIG92ZXJyaWRlIGZ1biBleGVjdXRlKGlucHV0OiBUdXBsZSkgewogICAgICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQogICAgICAgIHZhbCBsb2dHcm91cHMgPSBpbnB1dC5nZXRWYWx1ZUJ5RmllbGQoTG9nSHViU3BvdXQuRklFTERfTE9HR1JPVVBTKSBhcyBBcnJheUxpc3Q8TG9nR3JvdXBEYXRhPgogICAgICAgIGxvZ0dyb3Vwcy5mb3JFYWNoIHsKICAgICAgICAgICAgdmFsIGdyb3VwID0gaXQuR2V0TG9nR3JvdXAoKQogICAgICAgICAgICB2YWwgaG9zdElwID0gZ3JvdXAuc291cmNlCiAgICAgICAgICAgIGdyb3VwLmxvZ3NMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgdmFsIGNvbGxlY3RUaW1lID0gaXQudGltZQogICAgICAgICAgICAgICAgaXQuY29udGVudHNMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIG1Db2xsZWN0b3IuZW1pdChpbnB1dCwgVmFsdWVzKGhvc3RJcCwgY29sbGVjdFRpbWUsIGl0LnZhbHVlKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBtQ29sbGVjdG9yLmFjayhpbnB1dCkKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gZGVjbGFyZU91dHB1dEZpZWxkcyhkZWNsYXJlcjogT3V0cHV0RmllbGRzRGVjbGFyZXIpIHsKICAgICAgICBkZWNsYXJlci5kZWNsYXJlKEZpZWxkcygiaG9zdElwIiwgImNvbGxlY3RUaW1lIiwgImNvbnRlbnQiKSkKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRlbnQgPSBpbnB1dC5nZXRTdHJpbmdCeUZpZWxkKCJjb250ZW50IikK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdyb3VwID0gaXQuR2V0TG9nR3JvdXAoKQogICAgICAgICAgICB2YWwgaG9zdElwID0gZ3JvdXAuc291cmNlCiAgICAgICAgICAgIGdyb3VwLmxvZ3NMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgdmFsIGNvbGxlY3RUaW1lID0gaXQudGltZQogICAgICAgICAgICAgICAgaXQuY29udGVudHNMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIG1Db2xsZWN0b3IuZW1pdChpbnB1dCwgVmFsdWVzKGhvc3RJcCwgY29sbGVjdFRpbWUsIGl0LnZhbHVlKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhvc3RJcCA9ICJsb2NhbGhvc3QiCiAgICAgICAgICAgIHZhbCBjb2xsZWN0VGltZSA9IGN1cnJlbnRUaW1lTWlsbGlzKCkgLyAxMDAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzID0gKDEuLjEwMCkubWFwIHsKICAgICAgICAgICAgTW9ja0xvZ1NvdXJjZS5nZXRPbmUoKQogICAgICAgIH0udG9MaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICByZXBlYXQoMTAwKSB7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXAubG9nc0xpc3QuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICB2YWwgY29sbGVjdFRpbWUgPSBpdC50aW1lCiAgICAgICAgICAgICAgICBpdC5jb250ZW50c0xpc3QuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICAgICAgbUNvbGxlY3Rvci5lbWl0KGlucHV0LCBWYWx1ZXMoaG9zdElwLCBjb2xsZWN0VGltZSwgaXQudmFsdWUpKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNvbGxlY3Rvci5lbWl0KFZhbHVlcygibG9jYWxob3N0IiwgY3VycmVudFRpbWVNaWxsaXMoKSAvIDEwMDAsIE1vY2tMb2dTb3VyY2UuZ2V0T25lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdyb3VwID0gaXQuR2V0TG9nR3JvdXAoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29sbGVjdG9yLmVtaXQoVmFsdWVzKCJsb2NhbGhvc3QiLCBjdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCwgTW9ja0xvZ1NvdXJjZS5nZXRPbmUoKSkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdyb3VwID0gaXQuR2V0TG9nR3JvdXAoKQogICAgICAgICAgICB2YWwgaG9zdElwID0gZ3JvdXAuc291cmNlCiAgICAgICAgICAgIGdyb3VwLmxvZ3NMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgdmFsIGNvbGxlY3RUaW1lID0gaXQudGltZQogICAgICAgICAgICAgICAgaXQuY29udGVudHNMaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIG1Db2xsZWN0b3IuZW1pdChpbnB1dCwgVmFsdWVzKGhvc3RJcCwgY29sbGVjdFRpbWUsIGl0LnZhbHVlKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29sbGVjdG9yLmVtaXQoVmFsdWVzKCJsb2NhbGhvc3QiLCBjdXJyZW50VGltZU1pbGxpcygpIC8gMTAwMCwgTW9ja0xvZ1NvdXJjZS5nZXRPbmUoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzID0gKDEuLjEwMCkubWFwIHsKICAgICAgICAgICAgTW9ja0xvZ1NvdXJjZS5nZXRPbmUoKQogICAgICAgIH0udG9MaXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
