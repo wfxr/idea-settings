@@ -115,9 +115,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/bulk.kt" timestamp="1508916314468">
+      <file name="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/bulk.kt" timestamp="1508916615713">
         <mark key="'" line="52" column="17" />
-        <mark key="]" line="52" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="52" />
         <mark key="." line="52" column="16" />
         <mark key="^" line="52" column="4" />
       </file>
@@ -180,11 +181,12 @@
         <mark key="^" line="50" column="50" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508914474001">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508917557334">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="122" column="35" />
+        <mark key="]" line="122" column="36" />
+        <mark key="^" line="45" column="63" />
+        <mark key="." line="122" column="36" />
       </file>
       <file name="$USER_HOME$/develop/storm_loghub/src/main/java/com/zm/dsplog/bolts/DspLogExplainBolt.java" timestamp="1508205473811">
         <mark key="[" line="47" column="0" />
@@ -203,19 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="29" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsIndexBolt.kt" />
-      <jump line="50" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsIndexBolt.kt" />
-      <jump line="31" column="30" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsIndexBolt.kt" />
-      <jump line="27" column="6" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-elasticsearch/1.1.1/storm-elasticsearch-1.1.1-sources.jar!/org/apache/storm/elasticsearch/common/EsTupleMapper.java" />
-      <jump line="35" column="26" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-elasticsearch/1.1.1/storm-elasticsearch-1.1.1-sources.jar!/org/apache/storm/elasticsearch/bolt/EsIndexBolt.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsIndexBolt.kt" />
-      <jump line="15" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsTupleMapper.kt" />
-      <jump line="18" column="40" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/JsonUtils.kt" />
-      <jump line="221" column="44" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/action/index/IndexRequestBuilder.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/action/index/IndexRequestBuilder.java" />
-      <jump line="102" column="26" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/action/index/IndexRequestBuilder.java" />
-      <jump line="208" column="31" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/action/index/IndexRequestBuilder.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
       <jump line="52" column="79" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
       <jump line="73" column="0" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
       <jump line="177" column="40" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
@@ -303,51 +292,59 @@
       <jump line="33" column="76" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="36" column="31" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="52" column="17" filename="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/bulk.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="124" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="38" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="56" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="126" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgY2xpZW50ISEucHJlcGFyZUluZGV4KGluZGV4LCB0eXBlKS5zZXRTb3VyY2Uoc291cmNlLCBYQ29udGVudFR5cGUuSlNPTikuZ2V0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="4">
-        <text>jsonBuilder()
-                    .startObject()
-                    .field(&quot;user&quot;, &quot;wenxuan&quot;)
-                    .field(&quot;postDate&quot;, Date())
-                    .field(&quot;message&quot;, &quot;trying out Elasticsearch&quot;)
-                    .endObject()).get()</text>
+        <text>this.bulkProcessor =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1bGtQcm9jZXNzb3IuYWRkKEluZGV4UmVxdWVzdCgidHdpdHRlciIsICJ0d2l0dGVyIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNvdXJjZShqc29uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3RhcnRPYmplY3QoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJ1c2VyIiwgIndlbnh1YW4iKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKCJwb3N0RGF0ZSIsIERhdGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5maWVsZCgibWVzc2FnZSIsICJ0cnlpbmcgb3V0IEVsYXN0aWNzZWFyY2giKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmVuZE9iamVjdCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgY2xpZW50ISEucHJlcGFyZUluZGV4KGluZGV4LCB0eXBlKS5zZXRTb3VyY2Uoc291cmNlLCBYQ29udGVudFR5cGUuSlNPTikuZ2V0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgxLi4xMDAwMCkuZm9yZWFjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kZXggPSAiYmlkLWxvZyIKICAgICAgICB2YWwgdHlwZSA9ICJiaWQtbG9nIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNyZWF0ZUJ1bGtQcm9jZXNzKGNsaWVudDogQ2xpZW50KSA9IEJ1bGtQcm9jZXNzb3IuYnVpbGRlcigKICAgICAgICAgICAgY2xpZW50LAogICAgICAgICAgICBvYmplY3QgOiBCdWxrUHJvY2Vzc29yLkxpc3RlbmVyIHsKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBiZWZvcmVCdWxrKGV4ZWN1dGlvbklkOiBMb25nLCByZXF1ZXN0OiBCdWxrUmVxdWVzdCkgewogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLlh4blpIfmj5LlhaV7feadoeaVsOaNriIsIHJlcXVlc3QubnVtYmVyT2ZBY3Rpb25zKCkpCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGFmdGVyQnVsayhleGVjdXRpb25JZDogTG9uZywgcmVxdWVzdDogQnVsa1JlcXVlc3QsIHJlc3BvbnNlOiBCdWxrUmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5o+S5YWle33mnaHmlbDmja7miJDlip8iLCByZXF1ZXN0Lm51bWJlck9mQWN0aW9ucygpKQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBhZnRlckJ1bGsoZXhlY3V0aW9uSWQ6IExvbmcsIHJlcXVlc3Q6IEJ1bGtSZXF1ZXN0LCBmYWlsdXJlOiBUaHJvd2FibGUpIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5o+S5YWle33mnaHmlbDmja7lpLHotKU6IHt9IiwgcmVxdWVzdC5udW1iZXJPZkFjdGlvbnMoKSwgZmFpbHVyZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICAgICAgLnNldEJ1bGtBY3Rpb25zKDEwMDApCiAgICAgICAgICAgIC5zZXRCdWxrU2l6ZShCeXRlU2l6ZVZhbHVlKDUsIE1CKSkKICAgICAgICAgICAgLnNldEZsdXNoSW50ZXJ2YWwoVGltZVZhbHVlKDUsIFNFQ09ORFMpKQogICAgICAgICAgICAuc2V0Q29uY3VycmVudFJlcXVlc3RzKDIpCiAgICAgICAgICAgIC5zZXRCYWNrb2ZmUG9saWN5KEJhY2tvZmZQb2xpY3kuY29uc3RhbnRCYWNrb2ZmKFRpbWVWYWx1ZSgxMDAsIE1JTExJU0VDT05EUyksIDMpKQogICAgICAgICAgICAuYnVpbGQoKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQodGhpczo6Y2xhc3MuamF2YSkgewogICAgICAgICAgICBjbGllbnQgPSBjbGllbnQgPzogY3JlYXRlRXNDbGllbnQoY29uZmlnKQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5x</text>
