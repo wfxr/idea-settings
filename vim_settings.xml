@@ -341,11 +341,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/storm/storm-elasticsearch/1.1.1/storm-elasticsearch-1.1.1-sources.jar!/org/apache/storm/elasticsearch/common/StormElasticSearchClient.java" timestamp="1508320466365">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508907257151">
-        <mark key="[" line="20" column="86" />
-        <mark key="]" line="20" column="87" />
-        <mark key="." line="20" column="87" />
-        <mark key="^" line="20" column="87" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1508909965688">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="/Kotlin Console" timestamp="1508389479868">
         <mark key="[" line="0" column="0" />
@@ -784,7 +784,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzgvMTY=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -836,10 +836,10 @@
         <entry encoding="base64">JzwsJz5zLywvPywvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyp0byAvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy4qdG8gLy9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2NvbGxlY3QvbG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xvZy9jb2xsZWN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzgvMTY=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
