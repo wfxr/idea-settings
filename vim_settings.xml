@@ -88,7 +88,7 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508896357572">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508902602220">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -510,12 +510,12 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508901039040">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508902878953">
         <mark key="'" line="91" column="8" />
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="19" />
-        <mark key="." line="46" column="19" />
-        <mark key="^" line="46" column="19" />
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+        <mark key="^" line="60" column="60" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/elasticsearch/EsConfig.kt" timestamp="1508318521724">
         <mark key="[" line="3" column="51" />
@@ -662,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getAndAdd()</text>
+        <text>tuple</text>
       </register>
       <register name="-" type="4">
-        <text>getAndAdd()</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
