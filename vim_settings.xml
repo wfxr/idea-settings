@@ -174,15 +174,15 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1508909056789">
-        <mark key="'" line="46" column="75" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="36" column="35" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1508931273544">
+        <mark key="'" line="45" column="23" />
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="46" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508922806065">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1508930779218">
+        <mark key="'" line="125" column="0" />
         <mark key="[" line="122" column="35" />
         <mark key="]" line="122" column="36" />
         <mark key="^" line="45" column="63" />
@@ -205,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="79" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsIndexBolt.kt" />
-      <jump line="73" column="0" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
-      <jump line="177" column="40" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Collections.kt" />
-      <jump line="812" column="25" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.6/jackson-core-2.8.6-sources.jar!/com/fasterxml/jackson/core/JsonGenerator.java" />
       <jump line="1" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/JsonUtils.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/utils/JsonUtils.kt" />
       <jump line="318" column="16" filename="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0-sources.jar!/com/google/gson/JsonElement.java" />
@@ -281,7 +277,6 @@
       <jump line="11" column="15" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/PrintBolt.kt" />
       <jump line="26" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/SpeedTestBolt.kt" />
       <jump line="25" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" />
-      <jump line="46" column="75" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/Hello.kt" />
       <jump line="10" column="24" filename="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/Hello.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/src/storm/examples/elasticsearch/src/main/kotlin/org/wfxr/Hello.kt" />
@@ -305,13 +300,18 @@
       <jump line="26" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="44" column="29" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="45" column="21" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="46" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="82" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
+      <jump line="125" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ofPublicEndpoint</text>
+        <text>-test</text>
       </register>
       <register name="-" type="4">
-        <text>ofPublicEndpoint</text>
+        <text>-test</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
