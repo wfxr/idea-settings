@@ -88,7 +88,8 @@
         <mark key="." line="7" column="68" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508902602220">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508903990537">
+        <mark key="'" line="25" column="8" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -559,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/EsAdaptBolt.kt" />
       <jump line="38" column="33" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-elasticsearch/1.1.1/storm-elasticsearch-1.1.1-sources.jar!/org/apache/storm/elasticsearch/bolt/AbstractEsBolt.java" />
       <jump line="8" column="30" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/elasticsearch/EsIndexBolt.kt" />
       <jump line="26" column="0" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-elasticsearch/1.1.1/storm-elasticsearch-1.1.1-sources.jar!/org/apache/storm/elasticsearch/common/StormElasticSearchClient.java" />
@@ -659,6 +659,7 @@
       <jump line="92" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="11" column="15" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/PrintBolt.kt" />
       <jump line="26" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/SpeedTestBolt.kt" />
+      <jump line="25" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
