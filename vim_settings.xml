@@ -483,10 +483,10 @@
         <mark key="'" line="208" column="31" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpout.kt" timestamp="1508904611903">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/storm/bolt/PrintBolt.kt" timestamp="1508313693715">
         <mark key="'" line="11" column="18" />
