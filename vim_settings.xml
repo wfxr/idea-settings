@@ -57,6 +57,11 @@
         <mark key="]" line="39" column="57" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1509068411826">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/hello-storm/src/main/kotlin/org/wfxr/WordCountBolt.kt" timestamp="1508056320803">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -341,11 +346,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -354,31 +359,31 @@
         <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9AU3VwcHJlc3MoInVudXNlZCIpCg==</text>
+        <text encoding="base64">ICAgIGdzb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5lbGFzdGljc2VhcmNoLnRvSnNvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly9AU3VwcHJlc3MoInVudXNlZCIpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYXRpdmUgPSBpbXBOb2RlWyJuYXRpdmVBZCJdCg==</text>
+        <text encoding="base64">QFN1cHByZXNzKCJ1bnVzZWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWRlbyA9IGltcE5vZGVbInZpZGVvIl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWRlbyA9IGltcE5vZGVbInZpZGVvIl0KICAgIGlmICghdmlkZW8uaXNKc29uTnVsbCkgVmlkZW9BZCh2aWRlb1sibWF4ZHVyYXRpb24iXS5udWxsSW50KQo=</text>
+        <text encoding="base64">ICAgIHZhbCBuYXRpdmUgPSBpbXBOb2RlWyJuYXRpdmVBZCJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB2aWRlbyA9IGltcE5vZGVbInZpZGVvIl0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvL2c=</text>
