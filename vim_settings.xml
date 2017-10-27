@@ -33,11 +33,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/Mock.kt" timestamp="1509091675462">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="48" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/Mock.kt" timestamp="1509093989910">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1509014252581">
         <mark key="'" line="1" column="0" />
@@ -46,8 +46,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="/fragment.kt" timestamp="1509007102860">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.kt" timestamp="1509093561793">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/java/logparser/BidLogExtractor.kt" timestamp="1508136800002">
         <mark key="[" line="39" column="4" />
@@ -219,9 +222,6 @@
         <mark key="." line="51" column="3" />
         <mark key="^" line="51" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1509014307141">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/Serializer.kt" timestamp="1509086099451">
         <mark key="'" line="10" column="14" />
         <mark key="[" line="10" column="0" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
@@ -330,46 +329,47 @@
       <jump line="26" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="12" column="53" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" />
+      <jump line="21" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/Mock.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>base</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNsYXJlci5kZWNsYXJlKEZpZWxkcygiY291bnQiKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBvYmplY3RzID0gY2xpZW50Lmxpc3RPYmplY3RzKGJ1Y2tldE5hbWUsIGdldFByZWZpeCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsaWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBidWNrZXRzKCkgPSBjbGllbnQubGlzdEJ1Y2tldHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWwgeWVhciA9IGN1cnNvci5nZXQoWUVBUikKICAgICAgICB2YWwgbW9udGggPSBjdXJzb3IuZ2V0KE1PTlRIKQogICAgICAgIHZhbCBkYXkgPSBjdXJzb3IuZ2V0KERBWV9PRl9NT05USCkKICAgICAgICB2YWwgaG91ciA9IGN1cnNvci5nZXQoSE9VUl9PRl9EQVkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldHNbMV0uCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvYmplY3RzID0gY2xpZW50Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGJyOiBCdWZmZXJlZFJlYWRlcj8gPSBGaWxlcy5uZXdCdWZmZXJlZFJlYWRlcihQYXRocy5nZXQoIi90bXAvYmlkLWxvZy1zYW1wbGUiKSkK</text>
+        <text encoding="base64">ICAgICAgICBsaW5rZWRTZXRPZjw+KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdmFsIGxpbmUgPSBiciEhLnJlYWRMaW5lKCkKICAgICAgICAvLyAgICAgICAgaWYgKGxpbmUgIT0gbnVsbCkgcmV0dXJuIGxpbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbmRwb2ludAo=</text>
+        <text encoding="base64">ICAgIHZhbCBvc3NPYmplY3QgPSBjbGllbnQubGlzdE9iamVjdHMoYnVja2V0TmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImJhc2VpbmZvLyR7Y2FsZW5kYXIuZ2V0KFlFQVIpfS8ke2NhbGVuZGFyLmdldChNT05USCl9LyR7Y2FsZW5kYXIuZ2V0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERBWV9PRl9NT05USCl9LyR7Y2FsZW5kYXJ9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBidWNrZXRzID0gTW9ja0xvZ1NvdXJjZS5idWNrZXRzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjYWxlbmRhciA9IGdldEluc3RhbmNlKCkuYWRkKEhPVVIsIC0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ByaXZhdGUvL2c=</text>
