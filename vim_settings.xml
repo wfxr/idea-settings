@@ -171,11 +171,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="28" column="60" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1509100898829">
-        <mark key="[" line="66" column="21" />
-        <mark key="]" line="71" column="20" />
-        <mark key="." line="71" column="20" />
-        <mark key="^" line="71" column="20" />
+      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1509184426679">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" timestamp="1509107454016">
         <mark key="'" line="35" column="77" />
@@ -289,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>publicEndPoint</text>
+        <text>rc1</text>
       </register>
       <register name="-" type="4">
-        <text>publicEndPoint</text>
+        <text>rc1</text>
       </register>
       <register name="/" type="4">
         <text>inner</text>
@@ -334,7 +334,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2lubmVyL3B1YmxpYy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -374,7 +374,6 @@
         <entry encoding="base64">JzwsJz5zL2NvbGxlY3QvbG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xvZy9jb2xsZWN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzgvMTY=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3NvdXJjZS9yb290L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzovIHRvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
@@ -390,6 +389,7 @@
         <entry encoding="base64">JzwsJz5zL2VzRy9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0lubmVyL1B1YmxpYw==</entry>
         <entry encoding="base64">JzwsJz5zL2lubmVyL3B1YmxpYy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
