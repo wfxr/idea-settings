@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/SpeedReportBolt.kt" timestamp="1509003609620">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogFileFlatBolt.kt" timestamp="1509100714646">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
@@ -20,11 +14,11 @@
         <mark key="." line="33" column="72" />
         <mark key="^" line="33" column="72" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidInfo.kt" timestamp="1509015092901">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="12" column="72" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidInfo.kt" timestamp="1509174552105">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1509106300565">
         <mark key="[" line="32" column="84" />
@@ -43,12 +37,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdInfo.kt" timestamp="1509165365852">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdInfo.kt" timestamp="1509174963634">
         <mark key="'" line="14" column="32" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="29" />
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1509166975270">
         <mark key="[" line="5" column="0" />
@@ -75,17 +69,11 @@
         <mark key="." line="14" column="14" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/logs/file-output.log" timestamp="1509172096726">
-        <mark key="'" line="2989" column="203" />
-        <mark key="[" line="2989" column="291" />
-        <mark key="]" line="2989" column="290" />
-        <mark key="^" line="2989" column="290" />
-        <mark key="." line="2989" column="290" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/PrintBolt.kt" timestamp="1508986229644">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="'" line="0" column="203" />
+        <mark key="[" line="0" column="291" />
+        <mark key="]" line="0" column="290" />
+        <mark key="^" line="0" column="290" />
+        <mark key="." line="0" column="290" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" timestamp="1509014252581">
         <mark key="'" line="1" column="0" />
@@ -94,7 +82,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="/fragment.kt" timestamp="1509165300030">
+      <file name="/fragment.kt" timestamp="1509174623229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,12 +135,6 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/OssSource.kt" timestamp="1509100673549">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogExtractor.kt" timestamp="1509107355570">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="70" />
@@ -164,11 +146,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509165438607">
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="69" />
-        <mark key="." line="30" column="69" />
-        <mark key="^" line="30" column="69" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509175018747">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+        <mark key="^" line="56" column="44" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508994797805">
         <mark key="'" line="25" column="8" />
@@ -295,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>, price</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, price</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -307,31 +289,31 @@
         <text>(input.getValueByField(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBjb25zdHJ1Y3Rvcih0eXBlOiBTdHJpbmcgPSAidW5rbm93biIpIHsKICAgICAgICB0aGlzLnR5cGUgPSB0eXBlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdFsicHJpY2UiXS5udWxsSW50LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wZW4gdmFsIHR5cGUgPSAidW5rbm93biIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmljZTogSW50PywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gImJhbm5lciIK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBjb25zdHJ1Y3Rvcih0eXBlOiBTdHJpbmcgPSAidW5rbm93biIpIHsKICAgICAgICB0aGlzLnR5cGUgPSB0eXBlCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gInZpZGVvIgo=</text>
+        <text encoding="base64">ICAgIG9wZW4gdmFsIHR5cGUgPSAidW5rbm93biIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gIm5hdGl2ZSIK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gImJhbm5lciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHN1cGVyLnR5cGUK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gInZpZGVvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0eXBlID0gIm5hdGl2ZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHN1cGVyLnR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5x</text>
