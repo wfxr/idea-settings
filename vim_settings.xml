@@ -56,10 +56,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" timestamp="1509108188636">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" timestamp="1509171126136">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogFileSpout.kt" timestamp="1509100753798">
         <mark key="[" line="8" column="6" />
@@ -72,6 +73,13 @@
         <mark key="]" line="14" column="14" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/logs/file-output.log" timestamp="1509172096726">
+        <mark key="'" line="2989" column="203" />
+        <mark key="[" line="2989" column="291" />
+        <mark key="]" line="2989" column="290" />
+        <mark key="^" line="2989" column="290" />
+        <mark key="." line="2989" column="290" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/PrintBolt.kt" timestamp="1508986229644">
         <mark key="'" line="18" column="15" />
@@ -184,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="128" column="16" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/drpc/ReturnResults.java" />
       <jump line="521" column="31" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" />
       <jump line="37" column="1" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" />
@@ -284,13 +291,14 @@
       <jump line="53" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/OssSource.kt" />
       <jump line="27" column="35" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OSSFlatBolt.kt" />
       <jump line="14" column="32" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdInfo.kt" />
+      <jump line="2989" column="203" filename="$USER_HOME$/develop/log-parser/logs/file-output.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AdInfo()</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>AdInfo()</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
