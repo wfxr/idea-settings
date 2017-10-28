@@ -50,6 +50,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1509166975270">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" timestamp="1509108188636">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="26" />
@@ -320,7 +326,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ByaXZhdGUvL2c=</text>
+        <text encoding="base64">JzwsJz5x</text>
       </register>
     </registers>
     <search>
@@ -363,7 +369,6 @@
         <entry encoding="base64">JzwsJz5zL2NvbGxlY3QvbG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xvZy9jb2xsZWN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzgvMTY=</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3NvdXJjZS9yb290L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzovIHRvL2c=</entry>
@@ -376,6 +381,7 @@
         <entry>%s/(.*)//g</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvL2c=</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
