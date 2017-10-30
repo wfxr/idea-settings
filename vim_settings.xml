@@ -60,7 +60,9 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/logs/aggr-output.log" timestamp="1509332213572" />
+      <file name="$USER_HOME$/develop/log-parser/logs/aggr-output.log" timestamp="1509333535189">
+        <mark key="'" line="43832" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/enum/AdType.kt" timestamp="1509175892727">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -198,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
-      <jump line="0" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogAggr.kt" />
-      <jump line="26" column="42" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
       <jump line="21" column="35" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
       <jump line="79" column="33" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="27" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
@@ -298,6 +297,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
       <jump line="21" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
+      <jump line="40" column="83" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
+      <jump line="43832" column="0" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
