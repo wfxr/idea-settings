@@ -62,6 +62,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
@@ -82,12 +83,16 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="QuickActionPopup" />
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl insert" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
