@@ -60,6 +60,7 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/logs/aggr-output.log" timestamp="1509332213572" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/enum/AdType.kt" timestamp="1509175892727">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
