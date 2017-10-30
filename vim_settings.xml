@@ -15,7 +15,7 @@
         <mark key="." line="7" column="56" />
         <mark key="^" line="7" column="56" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OSSFlatBolt.kt" timestamp="1509105974987">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OSSFlatBolt.kt" timestamp="1509362061010">
         <mark key="[" line="33" column="69" />
         <mark key="]" line="33" column="72" />
         <mark key="." line="33" column="72" />
@@ -33,12 +33,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1509360497340">
-        <mark key="'" line="69" column="25" />
-        <mark key="[" line="61" column="34" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-        <mark key="^" line="61" column="35" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1509362860304">
+        <mark key="'" line="71" column="25" />
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="54" column="47" />
+        <mark key="." line="54" column="47" />
+        <mark key="^" line="53" column="56" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" timestamp="1509163880808">
         <mark key="[" line="21" column="21" />
@@ -105,12 +105,12 @@
         <mark key="." line="19" column="57" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509361192984">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509363144635">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+        <mark key="[" line="75" column="79" />
+        <mark key="]" line="75" column="79" />
+        <mark key="." line="75" column="79" />
+        <mark key="^" line="77" column="77" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1509348108513">
         <mark key="'" line="0" column="0" />
@@ -289,46 +289,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3BvbG9neVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRCb2x0KCJyZXEtYWdnci1vdXRwdXQiLCBpdCkuc2h1ZmZsZUdyb3VwaW5nKCJyZXEtYWdnciIpCg==</text>
+      <register name="0" type="4">
+        <text>AggrFileOutputBolt(reqAggrPath)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRCb2x0KCJyZXMtYWdnci1vdXRwdXQiLCByZXNBZ2dyT3V0cHV0Qm9sdCkuc2h1ZmZsZUdyb3VwaW5nKCJyZXMtYWdnciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzQWdnck91dHB1dEJvbHQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNBZ2dyT3V0cHV0Qm9sdD8ubGV0IHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG9yaWcgPSAib3JpZyIKICAgIHByaXZhdGUgdmFsIGZsYXQgPSAiZmxhdCIKICAgIHByaXZhdGUgdmFsIGV4dHJhY3QgPSAiZXh0cmFjdCIKICAgIHByaXZhdGUgdmFsIHBhcnNlID0gInBhcnNlIgogICAgcHJpdmF0ZSB2YWwgcmVxT3V0cHV0ID0gInJlcS1vdXRwdXQiCiAgICBwcml2YXRlIHZhbCBzcGVlZCA9ICJzcGVlZC10ZXN0IgogICAgcHJpdmF0ZSB2YWwgYmlkT3V0cHV0ID0gImJpZC1vdXRwdXQiCiAgICBwcml2YXRlIHZhbCByZXFBZ2dyID0gInJlcS1hZ2dyIgogICAgcHJpdmF0ZSB2YWwgcmVzQWdnciA9ICJyZXMtYWdnciIKICAgIHByaXZhdGUgdmFsIHJlcUFnZ3JPdXRwdXQgPSAicmVxLWFnZ3Itb3V0cHV0IgogICAgcHJpdmF0ZSB2YWwgcmVzQWdnck91dHB1dCA9ICJyZXMtYWdnci1vdXRwdXQiCiAgICBwcml2YXRlIHZhbCByZXFTdHJlYW0gPSAicmVxIgogICAgcHJpdmF0ZSB2YWwgcmVzU3RyZWFtID0gInJlcyIKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoImFnZ3Itb3V0cHV0IiwgcmVxQWdnck91dHB1dEJvbHQpCiAgICAgICAgICAgICAgICAuc2h1ZmZsZUdyb3VwaW5nKCJyZXEtYWdnciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ1aWxkZXIuc2V0Qm9sdCgicmVzLWFnZ3IiLCBBZ2dyZWdhdGVCb2x0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -379,11 +379,11 @@
         <entry encoding="base64">JzwsJz5zL2VzRy9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0lubmVyL1B1YmxpYw==</entry>
         <entry encoding="base64">JzwsJz5zL2lubmVyL3B1YmxpYy9n</entry>
-        <entry>w</entry>
         <entry>30t.</entry>
         <entry>%s/FileOutputStream/Paths.get/g</entry>
         <entry>%s/Paths.get/outputDir.resolve/gc</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
