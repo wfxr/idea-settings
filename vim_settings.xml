@@ -99,11 +99,11 @@
         <mark key="^" line="50" column="64" />
         <mark key="." line="50" column="64" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509165982201">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="18" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509327339612">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1509178487614">
         <mark key="'" line="6" column="21" />
@@ -283,8 +283,8 @@
       <jump line="23" column="43" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rc1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGludGVydmFsID0gMTAK</text>
       </register>
       <register name="-" type="4">
         <text>rc1</text>
@@ -296,37 +296,37 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIG91dHB1dEJvbHQgPSBFc0luZGV4Qm9sdEJ1aWxkZXIub2ZJbm5lckVuZFBvaW50KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGludGVydmFsID0gMTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNwb3V0ID0gTG9nSHViU3BvdXRCdWlsZGVyLm9mSW5uZXJFbmRwb2ludCgpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbHVzdGVyTmFtZSA9ICJkc3AtZWxhc3RpY3NlYXJjaCIKICAgIHZhbCBlc0NvbmZpZyA9IEVzQ29uZmlnKGNsdXN0ZXJOYW1lLCBsaXN0T2YoIjEwLjMwLjk2LjE4IiB0byA5MzAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiMTAuMzAuOTYuMzciIHRvIDkzMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIxMC4xMzUuMjE2LjI2IiB0byA5MzAwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNwb3V0ID0gTG9nSHViU3BvdXRCdWlsZGVyLm9mSW5uZXJFbmRwb2ludCgpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBjbHVzdGVyTmFtZSA9ICJkc3AtZWxhc3RpY3NlYXJjaCIKICAgIHZhbCBlc0NvbmZpZyA9IEVzQ29uZmlnKGNsdXN0ZXJOYW1lLCBsaXN0T2YoIjEwLjMwLjk2LjE4IiB0byA5MzAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiMTAuMzAuOTYuMzciIHRvIDkzMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIxMC4xMzUuMjE2LjI2IiB0byA5MzAwKSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vICAgIHZhbCBlc0lubmVyQ29uZmlnID0KICAgIC8vICAgICAgICAgICAgRXNDb25maWcoY2x1c3Rlck5hbWUsIGxpc3RPZikKICAgIC8vICAgIGZ1biBvZklubmVyRW5kcG9pbnQoKSA9IGJ1aWxkKCJodHRwOi8vY24tYmVpamluZy1pbnRyYW5ldC5sb2cuYWxpeXVuY3MuY29tIikKICAgIC8vICAgIGZ1biBvZlB1YmxpY0VuZHBvaW50KCkgPSBidWlsZCgiaHR0cDovL2NuLWJlaWppbmcubG9nLmFsaXl1bmNzLmNvbSIpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>listOf(
             
                                )</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;10.30.96.18&quot; to 9300,
                                                 &quot;10.30.96.37&quot; to 9300,
                                                 &quot;10.135.216.26&quot; to 9300</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>(&quot;10.30.96.18&quot; to 9300,
                                                 &quot;10.30.96.37&quot; to 9300,
                                                 &quot;10.135.216.26&quot; to 9300)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
