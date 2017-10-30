@@ -53,7 +53,8 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" timestamp="1509178763041">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" timestamp="1509327191690">
+        <mark key="'" line="23" column="43" />
         <mark key="[" line="15" column="56" />
         <mark key="]" line="15" column="56" />
         <mark key="." line="15" column="56" />
@@ -91,12 +92,6 @@
         <mark key="]" line="22" column="45" />
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509106226806">
-        <mark key="[" line="47" column="41" />
-        <mark key="]" line="47" column="50" />
-        <mark key="^" line="47" column="50" />
-        <mark key="." line="47" column="50" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" timestamp="1509176850480">
         <mark key="[" line="50" column="59" />
@@ -186,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
       <jump line="16" column="6" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
@@ -286,6 +280,7 @@
       <jump line="6" column="21" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" />
       <jump line="9" column="70" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBoltBuilder.kt" />
       <jump line="13" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBoltBuilder.kt" />
+      <jump line="23" column="43" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/OSSSpout.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
