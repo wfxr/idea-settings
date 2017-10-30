@@ -135,12 +135,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" timestamp="1509334770830">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" timestamp="1509334875951">
         <mark key="'" line="36" column="1" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+        <mark key="[" line="33" column="62" />
+        <mark key="]" line="33" column="72" />
+        <mark key="." line="33" column="72" />
+        <mark key="^" line="33" column="72" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Utils.kt" timestamp="1509176718131">
         <mark key="'" line="46" column="0" />
@@ -169,11 +169,12 @@
         <mark key="." line="19" column="70" />
         <mark key="^" line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509175018747">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="25" />
-        <mark key="." line="59" column="25" />
-        <mark key="^" line="56" column="44" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509335506483">
+        <mark key="'" line="20" column="46" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="47" column="9" />
+        <mark key="." line="47" column="9" />
+        <mark key="^" line="44" column="26" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1508994797805">
         <mark key="'" line="25" column="8" />
@@ -200,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="35" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
       <jump line="79" column="33" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsIndexBolt.kt" />
       <jump line="27" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
       <jump line="20" column="26" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidLogInfo.kt" />
@@ -300,13 +300,14 @@
       <jump line="40" column="83" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
       <jump line="43832" column="0" filename="$USER_HOME$/develop/log-parser/logs/aggr-output.log" />
+      <jump line="20" column="46" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>im</text>
+        <text>?.let { BidRes(it) }</text>
       </register>
       <register name="-" type="4">
-        <text>im</text>
+        <text>?.let { BidRes(it) }</text>
       </register>
       <register name="/" type="4">
         <text>inner</text>
@@ -315,31 +316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rvci5lbWl0KHRoaXMsIFZhbHVlcyhiYXNpY0luZm8sIGJpZFJlcXVlc3QuaW1wcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaWRSZXF1ZXN0LmRldmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaWRSZXF1ZXN0LmdlbywK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2ljSW5mby5kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaWRSZXF1ZXN0LmRldmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaWRSZXF1ZXN0LmdlbywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBiYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2ljSW5mby5kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7IHNvdXJjZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBiYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyB7IHNvdXJjZSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG91dHB1dEJvbHQgPSBFc0luZGV4Qm9sdEJ1aWxkZXIub2ZQcm9kdWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoInNwZWVkLXRlc3QiLCBTcGVlZFRlc3RCb2x0KCksIDEpLnNodWZmbGVHcm91cGluZygib3V0cHV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG91dHB1dEJvbHQgPSBFc0luZGV4Qm9sdEJ1aWxkZXIub2ZQcm9kdWN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLyAgICBvdmVycmlkZSBmdW4gZ2V0Q29tcG9uZW50Q29uZmlndXJhdGlvbigpCiAgICAvLyAgICAgICAgICAgID0gbWFwT2YoQ29uZmlnLlRPUE9MT0dZX1RJQ0tfVFVQTEVfRlJFUV9TRUNTIHRvIGludGVydmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldEJvbHQoInNwZWVkLXRlc3QiLCBTcGVlZFRlc3RCb2x0KCksIDEpLnNodWZmbGVHcm91cGluZygib3V0cHV0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGludGVydmFsID0gMTAK</text>
+        <text encoding="base64">CiAgICAvLyAgICBvdmVycmlkZSBmdW4gZ2V0Q29tcG9uZW50Q29uZmlndXJhdGlvbigpCiAgICAvLyAgICAgICAgICAgID0gbWFwT2YoQ29uZmlnLlRPUE9MT0dZX1RJQ0tfVFVQTEVfRlJFUV9TRUNTIHRvIGludGVydmFsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
