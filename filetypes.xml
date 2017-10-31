@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="req" type="PLAIN_TEXT" />
+      <mapping pattern="req-aggr" type="PLAIN_TEXT" />
       <mapping pattern="aggr" type="PLAIN_TEXT" />
+      <mapping pattern="res-aggr" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping ext="snappy" type="PLAIN_TEXT" />
       <mapping pattern="snappy.xml" type="XML" />
