@@ -107,6 +107,12 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/GeoInfo.kt" timestamp="1509514312535">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="83" />
+        <mark key="^" line="7" column="83" />
+        <mark key="." line="7" column="83" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/StreamOutputBolt.kt" timestamp="1509352706722">
         <mark key="'" line="12" column="31" />
         <mark key="[" line="12" column="15" />
@@ -151,6 +157,12 @@
         <mark key="]" line="52" column="42" />
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" timestamp="1509513903384">
+        <mark key="[" line="34" column="65" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1509448817634">
         <mark key="'" line="36" column="42" />
@@ -307,19 +319,19 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" timestamp="1509513456564">
-        <mark key="'" line="30" column="11" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="50" column="31" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" timestamp="1509514643610">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509513828630">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="36" />
-        <mark key="^" line="43" column="36" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509514406808">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="78" column="39" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509338159453">
         <mark key="'" line="20" column="46" />
@@ -342,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="77" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/JsonUtils.kt" />
       <jump line="30" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/JsonUtils.kt" />
       <jump line="12" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ResEsOutputBolt.kt" />
       <jump line="13" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ResEsOutputBolt.kt" />
@@ -442,63 +453,64 @@
       <jump line="75" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="74" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" />
+      <jump line="79" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>lat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIGdlb1BhcnNlKG5vZGU6IEpzb25PYmplY3QpID0KICAgICAgICBHZW9JbmZvKG5vZGVbIm1ldHJvIl0ubnVsbEludCwgbm9kZVsiY2l0eSJdLm51bGxJbnQsIG5vZGVbImxhdCJdLm51bGxEb3VibGUsCiAgICAgICAgICAgICAgICBub2RlWyJsb24iXS5udWxsRG91YmxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF0ID0gbm9kZVsibGF0Il0ubnVsbERvdWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIE1hdGgucm91Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIEdlb0luZm8obm9kZVsibWV0cm8iXS5udWxsSW50LCBub2RlWyJjaXR5Il0ubnVsbEludCwgbm9kZVsibGF0Il0ubnVsbERvdWJsZSwKLy8gICAgICAgICAgICAgICAgbm9kZVsibG9uIl0ubnVsbERvdWJsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uRWxlbWVudAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZCgpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>node[&quot;metro&quot;].nullInt, node[&quot;city&quot;].nullInt,
+                   node[&quot;lat&quot;].nullDouble, node[&quot;lon&quot;].nullDouble</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQogICAgICAgICAgICBpcChub2RlWyJpcCJdLm51bGxTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VJbmZvKG5vZGVbIm9zIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImlwIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbIm1hYyJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJtYWNNRDUiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaWRmYSJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJpZGZhTUQ1Il0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImltZWkiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaW1laU1ENSJdLm51bGxTdHJpbmcpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uRWxlbWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIGRldmljZVBhcnNlKG5vZGU6IEpzb25PYmplY3QpID0K</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL25vZGUvZGV2aWNlL2c=</text>
+        <text encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>lat</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
-      <last-replace>device</last-replace>
-      <last-substitute>node</last-substitute>
+      <last-pattern>lat</last-pattern>
+      <last-replace>lon</last-replace>
+      <last-substitute>lat</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>price</entry>
         <entry>?,</entry>
         <entry>= null</entry>
@@ -518,9 +530,9 @@
         <entry>^</entry>
         <entry>,</entry>
         <entry>node</entry>
+        <entry>lat</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLz0uKi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL15sYXRlaW5pdC9n</entry>
         <entry encoding="base64">JzwsJz5zL14vbGF0ZWluaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvOlN0cmluZz8vZw==</entry>
@@ -540,6 +552,7 @@
         <entry encoding="base64">JzwsJz5zLywvKSwvZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL25vZGUvZGV2aWNlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
