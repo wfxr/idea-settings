@@ -164,11 +164,10 @@
         <mark key="." line="52" column="42" />
         <mark key="^" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" timestamp="1509518866616">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="81" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" timestamp="1509520392162">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" timestamp="1509448817634">
         <mark key="'" line="36" column="42" />
@@ -345,12 +344,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509518802531">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="21" column="37" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509520309270">
+        <mark key="'" line="74" column="20" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509338159453">
         <mark key="'" line="20" column="46" />
@@ -373,9 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
-      <jump line="26" column="51" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" />
-      <jump line="27" column="53" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" />
       <jump line="28" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ParseBolt.kt" />
       <jump line="23" column="33" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OSSFlatBolt.kt" />
       <jump line="22" column="57" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" />
@@ -473,47 +469,49 @@
       <jump line="12" column="33" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/file/OrigFileOutputBolt.kt" />
       <jump line="11" column="32" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/file/OrigFileOutputBolt.kt" />
       <jump line="41" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" />
+      <jump line="24" column="47" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="73" column="20" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="33" column="39" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgIG92ZXJyaWRlIGZ1biBzZXJpYWxpemVJbnB1dChpbnB1dDogVHVwbGUpOiBTdHJpbmcgewogICAgLy8gICAgICAgIHZhbCByb290ID0gaW5wdXRbImJhc2ljIl0udG9Kc29uVHJlZSgpLm9iagogICAgLy8gICAgICAgIHJldHVybiByb290LmFwcGx5IHsKICAgIC8vICAgICAgICAgICAgYWRkKCJzbG90cyIsIGlucHV0WyJzbG90cyJdLnRvSnNvblRyZWUoKSkKICAgIC8vICAgICAgICB9LnRvSnNvbigpCiAgICAvLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZSwgZ2VvID0gbnVsbCwgbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>lat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXJpYWxpemVJbnB1dChpbnB1dDogVHVwbGUpID0KICAgICAgICAgICAgaW5wdXRbImJhc2ljIl0udG9Kc29uVHJlZSgpLm9iagogICAgICAgICAgICAgICAgICAgIC5hZGQoInNsb3RzIiwgaW5wdXRbInNsb3RzIl0udG9Kc29uVHJlZSgpKQogICAgICAgICAgICAgICAgICAgIC50b0pzb24oKQo=</text>
+      <register name="0" type="4">
+        <text>(input[&quot;basic&quot;] as BasicInfo).apply</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIG92ZXJyaWRlIGZ1biBzZXJpYWxpemVJbnB1dChpbnB1dDogVHVwbGUpOiBTdHJpbmcgewogICAgLy8gICAgICAgIHZhbCByb290ID0gaW5wdXRbImJhc2ljIl0udG9Kc29uVHJlZSgpLm9iagogICAgLy8gICAgICAgIHJldHVybiByb290LmFwcGx5IHsKICAgIC8vICAgICAgICAgICAgYWRkKCJzbG90cyIsIGlucHV0WyJzbG90cyJdLnRvSnNvblRyZWUoKSkKICAgIC8vICAgICAgICB9LnRvSnNvbigpCiAgICAvLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZSwgZ2VvID0gbnVsbCwgbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9Kc29uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIGJhc2ljSW5mb1BhcnNlKG5vZGU6IEpzb25PYmplY3QpIHsKICAgIHZhbCBkZXZpY2UgPSBub2RlWyJkZXZpY2UiXS5vYmoKICAgIHZhbCBnZW8gPSBkZXZpY2VbImdlbyJdLm9iagp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKCJzbG90cyIsIGlucHV0WyJzbG90cyJdLnRvSnNvblRyZWUoKSkKICAgICAgICAgICAgICAgICAgICAudG9Kc29uKCkK</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>add(&quot;slots&quot;, input[&quot;slots&quot;].toJsonTree())
-                .toJson()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHBhaXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgic2xvdHMiLCBpbnB1dFsic2xvdHMiXS50b0pzb25UcmVlKCkpCiAgICAgICAgICAgIC50b0pzb24oKQo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiAocmVxU2xvdHMgPT0gbnVsbCkgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMgOiBOb3RoaW5nID0gbnVsbCA/OiByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</text>
