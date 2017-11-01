@@ -16,10 +16,12 @@
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" timestamp="1509510508571">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" timestamp="1509511279239">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/loghub-storm-1.0-spout/0.1.2/loghub-storm-1.0-spout-0.1.2.jar!/com/aliyun/openservices/loghub/stormspout/LogHubSpout.class" timestamp="1509502243316" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggrStreamOutputBolt.kt" timestamp="1509351029015">
@@ -77,7 +79,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1509507211746">
+      <file name="/fragment.kt" timestamp="1509510972883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -342,10 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" />
-      <jump line="375" column="74" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/format/DateTimeFormatter.java" />
-      <jump line="0" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/format/DateTimeFormatter.java" />
       <jump line="21" column="28" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" />
       <jump line="40" column="84" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/ExtractBolt.kt" />
       <jump line="70" column="29" filename="$USER_HOME$/develop/log-parser/pom.xml" />
@@ -442,73 +440,72 @@
       <jump line="28" column="9" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" />
       <jump line="16" column="24" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" />
       <jump line="48" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="30" column="15" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" />
+      <jump line="16" column="31" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" />
+      <jump line="23" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKG9zSWQ6IEludD8sIGlwOiBTdHJpbmc/LCBtYWM6IFN0cmluZz8sIG1kNW1hYzogU3RyaW5nPywgaWRmYTogU3RyaW5nPywKICAgICAgICAgICAgICAgICBtZDVpZGZhOiBTdHJpbmc/LCBpbWVpOiBTdHJpbmc/LCBtZDVpbWVpOiBTdHJpbmc/KSDvvZsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>:.*=</text>
+        <text>lateinit</text>
       </register>
-      <register name="0" type="4">
-        <text>(os: String?, ip: String?, mac: String?, md5mac: String?, idfa: String?,
-                 md5idfa: String?, imei: String?, md5imei: String?)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBtZDVpbWVpID0gbWQ1aW1laS5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIGltZWkgPSBpbWVpLmRldklkMkhleCgpCiAgICAvLyAgICB2YWwgbWQ1aWRmYSA9IG1kNWlkZmEuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBpZGZhID0gaWRmYS5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIG1kNW1hYyA9IG1kNW1hYy5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIG1hYyA9IG1hYy5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIGlwID0gaXAKICAgIC8vICAgIHZhbCBvcyA9IE9zVHlwZS5mcm9tQmlkTmFtZShvcykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKG9zSWQ6IEludD8sIGlwOiBTdHJpbmc/LCBtYWM6IFN0cmluZz8sIG1kNW1hYzogU3RyaW5nPywgaWRmYTogU3RyaW5nPywKICAgICAgICAgICAgICAgICBtZDVpZGZhOiBTdHJpbmc/LCBpbWVpOiBTdHJpbmc/LCBtZDVpbWVpOiBTdHJpbmc/KSDvvZsKICAgIH0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">ZyAKZyAKZyAKZyAKZyAKZyAKZyAKZyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBtZDVpbWVpID0gbWQ1aW1laS5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIGltZWkgPSBpbWVpLmRldklkMkhleCgpCiAgICAvLyAgICB2YWwgbWQ1aWRmYSA9IG1kNWlkZmEuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBpZGZhID0gaWRmYS5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIG1kNW1hYyA9IG1kNW1hYy5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIG1hYyA9IG1hYy5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIGlwID0gaXAKICAgIC8vICAgIHZhbCBvcyA9IE9zVHlwZS5mcm9tQmlkTmFtZShvcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXRlaW5pdCB2YXIgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGNvbnN0cnVjdG9yKG9zOiBJbnQ/LCBpcDogU3RyaW5nPywgbWFjOiBTdHJpbmc/LCBtZDVtYWM6IFN0cmluZz8sIGlkZmE6IFN0cmluZz8sCiAgICAvLyAgICAgICAgICAgICAgICAgbWQ1aWRmYTogU3RyaW5nPywgaW1laTogU3RyaW5nPywgbWQ1aW1laTogU3RyaW5nPykgOiB0aGlzKAogICAgLy8gICAgICAgICAgICBPc1R5cGUuZnJvbVJjdklkKG9zKSwgaXAsIG1hYywgbWQ1bWFjLCBpZGZhLCBtZDVpZGZhLCBpbWVpLCBtZDVpbWVpCiAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG9zdElwID0gY29yZVsiaG9zdElwIl0sCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ1RpbWUgPSBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBjb2xUaW1lID0gbnVsbCwK</text>
+      <register name="5" type="4">
+        <text>os: OsType?, ip: String?, mac: String?, md5mac: String?, idfa: String?,
+                 md5idfa: String?, imei: String?, md5imei: String?</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKG9zSWQ6IEludD8sIGlwOiBTdHJpbmc/LCBtYWM6IFN0cmluZz8sIG1kNW1hYzogU3RyaW5nPywgaWRmYTogU3RyaW5nPywKICAgICAgICAgICAgICAgICBtZDVpZGZhOiBTdHJpbmc/LCBpbWVpOiBTdHJpbmc/LCBtZDVpbWVpOiBTdHJpbmc/KSDvvZsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyc2VSY3ZTbG90KGNvcmUpCiAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBFeHRyYWN0ZWRMb2codmFsIGJhc2ljOiBCYXNpY0luZm8sIHZhbCBzbG90OiBSY3ZTbG90KQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmN2U2xvdCgpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzouKj0vPS9n</text>
+        <text encoding="base64">JzwsJz5zL2xhdGVpbml0L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>:.*=</last-search>
+      <last-search>lateinit</last-search>
       <last-offset />
-      <last-pattern>:.*=</last-pattern>
-      <last-replace>=</last-replace>
-      <last-substitute>:.*=</last-substitute>
+      <last-pattern>lateinit</last-pattern>
+      <last-replace>g</last-replace>
+      <last-substitute>lateinit</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>joda</entry>
-        <entry>Re.</entry>
-        <entry>topic</entry>
-        <entry>=</entry>
         <entry>:</entry>
         <entry>]</entry>
         <entry encoding="base64">IC4qJA==</entry>
         <entry encoding="base64">IFx3XCsk</entry>
         <entry>\(\w\+\)=</entry>
-        <entry>$</entry>
         <entry>json</entry>
         <entry>price</entry>
         <entry>?,</entry>
@@ -517,18 +514,15 @@
         <entry>impNode</entry>
         <entry>logid</entry>
         <entry>:.*</entry>
-        <entry>^</entry>
         <entry>:.*=</entry>
+        <entry>^lateinit</entry>
+        <entry>^</entry>
+        <entry>$</entry>
+        <entry>^.*val</entry>
+        <entry>=.*</entry>
+        <entry>lateinit</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zL1JlLi9PcmlnL2dj</entry>
-        <entry encoding="base64">JzwsJz5zL1JlLi9PcmlnL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
-        <entry encoding="base64">JzwsJz5zLzovXS9n</entry>
-        <entry encoding="base64">JzwsJz5zL10vPS9n</entry>
         <entry encoding="base64">JzwsJz5zLyAuKiQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyBcd1wrJC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9cMT1jb25maWdbIlwxIl0=</entry>
@@ -541,6 +535,14 @@
         <entry encoding="base64">JzwsJz5zLzouKi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14vdmFsIC9n</entry>
         <entry encoding="base64">JzwsJz5zLzouKj0vPS9n</entry>
+        <entry encoding="base64">JzwsJz5zLz0uKi9n</entry>
+        <entry encoding="base64">JzwsJz5zLz0uKi8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL15sYXRlaW5pdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL14vbGF0ZWluaXQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyQvOlN0cmluZz8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL14uKnZhbC9sYXRlaW5pdCB2YXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLz0uKi86U3RyaW5nPy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2xhdGVpbml0L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
