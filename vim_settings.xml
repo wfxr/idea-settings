@@ -227,12 +227,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/SpeedReportBolt.kt" timestamp="1509523227719">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/SpeedReportBolt.kt" timestamp="1509525348736">
         <mark key="'" line="29" column="50" />
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/oss/OSSFlatBolt.kt" timestamp="1509502123447">
         <mark key="'" line="33" column="36" />
@@ -516,7 +516,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL25vZGUvaXQ=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -552,7 +552,6 @@
         <entry>node</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vbGF0ZWluaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvOlN0cmluZz8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14uKnZhbC9sYXRlaW5pdCB2YXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi86U3RyaW5nPy9n</entry>
@@ -572,6 +571,7 @@
         <entry encoding="base64">JzwsJz5zL25vZGUvZGV2aWNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xhdC9sb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL25vZGUvaXQ=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
