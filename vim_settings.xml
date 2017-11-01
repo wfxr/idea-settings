@@ -42,6 +42,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/salomonbrys/kotson/kotson/2.5.0/kotson-2.5.0-sources.jar!/com/github/salomonbrys/kotson/Properties.kt" timestamp="1509513342962" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1509509575738">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="26" column="0" />
@@ -234,9 +235,6 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509449244683">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Extractor.kt" timestamp="1509507935448">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="15" column="20" />
@@ -309,19 +307,19 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" timestamp="1509513189466">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" timestamp="1509513456564">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="50" column="31" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509513122632">
-        <mark key="'" line="74" column="12" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="80" column="38" />
-        <mark key="." line="67" column="26" />
-        <mark key="^" line="67" column="7" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1509513828630">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="36" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509338159453">
         <mark key="'" line="20" column="46" />
@@ -447,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonObject</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text>JsonObject</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
@@ -459,31 +457,31 @@
         <text encoding="base64">ZnVuIGdlb1BhcnNlKG5vZGU6IEpzb25PYmplY3QpID0KICAgICAgICBHZW9JbmZvKG5vZGVbIm1ldHJvIl0ubnVsbEludCwgbm9kZVsiY2l0eSJdLm51bGxJbnQsIG5vZGVbImxhdCJdLm51bGxEb3VibGUsCiAgICAgICAgICAgICAgICBub2RlWyJsb24iXS5udWxsRG91YmxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Kc29uRWxlbWVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQogICAgICAgICAgICBpcChub2RlWyJpcCJdLm51bGxTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VJbmZvKG5vZGVbIm9zIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImlwIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbIm1hYyJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJtYWNNRDUiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaWRmYSJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJpZGZhTUQ1Il0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImltZWkiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaW1laU1ENSJdLm51bGxTdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIGRldmljZVBhcnNlKG5vZGU6IEpzb25PYmplY3QpID0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERldmljZUluZm8obm9kZVsib3MiXS5udWxsU3RyaW5nLAovLyAgICAgICAgICAgICAgICAgICBub2RlWyJpcCJdLm51bGxTdHJpbmcsCi8vICAgICAgICAgICAgICAgICAgIG5vZGVbIm1hYyJdLm51bGxTdHJpbmcsCi8vICAgICAgICAgICAgICAgICAgIG5vZGVbIm1hY01ENSJdLm51bGxTdHJpbmcsCi8vICAgICAgICAgICAgICAgICAgIG5vZGVbImlkZmEiXS5udWxsU3RyaW5nLAovLyAgICAgICAgICAgICAgICAgICBub2RlWyJpZGZhTUQ1Il0ubnVsbFN0cmluZywKLy8gICAgICAgICAgICAgICAgICAgbm9kZVsiaW1laSJdLm51bGxTdHJpbmcsCi8vICAgICAgICAgICAgICAgICAgIG5vZGVbImltZWlNRDUiXS5udWxsU3RyaW5nKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmlkT3Mobm9kZVsib3MiXS5udWxsU3RyaW5nKQogICAgICAgICAgICBpcChub2RlWyJpcCJdLm51bGxTdHJpbmcpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBEZXZpY2VJbmZvKG5vZGVbIm9zIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImlwIl0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbIm1hYyJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJtYWNNRDUiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaWRmYSJdLm51bGxTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBub2RlWyJpZGZhTUQ1Il0ubnVsbFN0cmluZywKICAgICAgICAgICAgICAgICAgIG5vZGVbImltZWkiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgICAgbm9kZVsiaW1laU1ENSJdLm51bGxTdHJpbmcpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyAgICB2YWwgbWQ1aW1laSA9IG1kNWltZWkuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBpbWVpID0gaW1laS5kZXZJZDJIZXgoKQogICAgLy8gICAgdmFsIG1kNWlkZmEgPSBtZDVpZGZhLmRldklkMkhleCgpCiAgICAvLyAgICB2YWwgaWRmYSA9IGlkZmEuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBtZDVtYWMgPSBtZDVtYWMuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBtYWMgPSBtYWMuZGV2SWQySGV4KCkKICAgIC8vICAgIHZhbCBpcCA9IGlwCiAgICAvLyAgICB2YWwgb3MgPSBPc1R5cGUuZnJvbUJpZE5hbWUob3MpCgo=</text>
+        <text encoding="base64">ZnVuIGRldmljZVBhcnNlKG5vZGU6IEpzb25PYmplY3QpID0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25vZGUvZGV2aWNlL2c=</text>
