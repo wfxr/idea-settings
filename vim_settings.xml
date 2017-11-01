@@ -30,10 +30,10 @@
         <mark key="." line="16" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/loghub-storm-1.0-spout/0.1.2/loghub-storm-1.0-spout-0.1.2.jar!/com/aliyun/openservices/loghub/stormspout/LogHubSpout.class" timestamp="1509502243316" />
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/AggregateBolt.kt" timestamp="1509530940679">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/AggregateBolt.kt" timestamp="1509531697715">
         <mark key="[" line="42" column="81" />
         <mark key="]" line="42" column="86" />
-        <mark key="." line="42" column="86" />
+        <mark key="." line="42" column="89" />
         <mark key="^" line="42" column="86" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggrStreamOutputBolt.kt" timestamp="1509351029015">
@@ -218,7 +218,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/AggregateBolt.kt" timestamp="1509504493222" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/AggregateBolt.kt" timestamp="1509531817223">
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="41" column="49" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/loghub/LogHubFlatBolt.kt" timestamp="1509502671170">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="34" column="66" />
@@ -401,8 +406,8 @@
         <mark key="." line="51" column="8" />
         <mark key="^" line="51" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1509530548060">
-        <mark key="[" line="0" column="21" />
+      <file name="/fragment.java" timestamp="1509531915985">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
@@ -511,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slot</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>slot</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>Bid</text>
@@ -523,31 +528,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5maWxlLkFnZ3JGaWxlT3V0cHV0Qm9sdCBhcyBCaWRBZ2dyRmlsZU91dHB1dEJvbHQKaW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5maWxlLk9yaWdGaWxlT3V0cHV0Qm9sdCBhcyBCaWRPcmlnRmlsZU91dHB1dEJvbHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0IGFzIEFkU2xvdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xvdHMuZm9yRWFjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xvdHMuZm9yRWFjaCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9Kc29uKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9Kc29uKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKCJzbG90IiwgaW5wdXRbInNsb3QiXS50b0pzb25UcmVlKCkpCiAgICAgICAgICAgICAgICAgICAgLnRvSnNvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKCJzbG90IiwgaW5wdXRbInNsb3QiXS50b0pzb25UcmVlKCkpCiAgICAgICAgICAgICAgICAgICAgLnRvSnNvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5maWxlLkFnZ3JGaWxlT3V0cHV0Qm9sdCBhcyBSY3ZBZ2dyRmlsZU91dHB1dEJvbHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5maWxlLkFnZ3JGaWxlT3V0cHV0Qm9sdCBhcyBSY3ZBZ2dyRmlsZU91dHB1dEJvbHQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0JpZC9SY3YvZw==</text>
