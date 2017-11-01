@@ -30,11 +30,11 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/AggregateBolt.kt" timestamp="1509533145039">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="42" column="86" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/AggregateBolt.kt" timestamp="1509538232729">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggrStreamOutputBolt.kt" timestamp="1509351029015">
         <mark key="[" line="14" column="0" />
@@ -497,11 +497,11 @@
       <jump line="86" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGgK</text>
+      <register name="&quot;" type="4">
+        <text>round</text>
       </register>
       <register name="-" type="4">
-        <text>cityCode</text>
+        <text>round</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
