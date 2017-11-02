@@ -374,6 +374,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/.gitignore" timestamp="1509584601487">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/BidLogDspParser.kt" timestamp="1509338159453">
         <mark key="'" line="20" column="46" />
         <mark key="[" line="10" column="11" />
@@ -497,8 +502,8 @@
       <jump line="86" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>round</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
       </register>
       <register name="-" type="4">
         <text>round</text>
@@ -510,31 +515,31 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGgK</text>
+        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCByZXNTcGVlZCA9ICJyZXFTcGVlZCIKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCByZXNTcGVlZCA9ICJyZXFTcGVlZCIKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBpbXBTcGVlZCA9ICJpbXBTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCBjbGtTcGVlZCA9ICJjbGtTcGVlZCIK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCByZXNTcGVlZCA9ICJyZXFTcGVlZCIKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBpbXBTcGVlZCA9ICJpbXBTcGVlZCIK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBpbXBTcGVlZCA9ICJpbXBTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCBjbGtTcGVlZCA9ICJjbGtTcGVlZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCByZXNTcGVlZCA9ICJyZXFTcGVlZCIK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBpbXBTcGVlZCA9ICJpbXBTcGVlZCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBjbGtBZ2dyID0gImNsa0FnZ3IiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCByZXFTcGVlZCA9ICJyZXFTcGVlZCIKICAgICAgICBwcml2YXRlIHZhbCByZXNTcGVlZCA9ICJyZXFTcGVlZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0Qm9sdChyZXFTcGVlZCwgU3BlZWRUZXN0Qm9sdCgicmVxIiksIDEpLmdsb2JhbEdyb3VwaW5nKHJlcU91dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBjbGtBZ2dyID0gImNsa0FnZ3IiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ltcC9jbGsvZw==</text>
