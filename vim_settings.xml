@@ -16,12 +16,12 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1509597584857">
-        <mark key="'" line="41" column="44" />
-        <mark key="[" line="89" column="41" />
-        <mark key="]" line="89" column="69" />
-        <mark key="^" line="89" column="69" />
-        <mark key="." line="89" column="69" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1509601329878">
+        <mark key="'" line="59" column="46" />
+        <mark key="[" line="98" column="71" />
+        <mark key="]" line="99" column="11" />
+        <mark key="^" line="99" column="11" />
+        <mark key="." line="99" column="13" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/DeviceInfo.kt" timestamp="1509512573184">
         <mark key="'" line="32" column="8" />
@@ -221,6 +221,11 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AggrKey.kt" timestamp="1509601092284">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/SpeedReportBolt.kt" timestamp="1509426966010">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -245,10 +250,8 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/dsp/AggregateBolt.kt" timestamp="1509597303586">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/dsp/AggregateBolt.kt" timestamp="1509601066919">
+        <mark key="^" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BidInfo.kt" timestamp="1509174552105">
         <mark key="[" line="7" column="0" />
@@ -308,12 +311,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509598588490">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509599963406">
         <mark key="'" line="138" column="12" />
-        <mark key="[" line="135" column="44" />
-        <mark key="]" line="135" column="44" />
-        <mark key="." line="135" column="44" />
-        <mark key="^" line="135" column="50" />
+        <mark key="[" line="101" column="73" />
+        <mark key="]" line="101" column="76" />
+        <mark key="." line="101" column="76" />
+        <mark key="^" line="101" column="76" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509433620609">
         <mark key="'" line="58" column="0" />
@@ -400,14 +403,13 @@
         <mark key="." line="51" column="8" />
         <mark key="^" line="51" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1509593368629">
-        <mark key="[" line="0" column="21" />
+      <file name="/fragment.java" timestamp="1509601085447">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2259" column="24" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/lang/Class.java" />
       <jump line="16" column="18" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="36" column="42" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/LogHubFlatBolt.kt" />
@@ -507,46 +509,47 @@
       <jump line="137" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="40" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="41" column="44" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
+      <jump line="59" column="46" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, &quot;clkx&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;clkx&quot;</text>
+        <text>2000</text>
       </register>
       <register name="/" type="4">
         <text>clk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBjbGtBZ2dyUGF0aCA9IG91dHB1dERpci5yZXNvbHZlKCJjbGstYWdnciIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzU3RyZWFtOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkc3BBZ2dyUGF0aCA9IG91dHB1dERpci5yZXNvbHZlKCJkc3AtYWdnciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnNvdXJjZUNvbXBvbmVudAo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBJbmRpY2F0b3IodmFsIHJlcTogTG9uZyA9IDAsIHZhbCByZXM6IExvbmcgPSAwLCB2YWwgaW1wOiBMb25nID0gMCwgdmFsIGNsazogTG9uZyA9IDApIHsKICAgIG9wZXJhdG9yIGZ1biBwbHVzKG86IEluZGljYXRvcikgPSBJbmRpY2F0b3IocmVxICsgby5yZXEsIHJlcyArIG8ucmVzLCBpbXAgKyBvLmltcCwgY2xrICsgby5jbGspCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRbImFnZ3IiXS4K</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBJbmRpY2F0b3IodmFsIHJlcTogTG9uZyA9IDAsIHZhbCByZXM6IExvbmcgPSAwLCB2YWwgaW1wOiBMb25nID0gMCwgdmFsIGNsazogTG9uZyA9IDApIHsKICAgIG9wZXJhdG9yIGZ1biBwbHVzKG86IEluZGljYXRvcikgPSBJbmRpY2F0b3IocmVxICsgby5yZXEsIHJlcyArIG8ucmVzLCBpbXAgKyBvLmltcCwgY2xrICsgby5jbGspCn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkc3BBZ2dyUGF0aCA9IG91dHB1dERpci5yZXNvbHZlKCJkc3AtYWdnciIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnNvdXJjZUNvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRbImFnZ3IiXS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgbWVyZ2UgPSB7aWQ6IFN0cmluZywgaW5kaWNhdG9yOkluZGljYXRvciAtPgovLyAgICAgICAgICAgICAgICBidWNrZXRzLm1lcmdlKCkKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gKGl0LnNvdXJjZVN0cmVhbUlkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1hcCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2Nsay9kc3AvZw==</text>

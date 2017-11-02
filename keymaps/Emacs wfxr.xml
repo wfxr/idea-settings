@@ -13,6 +13,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="CheckinProject" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt 0" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -104,11 +108,16 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="ToggleBookmark0" />
   <action id="VimMotionLeft">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
