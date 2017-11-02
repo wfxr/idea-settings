@@ -308,12 +308,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509597552496">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509598588490">
         <mark key="'" line="138" column="12" />
-        <mark key="[" line="131" column="75" />
-        <mark key="]" line="131" column="76" />
-        <mark key="." line="131" column="76" />
-        <mark key="^" line="82" column="38" />
+        <mark key="[" line="135" column="44" />
+        <mark key="]" line="135" column="44" />
+        <mark key="." line="135" column="44" />
+        <mark key="^" line="135" column="50" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509433620609">
         <mark key="'" line="58" column="0" />
@@ -509,11 +509,11 @@
       <jump line="41" column="44" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBkc3BBZ2dyUGF0aCA9IG91dHB1dERpci5yZXNvbHZlKCJkc3AtYWdnciIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;clkx&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>IRichBolt</text>
+        <text>, &quot;clkx&quot;</text>
       </register>
       <register name="/" type="4">
         <text>clk</text>
