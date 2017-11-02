@@ -1,0 +1,14 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="columnAlignerModel">
+      <ColumnAlignerModel>
+        <option name="separators">
+          <list>
+            <option value=" " />
+            <option value="" />
+          </list>
+        </option>
+      </ColumnAlignerModel>
+    </option>
+  </component>
+</application>

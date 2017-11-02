@@ -58,6 +58,10 @@
   </action>
   <action id="EditorKillRegion" />
   <action id="EditorKillToWordEnd" />
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="alt f" />
