@@ -301,12 +301,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509536287910">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509585290035">
         <mark key="'" line="113" column="12" />
-        <mark key="[" line="77" column="34" />
-        <mark key="]" line="77" column="35" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="77" column="35" />
+        <mark key="[" line="121" column="16" />
+        <mark key="]" line="121" column="14" />
+        <mark key="^" line="121" column="14" />
+        <mark key="." line="121" column="14" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509433620609">
         <mark key="'" line="58" column="0" />
@@ -502,11 +502,11 @@
       <jump line="86" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
+      <register name="&quot;" type="4">
+        <text>setBolt(clkAggrOutput, it).shuffleGrouping(clkAggr)</text>
       </register>
       <register name="-" type="4">
-        <text>round</text>
+        <text>setBolt(clkAggrOutput, it).shuffleGrouping(clkAggr)</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
