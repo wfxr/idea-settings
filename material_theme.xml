@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
