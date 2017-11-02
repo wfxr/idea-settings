@@ -301,12 +301,12 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509585918624">
-        <mark key="'" line="113" column="12" />
-        <mark key="[" line="90" column="12" />
-        <mark key="]" line="90" column="12" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1509588433076">
+        <mark key="'" line="105" column="20" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
         <mark key="^" line="121" column="14" />
-        <mark key="." line="90" column="12" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1509433620609">
         <mark key="'" line="58" column="0" />
@@ -400,10 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/bid/LogHubSpoutBuilder.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/bid/LogHubSpoutBuilder.kt" />
-      <jump line="1043" column="29" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/net/URL.java" />
-      <jump line="70" column="30" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/io/IOStreams.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/bid/LogHubSpoutBuilder.kt" />
       <jump line="48" column="30" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/bid/LogHubSpoutBuilder.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/bid/LogHubSpoutBuilder.kt" />
@@ -500,13 +496,17 @@
       <jump line="108" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="111" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="86" column="25" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
+      <jump line="2" column="22" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="126" column="27" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="105" column="20" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
