@@ -8,7 +8,6 @@
     <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
