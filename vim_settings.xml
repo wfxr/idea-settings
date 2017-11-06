@@ -9,11 +9,11 @@
         <mark key="]" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/src/storm/examples/hello-gradle/build.gradle" timestamp="1509942082721">
+      <file name="$USER_HOME$/src/storm/examples/hello-gradle/build.gradle" timestamp="1509943734630">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/rcv.loghub.json" timestamp="1509693159572">
         <mark key="'" line="9" column="0" />
@@ -259,7 +259,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIiIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgbmFtZTogJ2tvdHNvbicK</text>
       </register>
       <register name="-" type="4">
         <text>kotson</text>
@@ -271,31 +271,31 @@
         <text encoding="base64">IGxvYWRDb25maWdGcm9tUmVzb3VyY2UoIi9sb2dodWIucmN2LnRvbWwiKSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIiIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgbmFtZTogJ2tvdHNvbicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluCn0KCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291cmNlUwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c291cmNlU2V0cyB7CiAgICBtYWluCn0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c291cmNlUwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c291cmNlU2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBsb2FkQmlkKCkgPSBhcHBseSB7IGxvYWRDb25maWdGcm9tUmVzb3VyY2UoIi9sb2dodWIuYmlkLnRvbWwiKSB9CgogICAgZnVuIGxvYWRSY3YoKSA9IGFwcGx5IHsgbG9hZENvbmZpZ0Zyb21SZXNvdXJjZSgiL2xvZ2h1Yi5yY3YudG9tbCIpIH0K</text>
+        <text encoding="base64">c291cmNlU2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
