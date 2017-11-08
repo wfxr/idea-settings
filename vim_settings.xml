@@ -108,7 +108,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510141838956" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="21" column="61" />
