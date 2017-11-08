@@ -28,11 +28,11 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510133096311">
-        <mark key="[" line="34" column="70" />
-        <mark key="]" line="34" column="72" />
-        <mark key="." line="34" column="72" />
-        <mark key="^" line="34" column="72" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510134061017">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Builder.kt" timestamp="1510048548678">
         <mark key="'" line="0" column="0" />
@@ -347,13 +347,11 @@
       <jump line="9" column="1" filename="$USER_HOME$/develop/log-parser/src/main/resources/loghub.rcv.toml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>http://
-http://
-http://</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>bid</text>
