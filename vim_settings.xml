@@ -62,6 +62,12 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1510126402972">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="72" />
+        <mark key="^" line="4" column="72" />
+        <mark key="." line="4" column="72" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/generated/_Maps.kt" timestamp="1510052274558">
         <mark key="'" line="55" column="42" />
       </file>
@@ -106,12 +112,18 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510123990410">
-        <mark key="'" line="73" column="109" />
-        <mark key="[" line="98" column="21" />
-        <mark key="]" line="98" column="21" />
-        <mark key="." line="98" column="21" />
-        <mark key="^" line="99" column="19" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510126952549">
+        <mark key="'" line="76" column="109" />
+        <mark key="[" line="120" column="43" />
+        <mark key="]" line="120" column="50" />
+        <mark key="." line="120" column="50" />
+        <mark key="^" line="120" column="50" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="61" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510049585596">
         <mark key="'" line="57" column="15" />
@@ -177,11 +189,11 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1510057898099">
-        <mark key="'" line="151" column="22" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/pom.xml" timestamp="1510127475393">
+        <mark key="'" line="150" column="22" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.prod.toml" timestamp="1510051943389">
         <mark key="'" line="5" column="27" />
@@ -322,44 +334,44 @@
       <jump line="74" column="109" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5000 * 60</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5wcm92aWRlZDwvc2NvcGU+LS0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5000 * 60</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>bid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXRNYXhTcG91dFBlbmRpbmcoMTAwMCAqIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclNlcmlhbGl6YXRpb24oc3Rvcm1Db25maWcsIEpzb25BcnJheTo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFV0aWxzLnNsZWVwKHNlY29uZHMgKiAxMDAwKQovLyAgICAgICAgY2x1c3Rlci5raWxsVG9wb2xvZ3kodG9wb2xvZ3lJZCkKLy8gICAgICAgIGNsdXN0ZXIuc2h1dGRvd24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5wcm92aWRlZDwvc2NvcGU+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiTG9jYWwgbW9kZS4uLiIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlZ2lzdGVyU2VyaWFsaXphdGlvbihzdG9ybUNvbmZpZywgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXRNYXhTcG91dFBlbmRpbmcoMTAwMCAqIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckRlY29yYXRvcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXROdW1Xb3JrZXJzKDEpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFV0aWxzLnNsZWVwKHNlY29uZHMgKiAxMDAwKQovLyAgICAgICAgY2x1c3Rlci5raWxsVG9wb2xvZ3kodG9wb2xvZ3lJZCkKLy8gICAgICAgIGNsdXN0ZXIuc2h1dGRvd24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiTG9jYWwgbW9kZS4uLiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXRNYXhTcG91dFBlbmRpbmcoMTAwMCAqIDEwMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCgoaW5wdXRbImJhc2ljIl0gYXMgQmFzaWNJbmZvKS50b0pzb25UcmVlKCkub2JqKSB7CiAgICAgICAgICAgICAgICBhZGQoInNsb3RzIiwgaW5wdXRbInNsb3RzIl0udG9Kc29uVHJlZSgpKQogICAgICAgICAgICB9LnRvSnNvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXROdW1Xb3JrZXJzKDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCgoaW5wdXRbImJhc2ljIl0gYXMgQmFzaWNJbmZvKS50b0pzb25UcmVlKCkub2JqKSB7CiAgICAgICAgICAgICAgICBhZGQoInNsb3RzIiwgaW5wdXRbInNsb3QiXS50b0pzb25UcmVlKCkpCiAgICAgICAgICAgIH0udG9Kc29uKCkK</text>
+        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
