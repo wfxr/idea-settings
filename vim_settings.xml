@@ -88,11 +88,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510121754838">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510122538333">
         <mark key="'" line="74" column="109" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="36" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="83" column="105" />
+        <mark key="]" line="83" column="106" />
+        <mark key="." line="83" column="106" />
+        <mark key="^" line="83" column="106" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510049585596">
         <mark key="'" line="57" column="15" />
@@ -285,11 +286,11 @@
       <jump line="74" column="109" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>bid</text>
