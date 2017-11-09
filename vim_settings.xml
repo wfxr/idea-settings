@@ -28,10 +28,11 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510191642860">
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="111" column="40" />
-        <mark key="." line="111" column="40" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510192497487">
+        <mark key="[" line="67" column="39" />
+        <mark key="]" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+        <mark key="^" line="67" column="39" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Builder.kt" timestamp="1510048548678">
         <mark key="'" line="0" column="0" />
@@ -112,6 +113,11 @@
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/file/OrigFileOutputBolt.kt" timestamp="1510120056559">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510192564576">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="111" column="12" />
+        <mark key="." line="111" column="12" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
@@ -334,46 +340,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>bid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmN1cnNvclBvc2l0aW9uKEVORF9DVVJTT1IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KFdPUktFUl9IRUFQX01FTU9SWV9NQiwgMiAqIDEwMjQpCiAgICAgICAgICAgIHB1dChUT1BPTE9HWV9XT1JLRVJfTUFYX0hFQVBfU0laRV9NQiwgMiAqIDEwMjQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5zZXROdW1Xb3JrZXJzKDQpCiAgICAgICAgc3Rvcm1Db25maWcuc2V0TWF4U3BvdXRQZW5kaW5nKDEwMDAgKiAxMDAwKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0TnVtV29ya2VycygyKQogICAgICAgICAgICBzZXRNYXhTcG91dFBlbmRpbmcoMTAwMCAqIDEwMDApCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>stormConfig.
 stormConfig.
 stormConfig.
 stormConfig.</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdG9ybUNvbmZpZy5wdXQoV09SS0VSX0hFQVBfTUVNT1JZX01CLCAyICogMTAyNCkKICAgICAgICBzdG9ybUNvbmZpZy5wdXQoVE9QT0xPR1lfV09SS0VSX01BWF9IRUFQX1NJWkVfTUIsIDIgKiAxMDI0KQogICAgICAgIHN0b3JtQ29uZmlnLnNldE51bVdvcmtlcnMoMikKICAgICAgICBzdG9ybUNvbmZpZy5zZXRNYXhTcG91dFBlbmRpbmcoMTAwMCAqIDEwMDApCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB1dChXT1JLRVJfSEVBUF9NRU1PUllfTUIsIDIgKiAxMDI0KQovLyAgICAgICAgcHV0KFRPUE9MT0dZX1dPUktFUl9NQVhfSEVBUF9TSVpFX01CLCAyICogMTAyNCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCb2x0KFJjdlBhcnNlLCBSY3ZQYXJzZUJvbHQoSW1wU3RyZWFtLCBDbGtTdHJlYW0pLCAyKS5zaHVmZmxlR3JvdXBpbmcoUmN2RmxhdCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHB1dChXT1JLRVJfSEVBUF9NRU1PUllfTUIsIDIgKiAxMDI0KQovLyAgICAgICAgcHV0KFRPUE9MT0dZX1dPUktFUl9NQVhfSEVBUF9TSVpFX01CLCAyICogMTAyNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
