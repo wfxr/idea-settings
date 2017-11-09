@@ -9,22 +9,17 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="/Kotlin Console" timestamp="1510227472755">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1510126402972">
         <mark key="[" line="4" column="58" />
         <mark key="]" line="4" column="72" />
         <mark key="^" line="4" column="72" />
         <mark key="." line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseAggregateBolt.kt" timestamp="1510223918928">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="30" />
-        <mark key="^" line="30" column="30" />
-        <mark key="." line="30" column="30" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseAggregateBolt.kt" timestamp="1510231062157">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/AggregateBolt.kt" timestamp="1510221876698">
         <mark key="[" line="10" column="39" />
@@ -37,13 +32,19 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510230230878">
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="36" />
+        <mark key="." line="74" column="36" />
+        <mark key="^" line="74" column="36" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" timestamp="1510225855907">
         <mark key="'" line="704" column="24" />
       </file>
-      <file name="/fragment.kt" timestamp="1510226370214">
+      <file name="/fragment.kt" timestamp="1510228856500">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
@@ -91,6 +92,11 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510230880894">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" timestamp="1510192660244">
         <mark key="'" line="153" column="15" />
       </file>
@@ -135,12 +141,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1510227720072">
-        <mark key="'" line="41" column="87" />
-        <mark key="[" line="41" column="94" />
-        <mark key="]" line="41" column="110" />
-        <mark key="." line="41" column="110" />
-        <mark key="^" line="41" column="110" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1510229818733">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="41" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/.gitignore" timestamp="1509584601487">
         <mark key="[" line="74" column="0" />
@@ -155,7 +160,13 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510219963697">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510231379335">
+        <mark key="[" line="81" column="10" />
+        <mark key="]" line="81" column="10" />
+        <mark key="." line="81" column="10" />
+        <mark key="^" line="81" column="42" />
+      </file>
+      <file name="/fragment.java" timestamp="1510229319629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -264,44 +275,44 @@
       <jump line="704" column="24" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmVzb3Rlcmljc29mdHdhcmUva3J5byAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmVzb3Rlcmljc29mdHdhcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtyeW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>isEmpty</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>clkAggrFile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlclNlcmlhbGl6YXRpb24oc3Rvcm1Db25maWcsIExvZ0dyb3VwRGF0YTo6Y2xhc3MuamF2YSwgTG9nR3JvdXBEYXRhU2VyaWFsaXpTZXJpYWxpemVyOjpjbGFzcy5qYXZhKQo=</text>
+      <register name="0" type="4">
+        <text>Paths.get(&quot;$fileDir/$filename/${context.thisTaskId}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmVzb3Rlcmljc29mdHdhcmUva3J5byAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmVzb3Rlcmljc29mdHdhcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtyeW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICB1bmxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXMKaW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHMK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkaXJQYXRoID0gUGF0aHMuZ2V0KCJvdXRwdXQiKQo=</text>
+        <text encoding="base64">ICAgIFBhdGhzLmdldChkaXIpLmxldCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkaXIgPSAib3V0cHV0Igo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5kZWxldGVJZkV4aXN0cyhpdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkaXIgPSAib3V0cHV0IgogICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoUGF0aHMuZ2V0KGRpcikpCgogICAgdmFsIGZSZXEgPSAicmVxIgogICAgdmFsIGZSZXMgPSAicmVzIgogICAgdmFsIGZJbXAgPSAiaW1wIgogICAgdmFsIGZDbGsgPSAiY2xrIgoKICAgIHZhbCBmUmVxQWdnciA9ICJyZXEtYWdnciIKICAgIHZhbCBmUmVzQWdnciA9ICJyZXMtYWdnciIKICAgIHZhbCBmSW1wQWdnciA9ICJpbXAtYWdnciIKICAgIHZhbCBmQ2xrQWdnciA9ICJjbGstYWdnciIKCiAgICB2YWwgZkRzcEFnZ3IgPSAiZHNwLWFnZ3IiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tbW9ucy1pby9jb21tb25zLWlvIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWlvPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWlvPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjY8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEZpbGVVdGlscy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBQYXRocy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC5yZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5maWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrcnlvLndyaXRlT2JqZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy5kZWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/clkAggrFile/fClkAggr/g</text>
