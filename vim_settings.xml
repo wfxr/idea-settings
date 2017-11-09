@@ -28,11 +28,11 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510200542673">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510205751056">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Builder.kt" timestamp="1510048548678">
         <mark key="'" line="0" column="0" />
@@ -121,12 +121,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510204485676">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510205488838">
         <mark key="'" line="170" column="36" />
-        <mark key="[" line="92" column="61" />
-        <mark key="]" line="92" column="61" />
-        <mark key="." line="92" column="66" />
-        <mark key="^" line="47" column="64" />
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
+        <mark key="^" line="66" column="39" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
@@ -134,12 +134,12 @@
         <mark key="." line="21" column="61" />
         <mark key="^" line="21" column="61" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510195396965">
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510205785289">
         <mark key="'" line="84" column="36" />
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="11" />
+        <mark key="[" line="61" column="49" />
+        <mark key="]" line="61" column="48" />
+        <mark key="." line="61" column="48" />
+        <mark key="^" line="61" column="48" />
       </file>
       <file name="$USER_HOME$/src/storm/examples/hello-gradle/src/main/kotlin/hello.kt" timestamp="1509940994429">
         <mark key="[" line="0" column="0" />
@@ -356,11 +356,11 @@
       <jump line="170" column="36" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>globalGrouping</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ0h1YkNvbmZpZygpLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>globalGrouping</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
@@ -369,33 +369,33 @@
         <text encoding="base64">ICAgIE1haW5Ub3BvbG9neS5idWlsZCh0b3BvbG9neUlkKSB7CiAgICAgICAgc3BvdXQoYmlkU3BvdXQgdG8gMzIsIHJjdlNwb3V0IHRvIDQpCiAgICAgICAgZmxhdEJvbHQoTG9nSHViRmxhdEJvbHQoKSwgTG9nSHViRmxhdEJvbHQoKSkKCiAgICAgICAgYmlkT3V0cHV0Qm9sdChCaWRPcmlnRmlsZU91dHB1dEJvbHQocmVxUGF0aCksIEJpZE9yaWdGaWxlT3V0cHV0Qm9sdChyZXNQYXRoKSkKICAgICAgICBiaWRBZ2dyT3V0cHV0Qm9sdChBZ2dyRmlsZU91dHB1dEJvbHQocmVxQWdnclBhdGgpLCBBZ2dyRmlsZU91dHB1dEJvbHQocmVzQWdnclBhdGgpKQoKICAgICAgICByY3ZPdXRwdXRCb2x0KFJjdk9yaWdGaWxlT3V0cHV0Qm9sdChpbXBQYXRoKSwgUmN2T3JpZ0ZpbGVPdXRwdXRCb2x0KGNsa1BhdGgpKQogICAgICAgIHJjdkFnZ3JPdXRwdXRCb2x0KEFnZ3JGaWxlT3V0cHV0Qm9sdChpbXBBZ2dyUGF0aCksIEFnZ3JGaWxlT3V0cHV0Qm9sdChjbGtBZ2dyUGF0aCkpCgogICAgICAgIGRzcEFnZ3JPdXRwdXRCb2x0KEFnZ3JGaWxlT3V0cHV0Qm9sdChkc3BBZ2dyUGF0aCkpCgogICAgICAgIHNwZWVkT3V0cHV0KHRydWUpCiAgICB9LnJ1bldpdGhMb2NhbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0TWF4U3BvdXRQZW5kaW5nKDEpCg==</text>
+        <text encoding="base64">ICAgIExvZ0h1YkNvbmZpZygpLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRNYXhTcG91dFBlbmRpbmcoMSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0TWF4U3BvdXRQZW5kaW5nKDEpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRNYXhTcG91dFBlbmRpbmcoMSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJjdlNwb3V0Lm1TcG91dEluc3RhbmNlTmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0TWF4U3BvdXRQZW5kaW5nKDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJjdlNwb3V0Lm1TcG91dEluc3RhbmNlTmFtZQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhciByZXFBZ2dyT3V0cHV0Qm9sdDogSVJpY2hCb2x0PyA9IG51bGwKICAgICAgICBwcml2YXRlIHZhciByZXNBZ2dyT3V0cHV0Qm9sdDogSVJpY2hCb2x0PyA9IG51bGwK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>lateinit
 lateinit
 lateinit</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgTWFpblRvcG9sb2d5KHRvcG9sb2d5SWQgPSB0b3BvbG9neUlkLAovLyAgICAgICAgICAgICAgICAgYmlkU3BvdXQgPSBiaWRTcG91dCwKLy8gICAgICAgICAgICAgICAgIGJpZFNwb3V0Q29uY3VycmVuY3kgPSAzMiwKLy8gICAgICAgICAgICAgICAgIGJpZEZsYXRCb2x0ID0gTG9nSHViRmxhdEJvbHQoKSwKLy8gICAgICAgICAgICAgICAgIHJlcU91dHB1dEJvbHQgPSByZXFCb2x0LAovLyAgICAgICAgICAgICAgICAgcmVzT3V0cHV0Qm9sdCA9IHJlc0JvbHQsCi8vICAgICAgICAgICAgICAgICByZXFBZ2dyT3V0cHV0Qm9sdCA9IG51bGwsCi8vICAgICAgICAgICAgICAgICByZXNBZ2dyT3V0cHV0Qm9sdCA9IG51bGwsCi8vICAgICAgICAgICAgICAgICByY3ZTcG91dCA9IHJjdlNwb3V0LAovLyAgICAgICAgICAgICAgICAgcmN2U3BvdXRDb25jdXJyZW5jeSA9IDQsCi8vICAgICAgICAgICAgICAgICByY3ZGbGF0Qm9sdCA9IExvZ0h1YkZsYXRCb2x0KCksCi8vICAgICAgICAgICAgICAgICBpbXBPdXRwdXRCb2x0ID0gaW1wQm9sdCwKLy8gICAgICAgICAgICAgICAgIGNsa091dHB1dEJvbHQgPSBjbGtCb2x0LAovLyAgICAgICAgICAgICAgICAgaW1wQWdnck91dHB1dEJvbHQgPSBudWxsLAovLyAgICAgICAgICAgICAgICAgY2xrQWdnck91dHB1dEJvbHQgPSBudWxsLAovLyAgICAgICAgICAgICAgICAgZHNwQWdnck91dHB1dEJvbHQgPSBudWxsCi8vICAgICAgICAgICAgICAgICkucnVuV2l0aFJlbW90ZSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgTWFpblRvcG9sb2d5KHRvcG9sb2d5SWQgPSB0b3BvbG9neUlkLAovLyAgICAgICAgICAgICAgICAgYmlkU3BvdXQgPSBiaWRTcG91dCwKLy8gICAgICAgICAgICAgICAgIGJpZFNwb3V0Q29uY3VycmVuY3kgPSAzMiwKLy8gICAgICAgICAgICAgICAgIGJpZEZsYXRCb2x0ID0gTG9nSHViRmxhdEJvbHQoKSwKLy8gICAgICAgICAgICAgICAgIHJlcU91dHB1dEJvbHQgPSByZXFCb2x0LAovLyAgICAgICAgICAgICAgICAgcmVzT3V0cHV0Qm9sdCA9IHJlc0JvbHQsCi8vICAgICAgICAgICAgICAgICByZXFBZ2dyT3V0cHV0Qm9sdCA9IG51bGwsCi8vICAgICAgICAgICAgICAgICByZXNBZ2dyT3V0cHV0Qm9sdCA9IG51bGwsCi8vICAgICAgICAgICAgICAgICByY3ZTcG91dCA9IHJjdlNwb3V0LAovLyAgICAgICAgICAgICAgICAgcmN2U3BvdXRDb25jdXJyZW5jeSA9IDQsCi8vICAgICAgICAgICAgICAgICByY3ZGbGF0Qm9sdCA9IExvZ0h1YkZsYXRCb2x0KCksCi8vICAgICAgICAgICAgICAgICBpbXBPdXRwdXRCb2x0ID0gaW1wQm9sdCwKLy8gICAgICAgICAgICAgICAgIGNsa091dHB1dEJvbHQgPSBjbGtCb2x0LAovLyAgICAgICAgICAgICAgICAgaW1wQWdnck91dHB1dEJvbHQgPSBudWxsLAovLyAgICAgICAgICAgICAgICAgY2xrQWdnck91dHB1dEJvbHQgPSBudWxsLAovLyAgICAgICAgICAgICAgICAgZHNwQWdnck91dHB1dEJvbHQgPSBudWxsCi8vICAgICAgICAgICAgICAgICkucnVuV2l0aFJlbW90ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
