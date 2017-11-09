@@ -121,11 +121,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510202898468">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510203570551">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="92" column="61" />
+        <mark key="]" line="92" column="61" />
+        <mark key="." line="92" column="66" />
+        <mark key="^" line="47" column="64" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
@@ -253,13 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/storm/examples/hello-gradle/build.gradle" />
-      <jump line="34" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/es/EsOutputBolt.kt" />
-      <jump line="14" column="24" filename="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.toml" />
-      <jump line="84" column="23" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.test.toml" />
-      <jump line="8" column="81" filename="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.test.toml" />
-      <jump line="8" column="8" filename="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.prod.toml" />
       <jump line="59" column="15" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" />
       <jump line="43" column="24" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsConfig.kt" />
       <jump line="44" column="24" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsConfig.kt" />
@@ -308,7 +302,6 @@
       <jump line="4" column="31" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AggrKey.kt" />
       <jump line="9" column="1" filename="$USER_HOME$/develop/log-parser/src/main/resources/loghub.rcv.toml" />
       <jump line="88" column="26" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="45" column="37" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="45" column="19" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="138" column="13" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" />
       <jump line="151" column="14" filename="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" />
@@ -353,13 +346,21 @@
       <jump line="107" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="36" column="8" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="206" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="45" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="48" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="64" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0TWF4U3BvdXRQZW5kaW5nKDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>globalGrouping</text>
       </register>
       <register name="-" type="4">
-        <text>1000 * 1000</text>
+        <text>globalGrouping</text>
       </register>
       <register name="/" type="4">
         <text>\.</text>
@@ -397,7 +398,7 @@ lateinit</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1wuLy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -444,7 +445,6 @@ lateinit</text>
         <entry encoding="base64">JzwsJz5zL3JlcS9yZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9pbXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9jbGsvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi86SVJpY2hCb2x0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3svPSBhcHBseSB7L2c=</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi9n</entry>
@@ -453,6 +453,7 @@ lateinit</text>
         <entry encoding="base64">JzwsJz5zL2JpZC9yY3YvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0JpZC9SY3YvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wuLy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
