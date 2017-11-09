@@ -3,51 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/loghub.rcv.toml" timestamp="1510201746916">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/Indicator.kt" timestamp="1510128535119">
         <mark key="[" line="4" column="96" />
         <mark key="]" line="4" column="108" />
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Builder.kt" timestamp="1510048548678">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1510217122379">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsBoltBuilder.kt" timestamp="1510049355534">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="47" column="50" />
-        <mark key="^" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" timestamp="1510214552556">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="38" />
-        <mark key="." line="49" column="38" />
-        <mark key="^" line="49" column="38" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1510212015708">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="24" column="39" />
+      <file name="/Kotlin Console" timestamp="1510227472755">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1510126402972">
         <mark key="[" line="4" column="58" />
@@ -72,33 +37,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510221887558">
-        <mark key="[" line="77" column="81" />
-        <mark key="]" line="77" column="81" />
-        <mark key="." line="77" column="81" />
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" timestamp="1510225855907">
+        <mark key="'" line="704" column="24" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/AggrFileOutputBolt.kt" timestamp="1510224185546">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" timestamp="1510224262136">
-        <mark key="'" line="97" column="17" />
-      </file>
-      <file name="/fragment.kt" timestamp="1510222209911">
+      <file name="/fragment.kt" timestamp="1510226370214">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1510208431652">
-        <mark key="'" line="43" column="57" />
-        <mark key="[" line="43" column="57" />
-        <mark key="]" line="43" column="57" />
-        <mark key="^" line="43" column="57" />
-        <mark key="." line="43" column="57" />
-      </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/SpeedMeasureBolt.kt" timestamp="1510216009159">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="68" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Extractor.kt" timestamp="1510127337311">
         <mark key="[" line="21" column="62" />
@@ -111,13 +56,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsConfig.kt" timestamp="1510052965131">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="66" />
-        <mark key="." line="9" column="66" />
-        <mark key="^" line="9" column="66" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1510220252745">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="19" column="0" />
@@ -128,27 +66,6 @@
         <mark key="]" line="6" column="8" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="6" column="8" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" timestamp="1510212071119">
-        <mark key="'" line="51" column="12" />
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="44" />
-        <mark key="." line="47" column="44" />
-        <mark key="^" line="47" column="44" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/es/EsOutputBolt.kt" timestamp="1510052924943">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="56" column="27" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AggrKey.kt" timestamp="1510128852269">
-        <mark key="'" line="5" column="31" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/AggregateBolt.kt" timestamp="1510221859871">
         <mark key="[" line="10" column="39" />
@@ -162,32 +79,20 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/file/OrigFileOutputBolt.kt" timestamp="1510226614825">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/dsp/AggregateBolt.kt" timestamp="1510221826636">
         <mark key="[" line="11" column="71" />
         <mark key="]" line="11" column="79" />
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510218995362">
-        <mark key="'" line="168" column="34" />
-        <mark key="[" line="74" column="24" />
-        <mark key="]" line="74" column="24" />
-        <mark key="." line="74" column="24" />
-        <mark key="^" line="74" column="24" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/rcv.loghub.toml" timestamp="1509695973456">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.toml" timestamp="1510046648052">
-        <mark key="'" line="14" column="24" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510227766455">
+        <mark key="'" line="71" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" timestamp="1510192660244">
         <mark key="'" line="153" column="15" />
@@ -198,19 +103,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510207889025">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="101" column="19" />
-        <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510205785289">
-        <mark key="'" line="84" column="36" />
-        <mark key="[" line="61" column="49" />
-        <mark key="]" line="61" column="48" />
-        <mark key="." line="61" column="48" />
-        <mark key="^" line="61" column="48" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/file/OrigFileOutputBolt.kt" timestamp="1510226467194">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/src/storm/examples/hello-gradle/src/main/kotlin/hello.kt" timestamp="1509940994429">
         <mark key="[" line="0" column="0" />
@@ -241,11 +138,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1510224256140">
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" timestamp="1510227720072">
+        <mark key="'" line="41" column="87" />
+        <mark key="[" line="41" column="94" />
+        <mark key="]" line="41" column="110" />
+        <mark key="." line="41" column="110" />
+        <mark key="^" line="41" column="110" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/.gitignore" timestamp="1509584601487">
         <mark key="[" line="74" column="0" />
@@ -260,43 +158,13 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510215928780">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.prod.toml" timestamp="1510051943389">
-        <mark key="'" line="5" column="27" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/resources/bid.loghub.toml" timestamp="1509695960673">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1510219963697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" timestamp="1510052847722">
-        <mark key="'" line="29" column="67" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="28" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="20" filename="$USER_HOME$/develop/log-parser/pom.xml" />
-      <jump line="27" column="24" filename="$USER_HOME$/develop/log-parser/pom.xml" />
-      <jump line="64" column="31" filename="$USER_HOME$/develop/log-parser/pom.xml" />
-      <jump line="146" column="43" filename="$USER_HOME$/develop/log-parser/pom.xml" />
-      <jump line="74" column="48" filename="$USER_HOME$/develop/log-parser/pom.xml" />
-      <jump line="132" column="50" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="129" column="27" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="125" column="19" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="124" column="0" filename="$USER_HOME$/develop/log-parser/pom.xml" />
@@ -391,66 +259,68 @@
       <jump line="164" column="34" filename="$USER_HOME$/develop/log-polymerizer/pom.xml" />
       <jump line="47" column="33" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/AggregateBolt.kt" />
       <jump line="97" column="17" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" />
+      <jump line="42" column="87" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" />
+      <jump line="76" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="78" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="99" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="102" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="704" column="24" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmVzb3Rlcmljc29mdHdhcmUva3J5byAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmVzb3Rlcmljc29mdHdhcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtyeW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tuple</text>
+        <text>clkAggrFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIgPSBGaWxlcy5uZXdCdWZmZXJlZFdyaXRlcihQYXRocy5nZXQoIiRmaWxlLSR7Y29udGV4dC50aGlzVGFza0lkfSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclNlcmlhbGl6YXRpb24oc3Rvcm1Db25maWcsIExvZ0dyb3VwRGF0YTo6Y2xhc3MuamF2YSwgTG9nR3JvdXBEYXRhU2VyaWFsaXpTZXJpYWxpemVyOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdyaXRlciA9IEZpbGVzLm5ld0J1ZmZlcmVkV3JpdGVyKFBhdGhzLmdldCgiL3RtcC8ke1VVSUQucmFuZG9tVVVJRCgpfSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmVzb3Rlcmljc29mdHdhcmUva3J5byAtLT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmVzb3Rlcmljc29mdHdhcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmtyeW88L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMC4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy5idWZmZXIK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXMKaW1wb3J0IGphdmEubmlvLmZpbGUuUGF0aHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcy4K</text>
+        <text encoding="base64">ICAgIHZhbCBkaXJQYXRoID0gUGF0aHMuZ2V0KCJvdXRwdXQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkaXIgPSAib3V0cHV0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkZWNsYXJlT3V0cHV0RmllbGRzKGRlY2xhcmVyOiBPdXRwdXRGaWVsZHNEZWNsYXJlcikgewo=</text>
+        <text encoding="base64">ICAgIHZhbCBkaXIgPSAib3V0cHV0IgogICAgRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoUGF0aHMuZ2V0KGRpcikpCgogICAgdmFsIGZSZXEgPSAicmVxIgogICAgdmFsIGZSZXMgPSAicmVzIgogICAgdmFsIGZJbXAgPSAiaW1wIgogICAgdmFsIGZDbGsgPSAiY2xrIgoKICAgIHZhbCBmUmVxQWdnciA9ICJyZXEtYWdnciIKICAgIHZhbCBmUmVzQWdnciA9ICJyZXMtYWdnciIKICAgIHZhbCBmSW1wQWdnciA9ICJpbXAtYWdnciIKICAgIHZhbCBmQ2xrQWdnciA9ICJjbGstYWdnciIKCiAgICB2YWwgZkRzcEFnZ3IgPSAiZHNwLWFnZ3IiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNsYXJlci5kZWNsYXJlKEZpZWxkcygiYWdnciIpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByb2Nlc3ModHVwbGVzOiBMaXN0PFR1cGxlPik6IEhhc2hNYXA8QWdncktleSwgSW5kaWNhdG9yPiB7CiAgICAgICAgdmFsIGJ1Y2tldHMgPSBIYXNoTWFwPEFnZ3JLZXksIEluZGljYXRvcj4oKQogICAgICAgIHR1cGxlcy5mb3JFYWNoIHsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJ1Y2tldHMKICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBQYXRocy5nZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHByb2Nlc3ModHVwbGVzOiBMaXN0PFR1cGxlPik6IEhhc2hNYXA8QWdncktleSwgSW5kaWNhdG9yPiB7CiAgICAgICAgdmFsIGJ1Y2tldHMgPSBIYXNoTWFwPEFnZ3JLZXksIEluZGljYXRvcj4oKQogICAgICAgIHR1cGxlcy5mb3JFYWNoIHsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJ1Y2tldHMKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dC5yZWFkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrcnlvLndyaXRlT2JqZWN0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3R1cGxlL2lucHV0L2c=</text>
+        <text>%s/clkAggrFile/fClkAggr/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tuple</last-search>
+      <last-search>clkAggrFile</last-search>
       <last-offset />
-      <last-pattern>tuple</last-pattern>
-      <last-replace>input</last-replace>
-      <last-substitute>tuple</last-substitute>
+      <last-pattern>clkAggrFile</last-pattern>
+      <last-replace>fClkAggr</last-replace>
+      <last-substitute>clkAggrFile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>res</entry>
-        <entry>imp</entry>
-        <entry>Index</entry>
-        <entry>req</entry>
         <entry>repo</entry>
         <entry>main</entry>
         <entry>maven-jar-plugin</entry>
@@ -467,12 +337,12 @@
         <entry>time</entry>
         <entry>it</entry>
         <entry>tuple</entry>
+        <entry>reqAggrFile</entry>
+        <entry>resAggrFile</entry>
+        <entry>impAggrFile</entry>
+        <entry>clkAggrFile</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ZhbCAvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3Rlc3QvcHJvZC9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlcy9pbXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2ltcC9jbGsvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0luZGV4L1R5cGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9yZXMvZw==</entry>
@@ -489,6 +359,10 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2l0L3R1cGxlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3R1cGxlL2lucHV0L2c=</entry>
+        <entry>%s/reqAggrFile/fReqAggr/g</entry>
+        <entry>%s/resAggrFile/fResAggr/g</entry>
+        <entry>%s/impAggrFile/fImpAggr/g</entry>
+        <entry>%s/clkAggrFile/fClkAggr/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
