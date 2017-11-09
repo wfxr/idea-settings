@@ -91,9 +91,6 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510227766455">
-        <mark key="'" line="71" column="34" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" timestamp="1510192660244">
         <mark key="'" line="153" column="15" />
       </file>
