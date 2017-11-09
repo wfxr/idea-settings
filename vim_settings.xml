@@ -28,6 +28,11 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" timestamp="1510143191891">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/Builder.kt" timestamp="1510048548678">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="31" />
@@ -124,7 +129,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/loghub/LogHubFlatBolt.kt" timestamp="1510141966295" />
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OrigEsOutputBolt.kt" timestamp="1509432661942">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -329,11 +333,11 @@
       <jump line="45" column="19" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmN1cnNvclBvc2l0aW9uKEVORF9DVVJTT1IpCg==</text>
+      <register name="&quot;" type="4">
+        <text>15</text>
       </register>
       <register name="-" type="4">
-        <text>End</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text>bid</text>
