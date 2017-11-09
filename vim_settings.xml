@@ -55,8 +55,8 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" timestamp="1510212249246">
-        <mark key="'" line="23" column="14" />
+      <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" timestamp="1510214552556">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="49" column="26" />
         <mark key="]" line="49" column="38" />
         <mark key="." line="49" column="38" />
@@ -260,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/develop/log-parser/src/main/resources/elasticsearch.prod.toml" />
       <jump line="19" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" />
       <jump line="50" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
       <jump line="51" column="4" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/Starter.kt" />
@@ -360,6 +359,7 @@
       <jump line="50" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" />
       <jump line="27" column="14" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" />
+      <jump line="69" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
