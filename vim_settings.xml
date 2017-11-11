@@ -68,11 +68,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510367387119">
-        <mark key="[" line="133" column="35" />
-        <mark key="]" line="133" column="34" />
-        <mark key="." line="133" column="34" />
-        <mark key="^" line="133" column="34" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1510377043827">
+        <mark key="'" line="30" column="64" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="33" column="64" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" timestamp="1510366713856">
         <mark key="[" line="21" column="6" />
@@ -363,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="34" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="151" column="22" filename="$USER_HOME$/develop/log-parser/pom.xml" />
       <jump line="12" column="41" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/es/OrigEsOutputBolt.kt" />
@@ -463,13 +463,14 @@
       <jump line="76" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" />
       <jump line="23" column="62" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="609" column="16" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/Duration.java" />
+      <jump line="30" column="64" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Period</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclNlcmlhbGl6YXRpb24oc3Rvcm1Db25maWcsIFBhdGg6OmNsYXNzLmphdmEsIFBhdGhTZXJpYWxpemVyOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Period</text>
+        <text>Output</text>
       </register>
       <register name="/" type="4">
         <text>getMill</text>
@@ -478,40 +479,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5FeHBFc091dEJvbHQgYXMgUmN2RXhwRXNPdXRCb2x0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlclNlcmlhbGl6YXRpb24oc3Rvcm1Db25maWcsIFBhdGg6OmNsYXNzLmphdmEsIFBhdGhTZXJpYWxpemVyOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYXBwCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5FeHBCb2x0IGFzIFJjdkV4cEJvbHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuZmwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5FeHBCb2x0IGFzIFJjdkV4cEJvbHQK</text>
       </register>
-      <register name="4" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5FeHBCb2x0IGFzIFJjdkV4cEJvbHQK</text>
       </register>
-      <register name="5" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5FeHBCb2x0IGFzIEJpZEV4cEJvbHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5FeHBGaWxlT3V0Qm9sdCBhcyBCaWRPcmlnRmlsZU91dHB1dEJvbHQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmRzcC5FeHBCb2x0IGFzIERzcEFnZ0JvbHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmRzcC5FeHBFc091dEJvbHQK</text>
+        <text encoding="base64">ICAgICAgICBzZXRCb2x0KFJlc0FnZywgQmlkQWdncmVnYXRlQm9sdCgpLCA0KS5sb2NhbE9yU2h1ZmZsZUdyb3VwaW5nKEJpZEV4cCwgUmVzU3RyZWFtKQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIERzcE91dCA9ICJEc3BPdXQiCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYXBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/aggr-dsp/dsp/gc</text>
