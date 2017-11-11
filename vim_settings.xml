@@ -9,11 +9,6 @@
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
       </file>
-      <file name="/Kotlin Console" timestamp="1510392936927">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpBolt.kt" timestamp="1510366718164">
         <mark key="]" line="21" column="8" />
         <mark key="^" line="21" column="8" />
@@ -466,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Regex</text>
+        <text>s.</text>
       </register>
       <register name="-" type="4">
-        <text>Regex</text>
+        <text>s.</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
