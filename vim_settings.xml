@@ -299,6 +299,11 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/Duration.java" timestamp="1510374440159">
         <mark key="'" line="609" column="16" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1510389411893">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsOutputBolt.kt" timestamp="1510197484331">
         <mark key="[" line="104" column="35" />
         <mark key="]" line="104" column="36" />
@@ -469,7 +474,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhciByY3ZJZDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="-" type="4">
         <text>with</text>
@@ -481,31 +486,31 @@
         <text>input[&quot;basic&quot;]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhciByY3ZJZDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mTG9jYWxpemVkRGF0ZVRpbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mTG9jYWxpemVkRGF0ZVRpbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRpbWUuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGltZS4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHRpbWUuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGltZS4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgZnVuIGJ1bGtKc29uKGNvbnRlbnQ6IFN0cmluZykgewovLyAgICAgICAgYnVsa1Byb2Nlc3Nvci5hZGQoSW5kZXhSZXF1ZXN0KGluZGV4LCB0eXBlKS5zb3VyY2UoY29udGVudCwgWENvbnRlbnRUeXBlLkpTT04pKQovLyAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC4K</text>
+        <text encoding="base64">Ly8gICAgZnVuIGJ1bGtKc29uKGNvbnRlbnQ6IFN0cmluZykgewovLyAgICAgICAgYnVsa1Byb2Nlc3Nvci5hZGQoSW5kZXhSZXF1ZXN0KGluZGV4LCB0eXBlKS5zb3VyY2UoY29udGVudCwgWENvbnRlbnRUeXBlLkpTT04pKQovLyAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
