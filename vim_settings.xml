@@ -89,10 +89,10 @@
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseFileOutBolt.kt" timestamp="1510367003240">
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseFileOutBolt.kt" timestamp="1510368622620">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1510228856500">
         <mark key="[" line="0" column="0" />
@@ -278,6 +278,12 @@
         <mark key="^" line="85" column="34" />
         <mark key="." line="85" column="34" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/scripts/cleanOutput.sh" timestamp="1510369688280">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/EsOutputBolt.kt" timestamp="1510197484331">
         <mark key="[" line="104" column="35" />
         <mark key="]" line="104" column="36" />
@@ -310,6 +316,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510369980853">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/Config.kt" timestamp="1510367252280">
         <mark key="[" line="37" column="33" />
@@ -436,14 +447,11 @@
       <jump line="23" column="62" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Orig</text>
+        <text>sdir</text>
       </register>
       <register name="/" type="4">
         <text>aggr-dsp</text>
@@ -451,23 +459,20 @@ r</text>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LnJjdi5FeHBFc091dEJvbHQgYXMgUmN2RXhwRXNPdXRCb2x0Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
-      <register name="2" type="8">
-        <text>r
-r
-r
-r</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5FeHBGaWxlT3V0Qm9sdCBhcyBCaWRPcmlnRmlsZU91dHB1dEJvbHQK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuZmwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmRzcC5FeHBFc091dEJvbHQK</text>
+      <register name="4" type="8">
+        <text>r
+r
+r
+r</text>
       </register>
       <register name="5" type="8">
         <text>r
@@ -476,16 +481,19 @@ r
 r</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIERzcE91dCA9ICJEc3BPdXQiCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmJpZC5FeHBGaWxlT3V0Qm9sdCBhcyBCaWRPcmlnRmlsZU91dHB1dEJvbHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIERzcE91dCA9ICJEc3BPdXQiCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5zdG9ybS5ib2x0LmRzcC5FeHBFc091dEJvbHQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHNwSW5kZXggICAgIC0+IGRzcEluZGV4Cg==</text>
+      <register name="8" type="8">
+        <text>r
+r
+r
+r</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHNwSW5kZXggICAgIC0+IGRzcEluZGV4Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsIERzcE91dCA9ICJEc3BPdXQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/aggr-dsp/dsp/gc</text>
