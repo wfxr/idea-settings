@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" timestamp="1510396039771">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+      </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/Indicator.kt" timestamp="1510128535119">
         <mark key="[" line="4" column="96" />
         <mark key="]" line="4" column="108" />
         <mark key="^" line="4" column="108" />
         <mark key="." line="4" column="108" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1510395658697">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1510126402972">
         <mark key="[" line="4" column="58" />
@@ -429,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhQYXR0ZXJuUmVnZXgubWF0Y2hFbnRpcmUoZ2V0U3RyaW5nKCJyZXEiKSkgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>getString(&quot;req&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
@@ -441,41 +453,41 @@
         <text>dsp-{yyyy-MM-dd}</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhQYXR0ZXJuUmVnZXgubWF0Y2hFbnRpcmUoZ2V0U3RyaW5nKCJyZXEiKSkgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">cy4K</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>'
 '
 '
 '</text>
       </register>
-      <register name="3" type="8">
-        <text>}
-}
-}
-}</text>
-      </register>
       <register name="4" type="8">
         <text>}
 }
 }
+}</text>
+      </register>
+      <register name="5" type="8">
+        <text>}
+}
+}
 }
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBpbmRleAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhciByY3ZJZDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mTG9jYWxpemVkRGF0ZVRpbWUoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dmFsIGZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mTG9jYWxpemVkRGF0ZVRpbWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
