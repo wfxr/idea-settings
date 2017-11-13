@@ -50,12 +50,13 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510565522705">
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510576928094">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510575381685">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510576450402">
+        <mark key="'" line="77" column="0" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -191,18 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="18" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="92" column="20" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="103" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="202" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="43" column="57" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" />
-      <jump line="71" column="32" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
-      <jump line="50" column="12" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/bid/ParseBolt.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" />
-      <jump line="27" column="14" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" />
       <jump line="69" column="0" filename="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/rcv/ParseBolt.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/AggregateBolt.kt" />
@@ -285,12 +274,24 @@
       <jump line="18" column="56" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Maps.kt" />
       <jump line="19" column="33" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Maps.kt" />
       <jump line="20" column="45" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51-sources.jar!/kotlin/collections/Maps.kt" />
-      <jump line="20" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
       <jump line="13" column="3" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
       <jump line="17" column="23" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/elasticsearch.prod.toml" />
+      <jump line="0" column="18" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="15" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
