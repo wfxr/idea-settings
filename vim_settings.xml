@@ -30,11 +30,7 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/Kotlin Console" timestamp="1510395658697">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
+      <file name="/Kotlin Console" timestamp="1510578040118" />
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/OrigEsOutputBolt.kt" timestamp="1510366747539">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
@@ -294,11 +290,11 @@
       <jump line="77" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>dtf.</text>
       </register>
       <register name="-" type="4">
-        <text>println(adxMap[2])</text>
+        <text>dtf.</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
