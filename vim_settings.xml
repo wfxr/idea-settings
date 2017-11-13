@@ -59,12 +59,12 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/MediaMap.kt" timestamp="1510559202816">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/MediaMap.kt" timestamp="1510560247095">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="]" line="43" column="1" />
+        <mark key="." line="43" column="1" />
+        <mark key="^" line="43" column="1" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseAggregateBolt.kt" timestamp="1510231062157">
         <mark key="[" line="21" column="20" />
