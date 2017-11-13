@@ -257,12 +257,12 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510572045750">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510572179114">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/storm/storm-core/1.1.1/storm-core-1.1.1-sources.jar!/org/apache/storm/utils/Utils.java" timestamp="1510192660244">
         <mark key="'" line="153" column="15" />
@@ -511,10 +511,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>3000_0</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3000_0</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
