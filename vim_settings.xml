@@ -30,7 +30,6 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/Kotlin Console" timestamp="1510578040118" />
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/OrigEsOutputBolt.kt" timestamp="1510366747539">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
@@ -46,16 +45,16 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510576928094">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510621882125">
+        <mark key="[" line="198" column="29" />
+        <mark key="]" line="198" column="30" />
+        <mark key="." line="198" column="30" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510576450402">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510621725787">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/TupleExtension.kt" timestamp="1509426065422">
         <mark key="[" line="6" column="0" />
@@ -290,8 +289,8 @@
       <jump line="77" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dtf.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>dtf.</text>
@@ -303,31 +302,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHBhc3M6IFN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1lZGlhTWFwWzJdKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1lZGlhTWFwWzJdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqZGJjOm15c3FsOi8vcm0tMnplcXZrdjFqYjQ0NTgycjNvLm15c3FsLnJkcy5hbGl5dW5jcy5jb206MzMwNi93ZnhyIiwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJqZGJjOm15c3FsOi8vcm0tMnplcXZrdjFqYjQ0NTgycjNvLm15c3FsLnJkcy5hbGl5dW5jcy5jb206MzMwNi93ZnhyIiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gY29uZmlnVHlwZShjb25maWc6IENvbmZpZ1R5cGUpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VzZXIvcGFzcy9n</text>
