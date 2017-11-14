@@ -62,7 +62,7 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510623887794">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510623950829">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -203,6 +203,11 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" timestamp="1510623945062">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="78" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
@@ -308,7 +313,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56Cg==</text>
       </register>
       <register name="-" type="4">
         <text>polymerizer</text>
@@ -320,31 +325,31 @@
         <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgICBrb3RsaW5PcHRpb25zLmp2bVRhcmdldCA9ICIxLjgiCn0KY29tcGlsZVRlc3RLb3RsaW4gewogICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgICBLb3RsaW5PcHRpb25zLmp2bVRhcmdldCA9ICIxLjgiCn0KCmNvbXBpbGVUZXN0S290bGluIHsKICAgIEtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGppdHBhY2sK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
+        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgICBLb3RsaW5PcHRpb25zLmp2bVRhcmdldCA9ICIxLjgiCn0KCmNvbXBpbGVUZXN0S290bGluIHsKICAgIEtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
+        <text encoding="base64">ICAgIGppdHBhY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1lZGlhTWFwWzJdKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VzZXIvcGFzcy9n</text>
