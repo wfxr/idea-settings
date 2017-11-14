@@ -38,6 +38,11 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/Instant.java" timestamp="1510387492059">
         <mark key="'" line="747" column="19" />
       </file>
+      <file name="/tmp/kotlin-gradle-demo/build.gradle" timestamp="1510623627841">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/MediaMap.kt" timestamp="1510568681090">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="9" column="6" />
@@ -57,11 +62,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510621725787">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/LogFieldMap.kt" timestamp="1510623887794">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/utils/TupleExtension.kt" timestamp="1509426065422">
         <mark key="[" line="6" column="0" />
@@ -184,12 +189,11 @@
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/build.gradle" timestamp="1510623300969">
-        <mark key="'" line="19" column="36" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="54" />
+      <file name="$USER_HOME$/develop/log-polymerizer/build.gradle" timestamp="1510623636054">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="16" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jetbrains/exposed/exposed/0.8.8/exposed-0.8.8-sources.jar!/org/jetbrains/exposed/sql/Queries.kt" timestamp="1510542268332">
         <mark key="'" line="57" column="41" />
@@ -201,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="87" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/FileOutputBolt.kt" />
-      <jump line="76" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="78" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="99" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="102" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
@@ -301,10 +303,12 @@
       <jump line="44" column="0" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
       <jump line="19" column="36" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
+      <jump line="24" column="14" filename="/tmp/kotlin-gradle-demo/build.gradle" />
+      <jump line="42" column="13" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>polymerizer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy56bQo=</text>
       </register>
       <register name="-" type="4">
         <text>polymerizer</text>
@@ -312,35 +316,35 @@
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>https://dl.bintray.com/kotlin/exposed/</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgICBrb3RsaW5PcHRpb25zLmp2bVRhcmdldCA9ICIxLjgiCn0KY29tcGlsZVRlc3RLb3RsaW4gewogICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGppdHBhY2sK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
+        <text encoding="base64">Y29tcGlsZUtvdGxpbiB7CiAgICBLb3RsaW5PcHRpb25zLmp2bVRhcmdldCA9ICIxLjgiCn0KCmNvbXBpbGVUZXN0S290bGluIHsKICAgIEtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
+        <text encoding="base64">ICAgIGppdHBhY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWVkaWFNYXBbMl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1lZGlhTWFwWzJdKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaWQgPSAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRyaXZlck1hbmFnZXIucHJpbnRsbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1lZGlhTWFwWzJdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJqZGJjOm15c3FsOi8vcm0tMnplcXZrdjFqYjQ0NTgycjNvLm15c3FsLnJkcy5hbGl5dW5jcy5jb206MzMwNi93ZnhyIiwK</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VzZXIvcGFzcy9n</text>
