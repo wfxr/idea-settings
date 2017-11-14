@@ -121,7 +121,7 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/nio/file/Path.java" timestamp="1510225855907">
         <mark key="'" line="704" column="24" />
       </file>
-      <file name="/fragment.kt" timestamp="1510575304770">
+      <file name="/fragment.kt" timestamp="1510643373907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,12 +176,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" timestamp="1510641873992">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="17" />
-        <mark key="^" line="64" column="17" />
-        <mark key="." line="64" column="17" />
+      <file name="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" timestamp="1510643453286">
+        <mark key="'" line="22" column="29" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/AggregateBolt.kt" timestamp="1510220252745">
         <mark key="[" line="13" column="15" />
@@ -335,44 +334,44 @@
       <jump line="23" column="29" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>append()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>append()</text>
+        <text>dea</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7Ci8vICAgICAgICAgICAgICAgIHByaW50bG4oIkVycm9yIGxpbmU6ICRpdCIpCi8vICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXFXcml0ZXIgPSBGaWxlKCIvdG1wL3JlcSIpLm91dHB1dFN0cmVhbSgpLmJ1ZmZlcmVkV3JpdGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFwcGVuZGxuKGJ1bGsudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaXN0ID0gQXJyYXlMaXN0PFBhaXI8U3RyaW5nLCBBZFR5cGU+PigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaT0gaXRbImlkZWEiXQogICAgICAgICAgICAgICAgICAgIHZhbCBpaSA9IGlbImlkZWEiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGRBbGwoYnVsaykK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYmF0Y2ggPSBBcnJheUxpc3Q8UGFpcjxTdHJpbmcsIEFkVHlwZT4+KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkKGxpc3QpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJFcnJvciBsb2c6ICRpdCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGlkID0gaXRbImltcGlkIl0KICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGlkZWEgPSBpdFsiaWRlYSJdCiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4oIkVycm9yIGxvZzogJGl0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ludCgpLzAvZw==</text>
