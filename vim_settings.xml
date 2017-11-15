@@ -227,12 +227,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510657362362">
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510722887399">
         <mark key="'" line="198" column="29" />
-        <mark key="[" line="198" column="28" />
-        <mark key="]" line="198" column="29" />
-        <mark key="." line="198" column="29" />
-        <mark key="^" line="198" column="29" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/settings.gradle" timestamp="1510623452440">
         <mark key="[" line="0" column="24" />
@@ -432,11 +432,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmV0d29ya01vZGUgPSBOZXR3b3JrTW9kZS52YWx1ZU9mKGFyZ3NbcG9zKytdLnRvVXBwZXJDYXNlKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>beta3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHN0b3JtTW9kZT4g</text>
+        <text>beta3</text>
       </register>
       <register name="/" type="4">
         <text>valueOf</text>
@@ -472,7 +472,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -514,7 +514,6 @@
         <entry encoding="base64">JzwsJz5zL0F0b1x3XCsvSW50L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0ludCgpLzAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FkeC9tZWRpYS9n</entry>
-        <entry>w</entry>
         <entry>%s/ConfigType/Profile/g</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jcmVhdGVMb2dGaWVsZE1hcHMvZw==</entry>
         <entry encoding="base64">JzwsJz5x</entry>
@@ -528,6 +527,7 @@
         <entry encoding="base64">JzwsJz5zL3JlcS9pbXAv</entry>
         <entry encoding="base64">JzwsJz5zL3Jlcy9jbGsv</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
