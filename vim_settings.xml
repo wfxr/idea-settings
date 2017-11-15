@@ -27,6 +27,11 @@
         <mark key="." line="10" column="119" />
         <mark key="^" line="10" column="119" />
       </file>
+      <file name="/Kotlin Console" timestamp="1510716668616">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/LogFieldMap.kt" timestamp="1510711154560">
         <mark key="'" line="60" column="3" />
         <mark key="[" line="52" column="22" />
@@ -163,6 +168,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="9" column="57" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.60/kotlin-stdlib-1.1.60-sources.jar!/kotlin/Enum.kt" timestamp="1510718398542">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="38" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutputBolt.kt" timestamp="1510366909036">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="24" />
@@ -187,11 +197,11 @@
         <mark key="." line="10" column="8" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510711794955">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="53" />
-        <mark key="." line="76" column="53" />
-        <mark key="^" line="76" column="53" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/spout/LogHubSpoutBuilder.kt" timestamp="1510718749731">
+        <mark key="[" line="81" column="33" />
+        <mark key="]" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+        <mark key="^" line="81" column="31" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/SqlDemo.kt" timestamp="1510558800943">
         <mark key="'" line="11" column="4" />
@@ -283,19 +293,19 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510715417977">
-        <mark key="'" line="102" column="11" />
-        <mark key="[" line="86" column="76" />
-        <mark key="]" line="78" column="24" />
-        <mark key="." line="78" column="24" />
-        <mark key="^" line="78" column="24" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510719444035">
+        <mark key="'" line="129" column="11" />
+        <mark key="[" line="127" column="1" />
+        <mark key="]" line="127" column="1" />
+        <mark key="." line="127" column="1" />
+        <mark key="^" line="97" column="24" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/Config.kt" timestamp="1510713107699">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/Config.kt" timestamp="1510718958008">
         <mark key="'" line="49" column="45" />
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="49" column="45" />
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseExpEsOutBolt.kt" timestamp="1510710293144">
         <mark key="[" line="10" column="111" />
@@ -321,12 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="7" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
-      <jump line="42" column="4" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
-      <jump line="44" column="11" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
-      <jump line="45" column="4" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
-      <jump line="1" column="8" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
-      <jump line="7" column="62" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
       <jump line="14" column="15" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
       <jump line="20" column="40" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
       <jump line="25" column="27" filename="$USER_HOME$/develop/log-polymerizer/build.gradle" />
@@ -394,7 +398,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="189" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="115" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="112" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="110" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="107" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
@@ -421,64 +424,69 @@
       <jump line="96" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="97" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="99" column="11" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="115" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="53" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="119" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="180" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
+      <jump line="23" column="22" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.60/kotlin-stdlib-1.1.60-sources.jar!/kotlin/Enum.kt" />
+      <jump line="58" column="8" filename="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.60/kotlin-stdlib-1.1.60-sources.jar!/kotlin/Enum.kt" />
+      <jump line="129" column="11" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AggFileOutBolt(dir, DspOut, maps)</text>
+        <text>Bid</text>
       </register>
       <register name="/" type="4">
-        <text>clk</text>
+        <text>valueOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcUJvbHQgPSBCaWRFeHBFc091dEJvbHQoaW5kZXgoUmVxSW5kZXgpLmJ1aWxkKCksIG1hcHMpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJvZmlsZSA9IFByb2ZpbGUudmFsdWVPZihhcmdzW3BvcysrXS50b1VwcGVyQ2FzZSgpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkc3BPdXRCb2x0KGRzcEJvbHQpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuIHJ1bldpdGhMb2dIdWIyRXModG9wb2xvZ3lJZDogU3RyaW5nLCBwcm9maWxlOiBQcm9maWxlLCBuZXR3b3JrTW9kZTogTmV0d29ya01vZGUpIHsKCiAgICB2YWwgYmlkU3BvdXQgPSBMb2dIdWJTcG91dEJ1aWxkZXIoQklEKQogICAgICAgICAgICAuY3Vyc29yUG9zaXRpb24oQkVHSU5fQ1VSU09SKQogICAgICAgICAgICAucHJvZmlsZShwcm9maWxlKQogICAgICAgICAgICAubmV0d29yayhuZXR3b3JrTW9kZSkKICAgICAgICAgICAgLmJ1aWxkKCkKICAgIHZhbCByY3ZTcG91dCA9IExvZ0h1YlNwb3V0QnVpbGRlcihSQ1YpCiAgICAgICAgICAgIC5jdXJzb3JQb3NpdGlvbihCRUdJTl9DVVJTT1IpCiAgICAgICAgICAgIC5wcm9maWxlKHByb2ZpbGUpCiAgICAgICAgICAgIC5uZXR3b3JrKG5ldHdvcmtNb2RlKQogICAgICAgICAgICAuYnVpbGQoKQogICAgdmFsIG1hcHMgPSBjcmVhdGVMb2dGaWVsZE1hcHNHZW5lcmF0b3IocHJvZmlsZSwgMzAuc2Vjb25kcykKICAgIHdpdGgoRXNCb2x0Q29uZmlnQnVpbGRlcihwcm9maWxlKSkgewogICAgICAgIHZhbCByZXFCb2x0ID0gQmlkRXhwRXNPdXRCb2x0KGluZGV4KFJlcUluZGV4KS5idWlsZCgpLCBtYXBzKQogICAgICAgIHZhbCByZXNCb2x0ID0gQmlkRXhwRXNPdXRCb2x0KGluZGV4KFJlc0luZGV4KS5idWlsZCgpLCBtYXBzKQogICAgICAgIHZhbCBpbXBCb2x0ID0gUmN2RXhwRXNPdXRCb2x0KGluZGV4KEltcEluZGV4KS5idWlsZCgpLCBtYXBzKQogICAgICAgIHZhbCBjbGtCb2x0ID0gUmN2RXhwRXNPdXRCb2x0KGluZGV4KENsa0luZGV4KS5idWlsZCgpLCBtYXBzKQogICAgICAgIHZhbCBkc3BCb2x0ID0gRHNwRXhwRXNPdXRCb2x0KGluZGV4KERzcEluZGV4KS5idWlsZCgpLCBtYXBzKQoKICAgICAgICBNYWluVG9wb2xvZ3kuYnVpbGQodG9wb2xvZ3lJZCkgewogICAgICAgICAgICBzcG91dChiaWRTcG91dCB0byAzMiwgcmN2U3BvdXQgdG8gNCkKICAgICAgICAgICAgZmxhdEJvbHQoTG9nSHViRmxhdEJvbHQoKSwgTG9nSHViRmxhdEJvbHQoKSkKICAgICAgICAgICAgYmlkT3V0Qm9sdChyZXFCb2x0LCByZXNCb2x0KQogICAgICAgICAgICByY3ZPdXRCb2x0KGltcEJvbHQsIGNsa0JvbHQpCiAgICAgICAgICAgIGRzcE91dEJvbHQoZHNwQm9sdCkKICAgICAgICB9LnJ1bldpdGhSZW1vdGUoKQogICAgfQp9Cgpwcml2YXRlIGZ1biBydW5XaXRoTG9nSHViMmZpbGUodG9wb2xvZ3lJZDogU3RyaW5nLCBwcm9maWxlOiBQcm9maWxlLCBuZXR3b3JrTW9kZTogTmV0d29ya01vZGUpIHsKICAgIHZhbCBiaWRTcG91dCA9IExvZ0h1YlNwb3V0QnVpbGRlci5idWlsZChCSUQpIHsKICAgICAgICBjdXJzb3JQb3NpdGlvbihFTkRfQ1VSU09SKQogICAgICAgIHByb2ZpbGUocHJvZmlsZSkKICAgICAgICBuZXR3b3JrKG5ldHdvcmtNb2RlKQogICAgfQogICAgdmFsIHJjdlNwb3V0ID0gTG9nSHViU3BvdXRCdWlsZGVyLmJ1aWxkKFJDVikgewogICAgICAgIGN1cnNvclBvc2l0aW9uKEVORF9DVVJTT1IpCiAgICAgICAgcHJvZmlsZShwcm9maWxlKQogICAgICAgIG5ldHdvcmsobmV0d29ya01vZGUpCiAgICB9CgogICAgdmFsIGRpciA9ICJvdXRwdXQiCiAgICBGaWxlcy5jcmVhdGVEaXJlY3RvcmllcyhQYXRocy5nZXQoZGlyKSkKCiAgICB2YWwgbWFwcyA9IGNyZWF0ZUxvZ0ZpZWxkTWFwc0dlbmVyYXRvcihwcm9maWxlLCAzMC5zZWNvbmRzKQogICAgTWFpblRvcG9sb2d5LmJ1aWxkKHRvcG9sb2d5SWQpIHsKICAgICAgICBzcG91dChiaWRTcG91dCB0byAzMiwgcmN2U3BvdXQgdG8gNCkKICAgICAgICBmbGF0Qm9sdChMb2dIdWJGbGF0Qm9sdCgpLCBMb2dIdWJGbGF0Qm9sdCgpKQoKICAgICAgICBiaWRPdXRCb2x0KEJpZEV4cEZpbGVPdXRCb2x0KGRpciwgUmVxT3V0LCBtYXBzKSwgQmlkRXhwRmlsZU91dEJvbHQoZGlyLCBSZXNPdXQsIG1hcHMpKQogICAgICAgIGJpZEFnZ091dEJvbHQoQWdnRmlsZU91dEJvbHQoZGlyLCBSZXFBZ2dPdXQsIG1hcHMpLCBBZ2dGaWxlT3V0Qm9sdChkaXIsIFJlc0FnZ091dCwgbWFwcykpCgogICAgICAgIHJjdk91dEJvbHQoUmN2RXhwRmlsZU91dEJvbHQoZGlyLCBJbXBPdXQsIG1hcHMpLCBSY3ZFeHBGaWxlT3V0Qm9sdChkaXIsIENsa091dCwgbWFwcykpCiAgICAgICAgcmN2QWdnT3V0Qm9sdChBZ2dGaWxlT3V0Qm9sdChkaXIsIEltcEFnZ091dCwgbWFwcyksIEFnZ0ZpbGVPdXRCb2x0KGRpciwgQ2xrQWdnT3V0LCBtYXBzKSkKCiAgICAgICAgZHNwT3V0Qm9sdChBZ2dGaWxlT3V0Qm9sdChkaXIsIERzcE91dCwgbWFwcykpCgogICAgICAgIHNwZWVkT3V0KHRydWUpCiAgICB9LnJ1bldpdGhMb2NhbCgpCn0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByY3ZPdXRCb2x0KFJjdkV4cEZpbGVPdXRCb2x0KGRpciwgSW1wT3V0LCBtYXBzKSwgUmN2RXhwRmlsZU91dEJvbHQoZGlyLCBDbGtPdXQsIG1hcHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaWRPdXRCb2x0KEJpZEV4cEZpbGVPdXRCb2x0KGRpciwgUmVxT3V0LCBtYXBzKSwgQmlkRXhwRmlsZU91dEJvbHQoZGlyLCBSZXNPdXQsIG1hcHMpKQo=</text>
+        <text encoding="base64">ZnVuIDxFIDogRW51bTxFPj4gRW51bTxFPi5zZWFyY2goczogU3RyaW5nLCBjYXNlU2Vuc2l0aXZlOiBCb29sZWFuID0gZmFsc2UpOiBFIHsKICAgIGlmIChjYXNlU2Vuc2l0aXZlID09IHRydWUpIHJldHVybiBqYXZhLmxhbmcuRW51bS52YWx1ZU9mPEU+KHMpCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNwb3V0KGJpZFNwb3V0IHRvIDMyLCByY3ZTcG91dCB0byA0KQovLyAgICAgICAgZmxhdEJvbHQoTG9nSHViRmxhdEJvbHQoKSwgTG9nSHViRmxhdEJvbHQoKSkKLy8gICAgICAgIGJpZE91dEJvbHQocmVxQm9sdCwgcmVzQm9sdCkKLy8gICAgICAgIHJjdk91dEJvbHQoaW1wQm9sdCwgY2xrQm9sdCkKLy8gICAgICAgIGRzcE91dEJvbHQoZHNwQm9sdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChhcmdzLnNpemUgIT0gMSkgewogICAgICAgIHJldHVybgogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCgpIHsK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHRvcG9sb2d5SWQgPSBhcmdzLmZpcnN0KCkKLy8gICAgd2hlbiAodG9wb2xvZ3lJZCkgewovLyAgICAgICAgImxvZ2h1YjJmaWxlLXRlc3QiIC0+IHJ1bldpdGhMb2dIdWIyZmlsZSh0b3BvbG9neUlkLCBUZXN0LCBJbnRlcm5ldCkKLy8gICAgICAgICJsb2dodWIyZXMtdGVzdCIgICAtPiBydW5XaXRoTG9nSHViMkVzKHRvcG9sb2d5SWQsIFRlc3QsIEludHJhbmV0KQovLyAgICAgICAgZWxzZSAgICAgICAgICAgICAgIC0+IHVzYWdlKCkKLy8gICAgfQovLyAgICB2YWwgKCBwcm9maWxlQXJnLCBpbXBvcnRNb2R1bGVBcmcsIGV4cG9ydE1vZHVsZUFyZywgbmV0d29ya0FyZykgPSBhcmdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByZXFDb25maWcgPSBpbmRleChSZXFJbmRleCkuYnVpbGQoKQogICAgICAgICAgICAgICAgdmFsIHJlc0NvbmZpZyA9IGluZGV4KFJlc0luZGV4KS5idWlsZCgpCiAgICAgICAgICAgICAgICB2YWwgaW1wQ29uZmlnID0gaW5kZXgoSW1wSW5kZXgpLmJ1aWxkKCkKICAgICAgICAgICAgICAgIHZhbCBjbGtDb25maWcgPSBpbmRleChDbGtJbmRleCkuYnVpbGQoKQogICAgICAgICAgICAgICAgdmFsIGRzcENvbmZpZyA9IGluZGV4KERzcEluZGV4KS5idWlsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2Nsay9kc3AvZw==</text>
+        <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>clk</last-search>
+      <last-search>valueOf</last-search>
       <last-offset />
-      <last-pattern>clk</last-pattern>
-      <last-replace>dsp</last-replace>
-      <last-substitute>clk</last-substitute>
+      <last-pattern>valueOf</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>get</entry>
         <entry>user</entry>
         <entry>Ato\w\+</entry>
         <entry>Int()</entry>
@@ -493,15 +501,14 @@
         <entry>80</entry>
         <entry>failed</entry>
         <entry>request</entry>
-        <entry>res</entry>
         <entry>Bolt</entry>
-        <entry>req</entry>
         <entry>clk</entry>
+        <entry>req</entry>
+        <entry>res</entry>
+        <entry>$</entry>
+        <entry>valueOf</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dldFN0cmluZy9nZXRJbmRleFBhdHRlcm4oZ2V0U3RyaW5nL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyQvKS9n</entry>
-        <entry encoding="base64">JzwsJz5zLykvLnRvSW5kZXhQYXR0ZXJuKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zLykpLykudG9JbmRleFBhdHRlcm4oKS9n</entry>
         <entry encoding="base64">JzwsJz5zL21lZGlhL2FkeC9n</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXIvcGFzcy9n</entry>
@@ -519,6 +526,9 @@
         <entry encoding="base64">JzwsJz5zL3JlcS9pbXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9jbGsvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Nsay9kc3AvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3JlcS9pbXAv</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlcy9jbGsv</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
