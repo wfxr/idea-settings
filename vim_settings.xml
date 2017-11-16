@@ -306,15 +306,15 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" timestamp="1510813607764">
-        <mark key="[" line="45" column="77" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" timestamp="1510813661309">
+        <mark key="'" line="45" column="83" />
+        <mark key="[" line="45" column="76" />
         <mark key="]" line="45" column="81" />
-        <mark key="." line="45" column="81" />
-        <mark key="^" line="45" column="81" />
+        <mark key="." line="45" column="82" />
+        <mark key="^" line="45" column="117" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
       <jump line="68" column="14" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
       <jump line="60" column="27" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
       <jump line="67" column="14" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
@@ -414,13 +414,14 @@
       <jump line="135" column="50" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
       <jump line="172" column="54" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
       <jump line="173" column="54" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
+      <jump line="45" column="83" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getTransports</text>
