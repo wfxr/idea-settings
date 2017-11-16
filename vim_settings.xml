@@ -26,17 +26,17 @@
         <mark key="." line="10" column="119" />
         <mark key="^" line="10" column="119" />
       </file>
-      <file name="/Kotlin Console" timestamp="1510716668616">
+      <file name="/Kotlin Console" timestamp="1510801609983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/LogFieldMap.kt" timestamp="1510801147463">
-        <mark key="'" line="76" column="3" />
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="62" column="35" />
-        <mark key="." line="62" column="35" />
-        <mark key="^" line="62" column="35" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/LogFieldMap.kt" timestamp="1510802046808">
+        <mark key="'" line="77" column="3" />
+        <mark key="[" line="66" column="49" />
+        <mark key="]" line="66" column="48" />
+        <mark key="." line="66" column="48" />
+        <mark key="^" line="66" column="48" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/OrigEsOutputBolt.kt" timestamp="1510366747539">
         <mark key="[" line="8" column="6" />
@@ -195,10 +195,10 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseOutBolt.kt" timestamp="1510801374007">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseOutBolt.kt" timestamp="1510801612704">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/resources/database.toml" timestamp="1510567094325">
         <mark key="[" line="2" column="23" />
@@ -411,11 +411,11 @@
       <jump line="63" column="17" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-sources.jar!/org/slf4j/Logger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>AdType</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>valueOf</text>
@@ -423,32 +423,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBhZHhNYXAgPSBjcmVhdGVNYXAoImFkeCIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>fieldMaps: LogFieldMap, createMap: LogFieldMap, createMap1: LogFieldMap,
+                createMap2: LogFieldMap</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtCg==</text>
+      <register name="2" type="4">
+        <text>val adxMap: LogFieldMap, val mediaMap: LogFieldMap,
+                        val metroMap: LogFieldMap, val cityMap: LogFieldMap</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5lbnRpdHkuZW51bXMuQWRUeXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhZHhNYXAuZnJlZXplKCkKICAgICAgICBtZWRpYU1hcC5mcmVlemUoKQogICAgICAgIGNyZWF0ZU1hcC5mcmVlemUoKQogICAgICAgIGNpdHlNYXAuZnJlZXplKCkK</text>
+        <text encoding="base64">ICAgICAgICBBZFR5cGUuQmFubmVyLmhhc2hDb2RlKClkZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICBFbnVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBjYXRjaEFsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZHhNYXAuZnJlZXplKCkKICAgICAgICBtZWRpYU1hcC5mcmVlemUoKQogICAgICAgIGNyZWF0ZU1hcC5mcmVlemUoKQogICAgICAgIGNpdHlNYXAuZnJlZXplKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
