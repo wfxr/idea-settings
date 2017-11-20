@@ -85,10 +85,10 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="/fragment.kt" timestamp="1510801018168">
+      <file name="/fragment.kt" timestamp="1511161486766">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/spout/Profile.kt" timestamp="1510707950662">
         <mark key="[" line="3" column="0" />
@@ -238,6 +238,12 @@
         <mark key="]" line="18" column="77" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="57" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511161484836">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/MediaMap.kt" timestamp="1510538653410">
         <mark key="'" line="5" column="0" />
@@ -416,10 +422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exposed</text>
+        <text>adxName</text>
       </register>
       <register name="-" type="4">
-        <text>exposed</text>
+        <text>adxName</text>
       </register>
       <register name="/" type="4">
         <text>getTransports</text>
