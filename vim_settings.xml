@@ -90,6 +90,7 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" timestamp="1511164127941" />
       <file name="/fragment.kt" timestamp="1511161486766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -244,10 +245,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511162664188">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511163285027">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/MediaMap.kt" timestamp="1510538653410">
         <mark key="'" line="5" column="0" />
@@ -426,7 +427,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcC5hcnJheQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{ }</text>
@@ -438,31 +439,31 @@
         <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmtvdGxpbi1leHBvc2VkPC9pZD4KICAgICAgICAgICAgPHVybD5odHRwczovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9leHBvc2VkLzwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcC5hcnJheQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcC5hcnJheQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MoaXRbIm9zIl0uc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gb3Mob3M6IFMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MoaXRbIm9zIl0uc3RyaW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gb3Mob3M6IFMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
