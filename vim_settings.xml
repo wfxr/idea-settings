@@ -216,12 +216,12 @@
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/common/settings/Settings.java" timestamp="1510812462383">
         <mark key="'" line="1246" column="0" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1510722887399">
+      <file name="$USER_HOME$/develop/log-polymerizer/pom.xml" timestamp="1511157366956">
         <mark key="'" line="198" column="29" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+        <mark key="[" line="198" column="32" />
+        <mark key="]" line="198" column="33" />
+        <mark key="." line="198" column="33" />
+        <mark key="^" line="198" column="33" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/settings.gradle" timestamp="1510623452440">
         <mark key="[" line="0" column="24" />
@@ -417,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>getTransports</text>
