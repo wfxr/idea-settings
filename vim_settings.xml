@@ -244,8 +244,8 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511177758369">
-        <mark key="'" line="28" column="30" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511226681586">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="28" column="15" />
         <mark key="]" line="28" column="31" />
         <mark key="." line="28" column="15" />
@@ -324,10 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="14" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
-      <jump line="59" column="22" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" />
-      <jump line="4" column="12" filename="$USER_HOME$/develop/youku-parser/src/main/kotlin/Aggregator.kt" />
-      <jump line="14" column="80" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/LogFieldMap.kt" />
       <jump line="43" column="3" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/LogFieldMap.kt" />
       <jump line="36" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" />
       <jump line="15" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpEsOutBolt.kt" />
@@ -424,6 +420,10 @@
       <jump line="8" column="17" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" />
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" />
       <jump line="28" column="30" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
