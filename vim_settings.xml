@@ -82,11 +82,12 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" timestamp="1511250999819">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" timestamp="1511258530807">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="/fragment.kt" timestamp="1511161486766">
         <mark key="[" line="0" column="0" />
@@ -247,12 +248,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511253171684">
-        <mark key="'" line="40" column="47" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="23" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
+        <mark key="'" line="50" column="26" />
+        <mark key="[" line="56" column="94" />
+        <mark key="]" line="57" column="41" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="57" column="57" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/MediaMap.kt" timestamp="1510538653410">
         <mark key="'" line="5" column="0" />
@@ -328,9 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="170" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
-      <jump line="166" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="162" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="157" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="152" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
@@ -428,65 +426,65 @@
       <jump line="17" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" />
       <jump line="82" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" />
       <jump line="40" column="47" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="42" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="43" column="13" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
+      <jump line="50" column="26" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Aggregator</text>
+        <text>.appendSuper()</text>
       </register>
       <register name="-" type="4">
-        <text>Aggregator</text>
+        <text>.appendSuper()</text>
       </register>
       <register name="/" type="4">
-        <text>getTransports</text>
+        <text>it\[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ0FnZ3JlZ2F0b3InCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJhbm5lciA9IGl0WyJiYW5uZXIiXQogICAgICAgICAgICB2YWwgdmlkZW8gPSBpdFsidmlkZW8iXQogICAgICAgICAgICB2YWwgbmF0aXZlID0gaXRbIm5hdGl2ZUFkIl0KCiAgICAgICAgICAgIHZhbCBhZEluZm8gPSB3aGVuIHsKICAgICAgICAgICAgICAgICFiYW5uZXIuaXNKc29uTnVsbCAtPiBCYW5uZXJBZChiYW5uZXJbInciXS5udWxsSW50LCBiYW5uZXJbImgiXS5udWxsSW50KQogICAgICAgICAgICAgICAgIXZpZGVvLmlzSnNvbk51bGwgIC0+IFZpZGVvQWQodmlkZW9bIm1heGR1cmF0aW9uIl0ubnVsbEludCkKICAgICAgICAgICAgICAgICFuYXRpdmUuaXNKc29uTnVsbCAtPiBOYXRpdmVBZCgpCiAgICAgICAgICAgICAgICBlbHNlICAgICAgICAgICAgICAgLT4gVW5rbm93bkFkCiAgICAgICAgICAgIH0KICAgICAgICAgICAgUmVxU2xvdChhZEluZm8sIGl0WyJiaWRmbG9vciJdLm51bGxJbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJhbmRyb2lkIiAtPiBPc1R5cGUuQW5kcm9pZAogICAgICAgICAgICAgICAgICAgZWxzZSAgICAgIC0+IE9zVHlwZS5Vbmtub3duCg==</text>
+        <text encoding="base64">Ly8g5bCa5LiN56Gu5a6a5piv5ZCm5omA5pyJ55qE5aqS5L2T5Z2H6IO95o+Q5L6b6KeG6aKR55qEd2lkdGjlkoxoZWlnaHTlsZ7mgKfvvIzmiYDku6UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBiYW5uZXIgPSBpbXBbImJhbm5lciJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYmlkRmxvb3IgPSBpbXBbImJpZGZsb29yIl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJhbmRyb2lkIiAtPiBPc1R5cGUuQW5kcm9pZAogICAgICAgICAgICAgICAgICAgZWxzZSAgICAgIC0+IE9zVHlwZS5Vbmtub3duCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlVua25vd25BZCgpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlBhdXNlQWQod2lkdGg9JHdpZHRoLGhlaWdodD0kaGVpZ2h0KSIK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2l0XFsvaW1wXFsvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>getTransports</last-search>
+      <last-search>it\[</last-search>
       <last-offset />
-      <last-pattern>getTransports</last-pattern>
-      <last-replace>k</last-replace>
-      <last-substitute>basic</last-substitute>
+      <last-pattern>it\[</last-pattern>
+      <last-replace>imp\[</last-replace>
+      <last-substitute>it\[</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cache</entry>
-        <entry>catch</entry>
-        <entry>ConfigType</entry>
         <entry>config</entry>
         <entry>80</entry>
         <entry>failed</entry>
@@ -504,12 +502,11 @@
         <entry>processor</entry>
         <entry>get</entry>
         <entry>getTransports</entry>
+        <entry>idfa</entry>
+        <entry>it[/imp[/g</entry>
+        <entry>it\[</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0F0b1x3XCsvSW50L2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0ludCgpLzAvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2FkeC9tZWRpYS9n</entry>
-        <entry>%s/ConfigType/Profile/g</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jcmVhdGVMb2dGaWVsZE1hcHMvZw==</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz5zL3Jlcy9jbGsvZw==</entry>
@@ -526,6 +523,10 @@
         <entry encoding="base64">JzwsJz5zL21ldHJvL2NpdHkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Jhc2ljL2svZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2lkZmEvbWFjL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2lkZmEvaW1laS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2l0Wy9pbXBbL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2l0XFsvaW1wXFsvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
