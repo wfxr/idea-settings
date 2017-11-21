@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" timestamp="1510798159945">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="16" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/OrigFileOutputBolt.kt" timestamp="1510366763377">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
@@ -109,12 +103,18 @@
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/develop/youku-parser/build.gradle" timestamp="1510647101403">
+      <file name="$USER_HOME$/develop/youku-parser/build.gradle" timestamp="1511252788915">
         <mark key="'" line="23" column="27" />
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="43" />
-        <mark key="^" line="42" column="43" />
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="43" column="39" />
+        <mark key="^" line="43" column="39" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/enums/OsType.kt" timestamp="1511252463068">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/develop/log-parser/src/main/kotlin/org/zmeng/storm/bolt/OrigEsOutputBolt.kt" timestamp="1509432661942">
         <mark key="[" line="6" column="0" />
@@ -172,12 +172,6 @@
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/plugin/transport-netty4-client/5.6.3/transport-netty4-client-5.6.3-sources.jar!/org/elasticsearch/transport/netty4/Netty4Utils.java" timestamp="1510813556258">
         <mark key="[" line="76" column="50" />
         <mark key="]" line="76" column="112" />
-      </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpEsOutBolt.kt" timestamp="1510803648901">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-sources.jar!/org/slf4j/Logger.java" timestamp="1510800541961">
         <mark key="'" line="63" column="17" />
@@ -253,11 +247,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511226681586">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511253171684">
+        <mark key="'" line="40" column="47" />
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/MediaMap.kt" timestamp="1510538653410">
         <mark key="'" line="5" column="0" />
@@ -333,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" />
       <jump line="136" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="170" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="166" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
@@ -433,25 +427,26 @@
       <jump line="567" column="11" filename="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.5/commons-lang-2.5-sources.jar!/org/apache/commons/lang/builder/HashCodeBuilder.java" />
       <jump line="17" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" />
       <jump line="82" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdInfo.kt" />
+      <jump line="40" column="47" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Aggregator</text>
       </register>
       <register name="-" type="4">
-        <text>StringBuilder</text>
+        <text>Aggregator</text>
       </register>
       <register name="/" type="4">
         <text>getTransports</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGVuZCh3aWR0aCkKICAgICAgICAgICAgLmFwcGVuZChoZWlnaHQpCiAgICAgICAgICAgIC5hcHBlbmRTdXBlcihzdXBlci5oYXNoQ29kZSgpKQogICAgICAgICAgICAudG9IYXNoQ29kZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICdNYWluLUNsYXNzJzogJ0FnZ3JlZ2F0b3InCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICJhbmRyb2lkIiAtPiBPc1R5cGUuQW5kcm9pZAogICAgICAgICAgICAgICAgICAgZWxzZSAgICAgIC0+IE9zVHlwZS5Vbmtub3duCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -460,19 +455,19 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlVua25vd25BZCgpIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkFkSW5mbygpIgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlBhdXNlQWQod2lkdGg9JHdpZHRoLGhlaWdodD0kaGVpZ2h0KSIK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlVua25vd25BZCgpIgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIkJhbm5lckFkKHdpZHRoPSR3aWR0aCxoZWlnaHQ9JGhlaWdodCkiCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gIlBhdXNlQWQod2lkdGg9JHdpZHRoLGhlaWdodD0kaGVpZ2h0KSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
