@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/elasticsearch/EsBoltConfigBuilder.kt" timestamp="1510798159945">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="16" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/utils/DBConfig.kt" timestamp="1510721360986">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="53" />
@@ -32,6 +26,9 @@
         <mark key="]" line="19" column="77" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="119" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1511347239556">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpBolt.kt" timestamp="1511345698717">
         <mark key="'" line="23" column="0" />
@@ -162,12 +159,6 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpEsOutBolt.kt" timestamp="1510803648901">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/github/debop/koda-time/1.2.0/koda-time-1.2.0-sources.jar!/com/github/debop/javatimes/Javatimex.kt" timestamp="1511344385778" />
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/resources/loghub.bid.toml" timestamp="1510711764298">
         <mark key="[" line="9" column="0" />
@@ -181,11 +172,11 @@
         <mark key="." line="42" column="42" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1511331133028">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1511347010200">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/SqlDemo.kt" timestamp="1510558800943">
         <mark key="'" line="11" column="4" />
@@ -206,12 +197,6 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/Parser.kt" timestamp="1511264460259">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/utils/LogFieldMap.kt" timestamp="1510653286124">
         <mark key="[" line="32" column="62" />
         <mark key="]" line="32" column="64" />
@@ -229,12 +214,6 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/enums/AdType.kt" timestamp="1511260087239">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpFileOutBolt.kt" timestamp="1510803654281">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="77" />
@@ -245,11 +224,10 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511345786129">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="28" column="66" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511345990128">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
         <mark key="'" line="54" column="26" />
@@ -271,12 +249,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/youku/Parser.kt" timestamp="1511331273269">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/youku/Parser.kt" timestamp="1511347197149">
         <mark key="'" line="27" column="38" />
-        <mark key="[" line="24" column="93" />
-        <mark key="]" line="24" column="94" />
-        <mark key="." line="24" column="94" />
-        <mark key="^" line="108" column="54" />
+        <mark key="[" line="108" column="51" />
+        <mark key="]" line="108" column="59" />
+        <mark key="." line="108" column="59" />
+        <mark key="^" line="108" column="59" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" timestamp="1510826508340">
         <mark key="'" line="0" column="0" />
@@ -284,6 +262,12 @@
         <mark key="]" line="11" column="81" />
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1511346882878">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="41" column="41" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="19" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510721900831">
         <mark key="'" line="129" column="11" />
@@ -307,12 +291,12 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" timestamp="1511333296401">
-        <mark key="'" line="86" column="1" />
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" timestamp="1511346095525">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="72" column="42" />
+        <mark key="." line="72" column="42" />
+        <mark key="^" line="72" column="42" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseExpEsOutBolt.kt" timestamp="1510710293144">
         <mark key="[" line="10" column="111" />
@@ -329,10 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
-      <jump line="95" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
-      <jump line="96" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
-      <jump line="97" column="12" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="99" column="11" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="115" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
       <jump line="53" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" />
@@ -429,46 +409,52 @@
       <jump line="39" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" />
       <jump line="20" column="50" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" />
       <jump line="23" column="49" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" />
+      <jump line="33" column="4" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" />
+      <jump line="73" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" />
+      <jump line="20" column="29" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" />
+      <jump line="21" column="19" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIExpc3Q8Kj4/</text>
+        <text>i[&quot;discount&quot;].nullDouble,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIExpc3Q8Kj4/</text>
+        <text>i[&quot;discount&quot;].nullDouble,</text>
       </register>
       <register name="/" type="4">
         <text>expirationSecs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoaW5wdXQuc291cmNlQ29tcG9uZW50KSB7CiAgICAgICAgICAgICAgICByZXFTb3VyY2UgLT4gYnVja2V0cy5tZXJnZShrLCBJbmRpY2F0b3IocmVxID0gdiksIHsgb2xkLCBuZXcgLT4gb2xkICsgbmV3IH0pCiAgICAgICAgICAgICAgICByZXNTb3VyY2UgLT4gYnVja2V0cy5tZXJnZShrLCBJbmRpY2F0b3IocmVzID0gdiksIHsgb2xkLCBuZXcgLT4gb2xkICsgbmV3IH0pCiAgICAgICAgICAgICAgICBpbXBTb3VyY2UgLT4gYnVja2V0cy5tZXJnZShrLCBJbmRpY2F0b3IoaW1wID0gdiksIHsgb2xkLCBuZXcgLT4gb2xkICsgbmV3IH0pCiAgICAgICAgICAgICAgICBjbGtTb3VyY2UgLT4gYnVja2V0cy5tZXJnZShrLCBJbmRpY2F0b3IoY2xrID0gdiksIHsgb2xkLCBuZXcgLT4gb2xkICsgbmV3IH0pCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wU291cmNlIC0+IGJ1Y2tldHMubWVyZ2UoaywgSW5kaWNhdG9yKGltcCA9IHYpLCB7IG9sZCwgbmV3IC0+IG9sZCArIG5ldyB9KQogICAgICAgICAgICBjbGtTb3VyY2UgLT4gYnVja2V0cy5tZXJnZShrLCBJbmRpY2F0b3IoY2xrID0gdiksIHsgb2xkLCBuZXcgLT4gb2xkICsgbmV3IH0pCg==</text>
+        <text encoding="base64">b3BlbiBjbGFzcyBSY3ZTbG90KGlkOiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBhZEluZm86IEFkSW5mbywKICAgICAgICAgICAgICAgICAgIGJpZEZsb29yOiBJbnQsCiAgICAgICAgICAgICAgICAgICB2YWwgc2V0dGxlOiBJbnQ/LCAvLyBBZHjnu5Pnrpfku7cKICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQogICAgICAgICAgICAgICAgICAgdmFsIGRpc2NvdW50OiBEb3VibGU/LAogICAgICAgICAgICAgICAgICAgdmFsIHVzZXJJZDogSW50PywKICAgICAgICAgICAgICAgICAgIHZhbCBwbGFuSWQ6IEludD8sCiAgICAgICAgICAgICAgICAgICB2YWwgdW5pdElkOiBJbnQ/LAogICAgICAgICAgICAgICAgICAgdmFsIGlkZWFJZDogSW50PywKICAgICAgICAgICAgICAgICAgIHZhbCBhc3NldElkOiBJbnQ/CiAgICAgICAgICAgICAgICAgICkgOiBBZFNsb3QoaWQsIGFkSW5mbywgYmlkRmxvb3IpIHsKICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBmcm9tUmVzU2xvdChyZXNTbG90OiBSZXNTbG90KTogUmN2U2xvdCB7CiAgICAgICAgICAgIHJldHVybiBSY3ZTbG90KGlkID0gcmVzU2xvdC5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRJbmZvID0gcmVzU2xvdC5hZEluZm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpZEZsb29yID0gcmVzU2xvdC5iaWRGbG9vciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY291bnQgPSByZXNTbG90LmRpc2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VySWQgPSByZXNTbG90LnVzZXJJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbklkID0gcmVzU2xvdC5wbGFuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXRJZCA9IHJlc1Nsb3QudW5pdElkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBpZGVhSWQgPSByZXNTbG90LmlkZWFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXRJZCA9IHJlc1Nsb3QuYXNzZXRJZAogICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>val appId: String?,
+                   val appName: String?,
+                   val userAgent: String?</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdG9yLmVtaXQocmVzU3RyZWFtLCBpbnB1dCwgVmFsdWVzKGJhc2ljLCByZXNTbG90cykpCiAgICAgICAgICAgIGNvbGxlY3Rvci5lbWl0KHNsb3RTdHJlYW0sIGlucHV0LCBWYWx1ZXMocmVzU2xvdHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIE5PVEU6IOi/lOWbnuWAvOS4ukVwb2NoIE1pbGxpc2Vjb25kcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBzZXR0bGU6IEludD8sIC8vIEFkeOe7k+eul+S7two=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiAKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlID0gcmVzU2xvdC5jCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNTbG90Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vQAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEJ1aWxkZXIgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZhbC8vZw==</text>
