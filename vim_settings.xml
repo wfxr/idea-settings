@@ -263,11 +263,11 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1511346882878">
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="41" column="41" />
-        <mark key="^" line="39" column="18" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/BasicInfo.kt" timestamp="1511347744091">
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="47" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="41" column="48" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1510721900831">
         <mark key="'" line="129" column="11" />
@@ -291,12 +291,12 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" timestamp="1511346095525">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="72" column="42" />
-        <mark key="." line="72" column="42" />
-        <mark key="^" line="72" column="42" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" timestamp="1511348006567">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
+        <mark key="^" line="34" column="40" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseExpEsOutBolt.kt" timestamp="1510710293144">
         <mark key="[" line="10" column="111" />
@@ -416,45 +416,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i[&quot;discount&quot;].nullDouble,</text>
+        <text>parse</text>
       </register>
       <register name="-" type="4">
-        <text>i[&quot;discount&quot;].nullDouble,</text>
+        <text>parse</text>
       </register>
       <register name="/" type="4">
         <text>expirationSecs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBhcHBJZDogU3RyaW5nPywKICAgICAgICAgICAgICAgICAgIHZhbCBhcHBOYW1lOiBTdHJpbmc/LAogICAgICAgICAgICAgICAgICAgdmFsIHVzZXJBZ2VudDogU3RyaW5nPwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly9mdW4gYWRJbmZvUGFyc2Uobm9kZTogSnNvbk9iamVjdCkgPQovLyAgICAgICAgd2hlbiAobm9kZVsiYXNzZXRUeXBlIl0ubnVsbFN0cmluZykgewovLyAgICAgICAgICAgICJiYW5uZXIiIC0+IEJhbm5lckFkKG5vZGVbIndpZHRoIl0ubnVsbEludCwgbm9kZVsiaGVpZ2h0Il0ubnVsbEludCkKLy8gICAgICAgICAgICAidmlkZW8iICAtPiBWaWRlb0FkKG5vZGVbIm1heER1cmF0aW9uIl0ubnVsbEludCkKLy8gICAgICAgICAgICAibmF0aXZlIiAtPiBOYXRpdmVBZCgpCi8vICAgICAgICAgICAgZWxzZSAgICAgLT4gVW5rbm93bkFkCi8vICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNTbG90KGFkSW5mbyA9IGFkSW5mb1BhcnNlKG5vZGUpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaWNlID0gbm9kZVsic2V0dGxlUHJpY2UiXS5udWxsSW50LAogICAgICAgICAgICAgICAgZGlzY291bnQgPSBub2RlWyJkaXNjb3VudCJdLm51bGxEb3VibGUsCiAgICAgICAgICAgICAgICB1c2VySWQgPSBub2RlWyJ1c2VySWQiXS5udWxsSW50LAogICAgICAgICAgICAgICAgcGxhbklkID0gbm9kZVsicGxhbklkIl0ubnVsbEludCwKICAgICAgICAgICAgICAgIHVuaXRJZCA9IG5vZGVbInVuaXRJZCJdLm51bGxJbnQsCiAgICAgICAgICAgICAgICBpZGVhSWQgPSBub2RlWyJpZGVhSWQiXS5udWxsSW50LAogICAgICAgICAgICAgICAgYXNzZXRJZCA9IG5vZGVbImFzc2V0c0lkIl0ubnVsbEludCwKICAgICAgICAgICAgICAgIGNoYXJnZSA9IG5vZGVbImNoYXJnZVByaWNlIl0ubnVsbEludCwKICAgICAgICAgICAgICAgIGFwcElkID0gbm9kZVsiYXBwSWQiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgYXBwTmFtZSA9IG5vZGVbImFwcE5hbWUiXS5udWxsU3RyaW5nLAogICAgICAgICAgICAgICAgdXNlckFnZW50ID0gbm9kZVsidXNlckFnZW50Il0ubnVsbFN0cmluZykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhcHBJZCA9IGNvcmVbImFwcElkIl0uc3RyaW5nCiAgICAgICAgYXBwTmFtZTogU3RyaW5nPywKICAgICAgICB1c2VyQWdlbnQ6IFN0cmluZz8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">b3BlbiBjbGFzcyBSY3ZTbG90KGlkOiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICBhZEluZm86IEFkSW5mbywKICAgICAgICAgICAgICAgICAgIGJpZEZsb29yOiBJbnQsCiAgICAgICAgICAgICAgICAgICB2YWwgc2V0dGxlOiBJbnQ/LCAvLyBBZHjnu5Pnrpfku7cKICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQogICAgICAgICAgICAgICAgICAgdmFsIGRpc2NvdW50OiBEb3VibGU/LAogICAgICAgICAgICAgICAgICAgdmFsIHVzZXJJZDogSW50PywKICAgICAgICAgICAgICAgICAgIHZhbCBwbGFuSWQ6IEludD8sCiAgICAgICAgICAgICAgICAgICB2YWwgdW5pdElkOiBJbnQ/LAogICAgICAgICAgICAgICAgICAgdmFsIGlkZWFJZDogSW50PywKICAgICAgICAgICAgICAgICAgIHZhbCBhc3NldElkOiBJbnQ/CiAgICAgICAgICAgICAgICAgICkgOiBBZFNsb3QoaWQsIGFkSW5mbywgYmlkRmxvb3IpIHsKICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGZ1biBmcm9tUmVzU2xvdChyZXNTbG90OiBSZXNTbG90KTogUmN2U2xvdCB7CiAgICAgICAgICAgIHJldHVybiBSY3ZTbG90KGlkID0gcmVzU2xvdC5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRJbmZvID0gcmVzU2xvdC5hZEluZm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpZEZsb29yID0gcmVzU2xvdC5iaWRGbG9vciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY291bnQgPSByZXNTbG90LmRpc2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VySWQgPSByZXNTbG90LnVzZXJJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbklkID0gcmVzU2xvdC5wbGFuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXRJZCA9IHJlc1Nsb3QudW5pdElkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBpZGVhSWQgPSByZXNTbG90LmlkZWFJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXRJZCA9IHJlc1Nsb3QuYXNzZXRJZAogICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>val appId: String?,
                    val appName: String?,
                    val userAgent: String?</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBjaGFyZ2U6IEludD8sIC8vIOW5v+WRiuS4u+iuoei0uQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBzZXR0bGU6IEludD8sIC8vIEFkeOe7k+eul+S7two=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhcmdlID0gcmVzU2xvdC5jCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNTbG90Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEJ1aWxkZXIgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZhbC8vZw==</text>
