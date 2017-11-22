@@ -96,11 +96,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" timestamp="1511331641669">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" timestamp="1511332332563">
+        <mark key="'" line="8" column="118" />
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="61" />
+        <mark key="." line="30" column="61" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/MediaMap.kt" timestamp="1510568681090">
         <mark key="'" line="10" column="4" />
@@ -288,11 +289,10 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdType.kt" timestamp="1511331566460">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdType.kt" timestamp="1511331883412">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseExpEsOutBolt.kt" timestamp="1510710293144">
         <mark key="[" line="10" column="111" />
@@ -382,7 +382,6 @@
       <jump line="38" column="46" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="30" column="15" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="47" column="1" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="10" column="28" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
@@ -409,63 +408,63 @@
       <jump line="22" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpBolt.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
       <jump line="2" column="8" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdType.kt" />
+      <jump line="8" column="118" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIC0+IHsgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>val</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9Vbmtub3duLCBCYW5uZXIsIE5hdGl2ZSwgVmlkZW8sIE92ZXJsYXksIFBhdXNlLCBGdWxsU2NyZWVuLCBPcGVuQXBwLCBVbmtub3duVmlkZW8K</text>
+      <register name="0" type="4">
+        <text encoding="base64">d2hlbiAobGluZWFyaXR5KSB7CiAgICAgICAgMCAgICAtPiBWaWRlb0FkVHlwZS5Vbmtub3duCiAgICAgICAgMSAgICAtPiBWaWRlb0FkVHlwZS5WaWRlbwogICAgICAgIDIgICAgLT4gVmlkZW9BZFR5cGUuT3ZlcmxheQogICAgICAgIDMgICAgLT4gVmlkZW9BZFR5cGUuUGF1c2UKICAgICAgICA0ICAgIC0+IFZpZGVvQWRUeXBlLkZ1bGxTY3JlZW4KICAgICAgICA1ICAgIC0+IFZpZGVvQWRUeXBlLk9wZW5BcHAKICAgICAgICBlbHNlIC0+IFZpZGVvQWRUeXBlLlVua25vd24KICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIC0+IHsgfQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIHN1YlR5cGUgPSB3aGVuIChsaW5lYXJpdHkpIHsKLy8gICAgICAgIDAgICAgLT4gVmlkZW9BZFR5cGUuVW5rbm93bgovLyAgICAgICAgMSAgICAtPiBWaWRlb0FkVHlwZS5WaWRlbwovLyAgICAgICAgMiAgICAtPiBWaWRlb0FkVHlwZS5PdmVybGF5Ci8vICAgICAgICAzICAgIC0+IFZpZGVvQWRUeXBlLlBhdXNlCi8vICAgICAgICA0ICAgIC0+IFZpZGVvQWRUeXBlLkZ1bGxTY3JlZW4KLy8gICAgICAgIDUgICAgLT4gVmlkZW9BZFR5cGUuT3BlbkFwcAovLyAgICAgICAgZWxzZSAtPiBWaWRlb0FkVHlwZS5Vbmtub3duCi8vICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9Vbmtub3duLCBCYW5uZXIsIE5hdGl2ZSwgVmlkZW8sIE92ZXJsYXksIFBhdXNlLCBGdWxsU2NyZWVuLCBPcGVuQXBwLCBVbmtub3duVmlkZW8K</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRTdWJUeXBlKGxpbmVhcml0eTogSW50KSA9IHdoZW4gKGxpbmVhcml0eSkgewogICAgICAgIDAgICAgLT4gVmlkZW9BZFR5cGUuVW5rbm93bgogICAgICAgIDEgICAgLT4gVmlkZW9BZFR5cGUuVmlkZW8KICAgICAgICAyICAgIC0+IFZpZGVvQWRUeXBlLk92ZXJsYXkKICAgICAgICAzICAgIC0+IFZpZGVvQWRUeXBlLlBhdXNlCiAgICAgICAgNCAgICAtPiBWaWRlb0FkVHlwZS5GdWxsU2NyZWVuCiAgICAgICAgNSAgICAtPiBWaWRlb0FkVHlwZS5PcGVuQXBwCiAgICAgICAgZWxzZSAtPiBWaWRlb0FkVHlwZS5Vbmtub3duCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFVua25vCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgIDAgICAgLT4gVmlkZW9BZFR5cGUuVW5rbm93bgogICAgICAgIDEgICAgLT4gVmlkZW9BZFR5cGUuVmlkZW8KICAgICAgICAyICAgIC0+IFZpZGVvQWRUeXBlLk92ZXJsYXkKICAgICAgICAzICAgIC0+IFZpZGVvQWRUeXBlLlBhdXNlCiAgICAgICAgNCAgICAtPiBWaWRlb0FkVHlwZS5GdWxsU2NyZWVuCiAgICAgICAgNSAgICAtPiBWaWRlb0FkVHlwZS5PcGVuQXBwCiAgICAgICAgZWxzZSAtPiBWaWRlb0FkVHlwZS5Vbmtub3duCiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICBzdWJUeXBlID0g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">d2hlbiAobGluZWFyaXR5KSB7CiAgICAgICAgICAgIDAgICAgLT4gVmlkZW9BZFR5cGUuVW5rbm93bgogICAgICAgICAgICAxICAgIC0+IFZpZGVvQWRUeXBlLlZpZGVvCiAgICAgICAgICAgIDIgICAgLT4gVmlkZW9BZFR5cGUuT3ZlcmxheQogICAgICAgICAgICAzICAgIC0+IFZpZGVvQWRUeXBlLlBhdXNlCiAgICAgICAgICAgIDQgICAgLT4gVmlkZW9BZFR5cGUuRnVsbFNjcmVlbgogICAgICAgICAgICA1ICAgIC0+IFZpZGVvQWRUeXBlLk9wZW5BcHAKICAgICAgICAgICAgZWxzZSAtPiBWaWRlb0FkVHlwZS5Vbmtub3duCiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgc3ViVHlwZSA9PSBvdGhlci5zdWJUeXBlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3ZhbC8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>val</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>val</last-pattern>
+      <last-replace />
+      <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>80</entry>
         <entry>failed</entry>
         <entry>request</entry>
         <entry>Bolt</entry>
@@ -485,9 +484,9 @@
         <entry>it\[</entry>
         <entry>basic.</entry>
         <entry>$</entry>
+        <entry>val</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlcS9yZXFBZ2cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0JvbHQvQWdnQm9sZy8=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9yZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcS9pbXAvZw==</entry>
@@ -507,6 +506,7 @@
         <entry encoding="base64">JzwsJz5zL2Jhc2ljLi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3ZhbC8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
