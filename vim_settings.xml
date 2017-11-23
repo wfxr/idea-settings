@@ -269,12 +269,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/youku/Parser.kt" timestamp="1511347197149">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/youku/Parser.kt" timestamp="1511405304973">
         <mark key="'" line="27" column="38" />
-        <mark key="[" line="108" column="51" />
-        <mark key="]" line="108" column="59" />
-        <mark key="." line="108" column="59" />
-        <mark key="^" line="108" column="59" />
+        <mark key="[" line="107" column="35" />
+        <mark key="]" line="107" column="35" />
+        <mark key="." line="107" column="35" />
+        <mark key="^" line="107" column="35" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" timestamp="1510826508340">
         <mark key="'" line="0" column="0" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>it</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
         <text>flat</text>
