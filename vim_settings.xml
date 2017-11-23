@@ -238,11 +238,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511409658785">
-        <mark key="'" line="51" column="70" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="28" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511412273592">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
         <mark key="'" line="54" column="26" />
@@ -424,11 +424,11 @@
       <jump line="59" column="78" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>rcvflat</text>
@@ -437,31 +437,31 @@
         <text encoding="base64">Y29uc3QgdmFsIFJjdkV4cCA9ICJSY3ZFeHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rvci5hY2soaW5wdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0b3IuYWNrKGlucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0LnNvdXJjZUdsb2JhbFN0cmVhbUlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmFzaWMgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIFJjdlByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsb3RzTWFwWyJzamRmaSJdPy5maW5keyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNpYyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHNsb3QgPSBzbG90cy5maW5kIHsgaXQuaWQgPT0gYmFzaWMuc2xvdElkIH0KICAgICAgICAgICAgICAgICAgICBpZiAoc2xvdCAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICBlbWl0KGJhc2ljLCBzbG90KQovLyAgICAgICAgICAgICAgICAgICAgcmN2Q2FjaGUucmVtb3ZlKGJpZExvZ0lkKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IgeyAiTG9nSWQgbWF0Y2hlZCBidXQgc2xvdElkIG5vdCBmb3VuZDogbG9naWQ9JGJpZExvZ0lkLCBzbG90SWQ9JHtiYXNpYy5zbG90SWR9IiB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0LnNvdXJjZUdsb2JhbFN0cmVhbUlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImRlZmF1bHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmVhbUlkOiBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0cmVhbUlkOiBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcFN0cmVhbS4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5x</text>
