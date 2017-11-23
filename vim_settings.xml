@@ -57,12 +57,12 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1511409526983">
-        <mark key="'" line="59" column="78" />
-        <mark key="[" line="59" column="72" />
-        <mark key="]" line="59" column="72" />
-        <mark key="^" line="58" column="63" />
-        <mark key="." line="59" column="72" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1511421432568">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="18" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="70" column="18" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/PreExpBolt.kt" timestamp="1511407638274">
         <mark key="'" line="37" column="0" />
@@ -322,13 +322,6 @@
       <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/loghub-storm-1.0-spout/0.1.2/loghub-storm-1.0-spout-0.1.2.jar!/com/aliyun/openservices/loghub/stormspout/LogHubSpoutConfig.class" timestamp="1511405445221" />
     </filemarks>
     <jumps>
-      <jump line="133" column="89" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
-      <jump line="135" column="50" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
-      <jump line="172" column="54" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
-      <jump line="173" column="54" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.3/elasticsearch-5.6.3-sources.jar!/org/elasticsearch/client/transport/TransportClient.java" />
-      <jump line="45" column="83" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" />
-      <jump line="8" column="17" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" />
-      <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/resources/fieldmap.db.toml" />
       <jump line="28" column="30" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
@@ -422,13 +415,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="25" column="67" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="59" column="78" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="37" column="18" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="48" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="63" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="66" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
+      <jump line="76" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>END_CURSOR</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>END_CURSOR</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>rcvflat</text>
@@ -437,31 +437,31 @@
         <text encoding="base64">Y29uc3QgdmFsIFJjdkV4cCA9ICJSY3ZFeHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBSZXNTbG90KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNwZWVkIHJlcG9ydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRJbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAvLyBhZ2dyIHBhcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5ZyobG9nSWTljLnphY3ogIxzbG90SWTkuI3ljLnphY3nmoTmg4XlhrXkuIvvvIzmmK/lkKbkuI3muIXpmaRyY3ZDYWNoZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJjdiBwYXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJpZCBwYXJ0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1pdCh0aGlzLCBzbG90KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBSZXNTbG90KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRJbmZvKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5ZyobG9nSWTljLnphY3ogIxzbG90SWTkuI3ljLnphY3nmoTmg4XlhrXkuIvvvIzmmK/lkKbkuI3muIXpmaRyY3ZDYWNoZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yIHsgIkxvZ0lkIG1hdGNoZWQgYnV0IHNsb3RJZCBub3QgZm91bmQ6IGxvZ2lkPSRiaWRMb2dJZCwgc2xvdElkPSRzbG90SWQiIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmN2Q2FjaGUucmVtb3ZlKGJpZExvZ0lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1pdCh0aGlzLCBzbG90KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
