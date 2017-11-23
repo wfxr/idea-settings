@@ -186,11 +186,11 @@
         <mark key="^" line="35" column="43" />
         <mark key="." line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1511347010200">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="45" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/AdSlot.kt" timestamp="1511414568753">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/SqlDemo.kt" timestamp="1510558800943">
         <mark key="'" line="11" column="4" />
@@ -238,11 +238,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511412273592">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="49" column="57" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511414662645">
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="64" />
+        <mark key="." line="54" column="64" />
+        <mark key="^" line="54" column="64" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
         <mark key="'" line="54" column="26" />
@@ -425,7 +425,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBSZXNTbG90KCkK</text>
       </register>
       <register name="-" type="4">
         <text>this.</text>
@@ -437,34 +437,34 @@
         <text encoding="base64">Y29uc3QgdmFsIFJjdkV4cCA9ICJSY3ZFeHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBSZXNTbG90KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWRJbmZvKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmFzaWMgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5ZyobG9nSWTljLnphY3ogIxzbG90SWTkuI3ljLnphY3nmoTmg4XlhrXkuIvvvIzmmK/lkKbkuI3muIXpmaRyY3ZDYWNoZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNpYyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHNsb3QgPSBzbG90cy5maW5kIHsgaXQuaWQgPT0gYmFzaWMuc2xvdElkIH0KICAgICAgICAgICAgICAgICAgICBpZiAoc2xvdCAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICBlbWl0KGJhc2ljLCBzbG90KQovLyAgICAgICAgICAgICAgICAgICAgcmN2Q2FjaGUucmVtb3ZlKGJpZExvZ0lkKQogICAgICAgICAgICAgICAgICAgIH0gZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IgeyAiTG9nSWQgbWF0Y2hlZCBidXQgc2xvdElkIG5vdCBmb3VuZDogbG9naWQ9JGJpZExvZ0lkLCBzbG90SWQ9JHtiYXNpYy5zbG90SWR9IiB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW1pdCh0aGlzLCBzbG90KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yIHsgIkxvZ0lkIG1hdGNoZWQgYnV0IHNsb3RJZCBub3QgZm91bmQ6IGxvZ2lkPSRiaWRMb2dJZCwgc2xvdElkPSRzbG90SWQiIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcFN0cmVhbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmN2Q2FjaGUucmVtb3ZlKGJpZExvZ0lkKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -518,8 +518,8 @@
         <entry encoding="base64">JzwsJz5zL2NvcmUvaXQvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLz0gbnVsbC8vZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
