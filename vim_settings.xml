@@ -238,11 +238,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511414662645">
-        <mark key="[" line="54" column="65" />
-        <mark key="]" line="54" column="64" />
-        <mark key="." line="54" column="64" />
-        <mark key="^" line="54" column="64" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpBolt.kt" timestamp="1511420622865">
+        <mark key="[" line="48" column="44" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
+        <mark key="^" line="47" column="51" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
         <mark key="'" line="54" column="26" />
@@ -285,11 +285,11 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1511408742198">
-        <mark key="[" line="65" column="64" />
-        <mark key="]" line="65" column="64" />
-        <mark key="." line="65" column="64" />
-        <mark key="^" line="65" column="78" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/Starter.kt" timestamp="1511420702157">
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="55" />
+        <mark key="." line="64" column="55" />
+        <mark key="^" line="64" column="55" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/Config.kt" timestamp="1511407739888">
         <mark key="'" line="52" column="45" />
@@ -424,11 +424,11 @@
       <jump line="59" column="78" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBSZXNTbG90KCkK</text>
+      <register name="&quot;" type="4">
+        <text>END_CURSOR</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>END_CURSOR</text>
       </register>
       <register name="/" type="4">
         <text>rcvflat</text>
