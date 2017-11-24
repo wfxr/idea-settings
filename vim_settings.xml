@@ -77,7 +77,8 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/BannerAd.kt" timestamp="1511504609592">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/BannerAd.kt" timestamp="1511508111578">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="6" column="90" />
         <mark key="]" line="6" column="95" />
         <mark key="." line="6" column="95" />
@@ -330,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
@@ -430,6 +430,7 @@
       <jump line="66" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="76" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/AdInfo.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/BannerAd.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
