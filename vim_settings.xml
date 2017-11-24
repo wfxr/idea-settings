@@ -135,11 +135,11 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseAggBolt.kt" timestamp="1511344596951">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="37" />
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseAggBolt.kt" timestamp="1511498991767">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/develop/youku-parser/src/main/kotlin/parser.kt" timestamp="1510645901055">
         <mark key="'" line="59" column="22" />
@@ -167,7 +167,6 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/loghub-client-lib/0.6.7/loghub-client-lib-0.6.7.jar!/com/aliyun/openservices/loghub/client/config/LogHubCursorPosition.class" timestamp="1511405341967" />
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/resources/loghub.bid.toml" timestamp="1510711764298">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="50" />
@@ -319,7 +318,6 @@
         <mark key="." line="45" column="82" />
         <mark key="^" line="45" column="117" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/aliyun/openservices/loghub-storm-1.0-spout/0.1.2/loghub-storm-1.0-spout-0.1.2.jar!/com/aliyun/openservices/loghub/stormspout/LogHubSpoutConfig.class" timestamp="1511405445221" />
     </filemarks>
     <jumps>
       <jump line="28" column="30" filename="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" />
@@ -425,10 +423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>留</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>留</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>dspagg</text>
