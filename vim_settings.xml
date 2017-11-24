@@ -24,6 +24,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/PCPauseAd.kt" timestamp="1511512035386">
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/rcv/ExpEsOutBolt.kt" timestamp="1510803663047">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="77" />
@@ -51,10 +56,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="49" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/NativeAd.kt" timestamp="1511504615474">
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/NativeAd.kt" timestamp="1511511912370">
         <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/test/kotlin/MediaMap.kt" timestamp="1510568681090">
         <mark key="'" line="10" column="4" />
@@ -62,6 +68,12 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/NativeAd.kt" timestamp="1511512030021">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/MainTopology.kt" timestamp="1511423139222">
         <mark key="'" line="76" column="0" />
@@ -91,6 +103,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="45" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/BannerAd.kt" timestamp="1511512062415">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="70" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseFileOutBolt.kt" timestamp="1510710443612">
         <mark key="[" line="40" column="102" />
         <mark key="]" line="41" column="51" />
@@ -117,11 +135,6 @@
         <mark key="]" line="69" column="30" />
         <mark key="." line="69" column="30" />
         <mark key="^" line="69" column="30" />
-      </file>
-      <file name="/fragment.kt" timestamp="1511407400409">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/develop/youku-parser/build.gradle" timestamp="1511252788915">
         <mark key="'" line="23" column="27" />
@@ -155,6 +168,10 @@
         <mark key="]" line="60" column="27" />
         <mark key="." line="60" column="27" />
         <mark key="^" line="60" column="27" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/youku/VideoAd.kt" timestamp="1511512214795">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/enums/ConfigType.kt" timestamp="1510708944849">
         <mark key="[" line="0" column="30" />
@@ -218,6 +235,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/IQiyiAd.kt" timestamp="1511512522247">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/utils/LogFieldMap.kt" timestamp="1510653286124">
         <mark key="[" line="32" column="62" />
         <mark key="]" line="32" column="64" />
@@ -236,6 +259,12 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/enums/AdType.kt" timestamp="1511511699618">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
+        <mark key="^" line="11" column="69" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/bid/ExpFileOutBolt.kt" timestamp="1510803654281">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="77" />
@@ -248,12 +277,21 @@
         <mark key="." line="48" column="44" />
         <mark key="^" line="47" column="51" />
       </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/MobilePauseAd.kt" timestamp="1511512447976">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/bid/Parser.kt" timestamp="1511258582728">
         <mark key="'" line="54" column="26" />
         <mark key="[" line="60" column="94" />
         <mark key="]" line="62" column="41" />
         <mark key="^" line="62" column="41" />
         <mark key="." line="62" column="57" />
+      </file>
+      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/iqiyi/IQiyi.kt" timestamp="1511511988411">
+        <mark key="[" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/entity/MediaMap.kt" timestamp="1510538653410">
         <mark key="'" line="5" column="0" />
@@ -295,12 +333,6 @@
         <mark key="." line="64" column="55" />
         <mark key="^" line="64" column="55" />
       </file>
-      <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/topology/Config.kt" timestamp="1511407739888">
-        <mark key="'" line="52" column="45" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/parser/rcv/youku/Parser.kt" timestamp="1511407343224">
         <mark key="[" line="70" column="23" />
         <mark key="]" line="70" column="23" />
@@ -319,8 +351,10 @@
         <mark key="." line="10" column="125" />
         <mark key="^" line="10" column="125" />
       </file>
-      <file name="/fragment.java" timestamp="1511503885172">
+      <file name="/fragment.java" timestamp="1511511947399">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/develop/log-polymerizer/src/main/kotlin/org/zmeng/storm/bolt/BaseEsOutBolt.kt" timestamp="1510814353335">
         <mark key="'" line="45" column="83" />
@@ -434,43 +468,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unknown</text>
+        <text>MobilePauseAd</text>
       </register>
       <register name="-" type="4">
-        <text>Unknown</text>
+        <text>MobilePauseAd</text>
       </register>
       <register name="/" type="4">
         <text>dspagg</text>
       </register>
-      <register name="0" type="4">
-        <text>val type: AdType</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pID0KICAgICAgICAgICAgb3RoZXIgaXMgTW9iaWxlUGF1c2VBZCAmJgogICAgICAgICAgICB3aWR0aCA9PSBvdGhlci53aWR0aCAmJgogICAgICAgICAgICBoZWlnaHQgPT0gb3RoZXIuaGVpZ2h0CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCkgPSBIYXNoQ29kZUJ1aWxkZXIoKQogICAgICAgICAgICAuYXBwZW5kKHdpZHRoKQogICAgICAgICAgICAuYXBwZW5kKGhlaWdodCkKICAgICAgICAgICAgLnRvSGFzaENvZGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zID09IG90aGVyLnBvcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGggPT0gb3RoZXIud2lkdGggJiYKICAgICAgICAgICAgaGVpZ2h0ID09IG90aGVyLmhlaWdodAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGVuZChwb3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0eXBlID0gTmF0aXZlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0eXBlID0gQmFubmVyCg==</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgQmFzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy56bWVuZy5lbnRpdHkuYmFzZS5TdWJUeXBhYmxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFN1YlR5cGFibGUgewogICAgdmFsIHR5cGU6IEFkVHlwZQogICAgdmFsIHN1YlR5cGU6IEFkU3ViVHlwZQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zID09IG90aGVyLnBvcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGVuZChwb3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0eXBlID0gVmlkZW8K</text>
+        <text encoding="base64">ICAgIHZhbCB0eXBlID0gTmF0aXZlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0eXBlID0gQmFubmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
